@@ -43,6 +43,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-04**|**AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis**|Susan Liang et.al.|[2302.02088v1](http://arxiv.org/abs/2302.02088v1)|null|
 |**2023-02-03**|**Semantic 3D-aware Portrait Synthesis and Manipulation Based on Compositional Neural Radiance Field**|Tianxiang Ma et.al.|[2302.01579v1](http://arxiv.org/abs/2302.01579v1)|null|
 |**2023-02-03**|**Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**|Hwan Heo et.al.|[2302.01571v1](http://arxiv.org/abs/2302.01571v1)|null|
 |**2023-02-03**|**INV: Towards Streaming Incremental Neural Videos**|Shengze Wang et.al.|[2302.01532v1](http://arxiv.org/abs/2302.01532v1)|null|
@@ -72,5 +73,4 @@ layout: default
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|[2212.11966v1](http://arxiv.org/abs/2212.11966v1)|null|
 |**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950v1](http://arxiv.org/abs/2212.10950v1)|null|
 |**2022-12-21**|**PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields**|Zhengfei Kuang et.al.|[2212.10699v2](http://arxiv.org/abs/2212.10699v2)|null|
-|**2022-12-19**|**Correspondence Distillation from NeRF-based GAN**|Yushi Lan et.al.|[2212.09735v2](http://arxiv.org/abs/2212.09735v2)|null|
 
