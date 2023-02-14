@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-12**|**A Correct-and-Certify Approach to Self-Supervise Object Pose Estimators via Ensemble Self-Training**|Jingnan Shi et.al.|[2302.06019v1](http://arxiv.org/abs/2302.06019v1)|null|
 |**2023-02-07**|**3D Neural Embedding Likelihood for Robust Sim-to-Real Transfer in Inverse Graphics**|Guangyao Zhou et.al.|[2302.03744v1](http://arxiv.org/abs/2302.03744v1)|null|
 |**2023-01-31**|**Collision-aware In-hand 6D Object Pose Estimation using Multiple Vision-based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2301.13667v1](http://arxiv.org/abs/2301.13667v1)|null|
 |**2023-01-18**|**OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models**|Xingyi He et.al.|[2301.07673v1](http://arxiv.org/abs/2301.07673v1)|null|
@@ -37,12 +38,13 @@ layout: default
 |**2022-10-14**|**Keypoint Cascade Voting for Point Cloud Based 6DoF Pose Estimation**|Yangzheng Wu et.al.|[2210.08123v1](http://arxiv.org/abs/2210.08123v1)|**[link](https://github.com/aaronwool/rcvpose3d)**|
 |**2022-10-13**|**Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild**|Kaifeng Zhang et.al.|[2210.07199v1](http://arxiv.org/abs/2210.07199v1)|null|
 |**2022-10-12**|**Estimating the Pose of a Euro Pallet with an RGB Camera based on Synthetic Training Data**|Markus Knitt et.al.|[2210.06001v1](http://arxiv.org/abs/2210.06001v1)|null|
-|**2022-10-11**|**CASAPose: Class-Adaptive and Semantic-Aware Multi-Object Pose Estimation**|Niklas Gard et.al.|[2210.05318v3](http://arxiv.org/abs/2210.05318v3)|**[link](https://github.com/fraunhoferhhi/casapose)**|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608v1](http://arxiv.org/abs/2302.06608v1)|null|
+|**2023-02-11**|**3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**|Bo Li et.al.|[2302.05573v1](http://arxiv.org/abs/2302.05573v1)|null|
 |**2023-02-08**|**Nerfstudio: A Modular Framework for Neural Radiance Field Development**|Matthew Tancik et.al.|[2302.04264v1](http://arxiv.org/abs/2302.04264v1)|null|
 |**2023-02-04**|**AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis**|Susan Liang et.al.|[2302.02088v2](http://arxiv.org/abs/2302.02088v2)|null|
 |**2023-02-03**|**Semantic 3D-aware Portrait Synthesis and Manipulation Based on Compositional Neural Radiance Field**|Tianxiang Ma et.al.|[2302.01579v1](http://arxiv.org/abs/2302.01579v1)|null|
@@ -71,6 +73,4 @@ layout: default
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v2](http://arxiv.org/abs/2301.00411v2)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|null|
 |**2022-12-25**|**PaletteNeRF: Palette-based Color Editing for NeRFs**|Qiling Wu et.al.|[2212.12871v1](http://arxiv.org/abs/2212.12871v1)|null|
-|**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|[2212.11966v1](http://arxiv.org/abs/2212.11966v1)|null|
-|**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950v1](http://arxiv.org/abs/2212.10950v1)|null|
 
