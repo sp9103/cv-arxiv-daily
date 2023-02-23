@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-22**|**Fusing Visual Appearance and Geometry for Multi-modality 6DoF Object Tracking**|Manuel Stoiber et.al.|[2302.11458v1](http://arxiv.org/abs/2302.11458v1)|**[link](https://github.com/dlr-rm/3dobjecttracking)**|
 |**2023-02-14**|**Self-supervised learning of object pose estimation using keypoint prediction**|Zahra Gharaee et.al.|[2302.07360v2](http://arxiv.org/abs/2302.07360v2)|null|
 |**2023-02-14**|**MSDA: Monocular Self-supervised Domain Adaptation for 6D Object Pose Estimation**|Dingding Cai et.al.|[2302.07300v1](http://arxiv.org/abs/2302.07300v1)|null|
 |**2023-02-14**|**Model-Based Underwater 6D Pose Estimation from RGB**|Davide Sapienza et.al.|[2302.06821v1](http://arxiv.org/abs/2302.06821v1)|null|
@@ -37,7 +38,6 @@ layout: default
 |**2022-10-24**|**Video based Object 6D Pose Estimation using Transformers**|Apoorva Beedu et.al.|[2210.13540v2](http://arxiv.org/abs/2210.13540v2)|**[link](https://github.com/apoorvabeedu/videopose)**|
 |**2022-10-22**|**A Flexible-Frame-Rate Vision-Aided Inertial Object Tracking System for Mobile Devices**|Yo-Chung Lau et.al.|[2210.12476v1](http://arxiv.org/abs/2210.12476v1)|null|
 |**2022-10-21**|**CRT-6D: Fast 6D Object Pose Estimation with Cascaded Refinement Transformers**|Pedro Castro et.al.|[2210.11718v1](http://arxiv.org/abs/2210.11718v1)|**[link](https://github.com/pedrocastro/crt-6d)**|
-|**2022-10-18**|**Virtual Reality via Object Pose Estimation and Active Learning: Realizing Telepresence Robots with Aerial Manipulation Capabilities**|Jongseok Lee et.al.|[2210.09678v2](http://arxiv.org/abs/2210.09678v2)|null|
 
 ## NeRF
 
