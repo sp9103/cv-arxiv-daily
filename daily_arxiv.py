@@ -180,7 +180,7 @@ if __name__ == "__main__":
     
     keywords = dict()
     keywords["6DOF Object Pose"] = "\"Object Pose Estimation\"OR\"object 6D pose estimation\""
-    keywords["NeRF"] = "\"NeRF\""
+    keywords["NeRF"] = "\"NeRF\"OR\"Radiance Fields\""
 
     
 
