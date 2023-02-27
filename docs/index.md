@@ -43,15 +43,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-23**|**MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes**|Christian Reiser et.al.|[2302.12249v1](http://arxiv.org/abs/2302.12249v1)|null|
 |**2023-02-23**|**Learning Neural Volumetric Representations of Dynamic Humans in Minutes**|Chen Geng et.al.|[2302.12237v2](http://arxiv.org/abs/2302.12237v2)|null|
 |**2023-02-23**|**DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**|Jamie Wynn et.al.|[2302.12231v1](http://arxiv.org/abs/2302.12231v1)|null|
+|**2023-02-21**|**Differentiable Rendering with Reparameterized Volume Sampling**|Nikita Morozov et.al.|[2302.10970v1](http://arxiv.org/abs/2302.10970v1)|**[link](https://github.com/greatdrake/reparameterized-volume-sampling)**|
+|**2023-02-21**|**RealFusion: 360° Reconstruction of Any Object from a Single Image**|Luke Melas-Kyriazi et.al.|[2302.10663v2](http://arxiv.org/abs/2302.10663v2)|null|
+|**2023-02-21**|**USR: Unsupervised Separated 3D Garment and Human Reconstruction via Geometry and Semantic Consistency**|Yue Shi et.al.|[2302.10518v2](http://arxiv.org/abs/2302.10518v2)|null|
 |**2023-02-20**|**NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion**|Jiatao Gu et.al.|[2302.10109v1](http://arxiv.org/abs/2302.10109v1)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486v1](http://arxiv.org/abs/2302.09486v1)|null|
+|**2023-02-18**|**Temporal Interpolation Is All You Need for Dynamic Neural Radiance Fields**|Sungheon Park et.al.|[2302.09311v1](http://arxiv.org/abs/2302.09311v1)|null|
 |**2023-02-17**|**MixNeRF: Modeling a Ray with Mixture Density for Novel View Synthesis from Sparse Inputs**|Seunghyeon Seo et.al.|[2302.08788v1](http://arxiv.org/abs/2302.08788v1)|null|
+|**2023-02-16**|**3D-aware Conditional Image Synthesis**|Kangle Deng et.al.|[2302.08509v1](http://arxiv.org/abs/2302.08509v1)|**[link](https://github.com/dunbar12138/pix2pix3d)**|
+|**2023-02-15**|**LiveHand: Real-time and Photorealistic Neural Hand Rendering**|Akshay Mundra et.al.|[2302.07672v1](http://arxiv.org/abs/2302.07672v1)|null|
+|**2023-02-14**|**Painting 3D Nature in 2D: View Synthesis of Natural Scenes from a Single Semantic Mask**|Shangzhan Zhang et.al.|[2302.07224v1](http://arxiv.org/abs/2302.07224v1)|null|
 |**2023-02-14**|**VQ3D: Learning a 3D-Aware Generative Model on ImageNet**|Kyle Sargent et.al.|[2302.06833v1](http://arxiv.org/abs/2302.06833v1)|null|
 |**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608v1](http://arxiv.org/abs/2302.06608v1)|null|
 |**2023-02-11**|**3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**|Bo Li et.al.|[2302.05573v1](http://arxiv.org/abs/2302.05573v1)|null|
+|**2023-02-09**|**In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition**|Yiran Xu et.al.|[2302.04871v1](http://arxiv.org/abs/2302.04871v1)|null|
 |**2023-02-08**|**Nerfstudio: A Modular Framework for Neural Radiance Field Development**|Matthew Tancik et.al.|[2302.04264v1](http://arxiv.org/abs/2302.04264v1)|null|
+|**2023-02-07**|**AniPixel: Towards Animatable Pixel-Aligned Human Avatar**|Jinlong Fan et.al.|[2302.03397v1](http://arxiv.org/abs/2302.03397v1)|null|
 |**2023-02-04**|**AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis**|Susan Liang et.al.|[2302.02088v2](http://arxiv.org/abs/2302.02088v2)|null|
 |**2023-02-03**|**Semantic 3D-aware Portrait Synthesis and Manipulation Based on Compositional Neural Radiance Field**|Tianxiang Ma et.al.|[2302.01579v1](http://arxiv.org/abs/2302.01579v1)|null|
 |**2023-02-03**|**Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**|Hwan Heo et.al.|[2302.01571v1](http://arxiv.org/abs/2302.01571v1)|null|
@@ -63,14 +73,4 @@ layout: default
 |**2023-01-27**|**HyperNeRFGAN: Hypernetwork approach to 3D NeRF GAN**|Adam Kania et.al.|[2301.11631v1](http://arxiv.org/abs/2301.11631v1)|**[link](https://github.com/gmum/hypernerfgan)**|
 |**2023-01-27**|**A Comparison of Tiny-nerf versus Spatial Representations for 3d Reconstruction**|Saulo Abraham Gante et.al.|[2301.11522v1](http://arxiv.org/abs/2301.11522v1)|null|
 |**2023-01-27**|**SNeRL: Semantic-aware Neural Radiance Fields for Reinforcement Learning**|Dongseok Shim et.al.|[2301.11520v1](http://arxiv.org/abs/2301.11520v1)|null|
-|**2023-01-26**|**Text-To-4D Dynamic Scene Generation**|Uriel Singer et.al.|[2301.11280v1](http://arxiv.org/abs/2301.11280v1)|null|
-|**2023-01-26**|**GeCoNeRF: Few-shot Neural Radiance Fields via Geometric Consistency**|Minseop Kwak et.al.|[2301.10941v1](http://arxiv.org/abs/2301.10941v1)|null|
-|**2023-01-23**|**HexPlane: A Fast Representation for Dynamic Scenes**|Ang Cao et.al.|[2301.09632v1](http://arxiv.org/abs/2301.09632v1)|null|
-|**2023-01-22**|**3D Reconstruction of Non-cooperative Resident Space Objects using Instant NGP-accelerated NeRF and D-NeRF**|Trupti Mahendrakar et.al.|[2301.09060v2](http://arxiv.org/abs/2301.09060v2)|null|
-|**2023-01-18**|**NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis**|Allan Zhou et.al.|[2301.08556v1](http://arxiv.org/abs/2301.08556v1)|null|
-|**2023-01-19**|**RecolorNeRF: Layer Decomposed Radiance Fields for Efficient Color Editing of 3D Scenes**|Bingchen Gong et.al.|[2301.07958v2](http://arxiv.org/abs/2301.07958v2)|null|
-|**2023-01-18**|**Behind the Scenes: Density Fields for Single View Reconstruction**|Felix Wimbauer et.al.|[2301.07668v1](http://arxiv.org/abs/2301.07668v1)|null|
-|**2023-01-17**|**A Large-Scale Outdoor Multi-modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction**|Chongshan Lu et.al.|[2301.06782v1](http://arxiv.org/abs/2301.06782v1)|null|
-|**2023-01-13**|**Laser: Latent Set Representations for 3D Generative Modeling**|Pol Moreno et.al.|[2301.05747v1](http://arxiv.org/abs/2301.05747v1)|null|
-|**2023-01-10**|**Benchmarking Robustness in Neural Radiance Fields**|Chen Wang et.al.|[2301.04075v1](http://arxiv.org/abs/2301.04075v1)|null|
 
