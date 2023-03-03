@@ -1,4 +1,4 @@
-## Updated on 2023.03.02
+## Updated on 2023.03.03
 
 ## 6DOF Object Pose
 
@@ -51,7 +51,7 @@
 |**2023-02-23**|**DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**|Jamie Wynn et.al.|[2302.12231v1](http://arxiv.org/abs/2302.12231v1)|null|
 |**2023-02-21**|**Differentiable Rendering with Reparameterized Volume Sampling**|Nikita Morozov et.al.|[2302.10970v1](http://arxiv.org/abs/2302.10970v1)|**[link](https://github.com/greatdrake/reparameterized-volume-sampling)**|
 |**2023-02-21**|**RealFusion: 360° Reconstruction of Any Object from a Single Image**|Luke Melas-Kyriazi et.al.|[2302.10663v2](http://arxiv.org/abs/2302.10663v2)|null|
-|**2023-02-21**|**USR: Unsupervised Separated 3D Garment and Human Reconstruction via Geometry and Semantic Consistency**|Yue Shi et.al.|[2302.10518v2](http://arxiv.org/abs/2302.10518v2)|null|
+|**2023-02-21**|**USR: Unsupervised Separated 3D Garment and Human Reconstruction via Geometry and Semantic Consistency**|Yue Shi et.al.|[2302.10518v3](http://arxiv.org/abs/2302.10518v3)|null|
 |**2023-02-20**|**NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion**|Jiatao Gu et.al.|[2302.10109v1](http://arxiv.org/abs/2302.10109v1)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486v1](http://arxiv.org/abs/2302.09486v1)|null|
 |**2023-02-18**|**Temporal Interpolation Is All You Need for Dynamic Neural Radiance Fields**|Sungheon Park et.al.|[2302.09311v1](http://arxiv.org/abs/2302.09311v1)|null|
