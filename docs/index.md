@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-07**|**GMCR: Graph-based Maximum Consensus Estimation for Point Cloud Registration**|Michael Gentner et.al.|[2303.04032v1](http://arxiv.org/abs/2303.04032v1)|null|
 |**2023-03-03**|**Depth-based 6DoF Object Pose Estimation using Swin Transformer**|Zhujun Li et.al.|[2303.02133v1](http://arxiv.org/abs/2303.02133v1)|**[link](https://github.com/zhujunli1993/swindepose)**|
-|**2023-02-28**|**Self-Supervised Category-Level Articulated Object Pose Estimation with Part-Level SE(3) Equivariance**|Xueyi Liu et.al.|[2302.14268v1](http://arxiv.org/abs/2302.14268v1)|null|
+|**2023-02-28**|**Self-Supervised Category-Level Articulated Object Pose Estimation with Part-Level SE(3) Equivariance**|Xueyi Liu et.al.|[2302.14268v1](http://arxiv.org/abs/2302.14268v1)|**[link](https://github.com/Meowuu7/equi-articulated-pose)**|
 |**2023-02-25**|**BOP Challenge 2022 on Detection, Segmentation and Pose Estimation of Specific Rigid Objects**|Martin Sundermeyer et.al.|[2302.13075v1](http://arxiv.org/abs/2302.13075v1)|null|
 |**2023-02-24**|**3D Surface Reconstruction in the Wild by Deforming Shape Priors from Synthetic Data**|Nicolai Häni et.al.|[2302.12883v1](http://arxiv.org/abs/2302.12883v1)|null|
 |**2023-02-23**|**Open Challenges for Monocular Single-shot 6D Object Pose Estimation**|Stefan Thalhammer et.al.|[2302.11827v1](http://arxiv.org/abs/2302.11827v1)|null|
