@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-12**|**Module-Wise Network Quantization for 6D Object Pose Estimation**|Saqib Javed et.al.|[2303.06753v1](http://arxiv.org/abs/2303.06753v1)|null|
 |**2023-03-09**|**SpyroPose: Importance Sampling Pyramids for Object Pose Distribution Estimation in SE(3)**|Rasmus Laurvig Haugaard et.al.|[2303.05308v1](http://arxiv.org/abs/2303.05308v1)|null|
 |**2023-03-07**|**GMCR: Graph-based Maximum Consensus Estimation for Point Cloud Registration**|Michael Gentner et.al.|[2303.04032v1](http://arxiv.org/abs/2303.04032v1)|null|
 |**2023-03-03**|**Depth-based 6DoF Object Pose Estimation using Swin Transformer**|Zhujun Li et.al.|[2303.02133v1](http://arxiv.org/abs/2303.02133v1)|**[link](https://github.com/zhujunli1993/swindepose)**|
@@ -33,12 +34,14 @@
 |**2022-11-21**|**Deep Projective Rotation Estimation through Relative Supervision**|Brian Okorn et.al.|[2211.11182v1](http://arxiv.org/abs/2211.11182v1)|null|
 |**2022-11-18**|**A mixed-reality dataset for category-level 6D pose and size estimation of hand-occluded containers**|Xavier Weber et.al.|[2211.10470v1](http://arxiv.org/abs/2211.10470v1)|null|
 |**2022-11-16**|**Interacting Hand-Object Pose Estimation via Dense Mutual Attention**|Rong Wang et.al.|[2211.08805v1](http://arxiv.org/abs/2211.08805v1)|**[link](https://github.com/rongakowang/densemutualattention)**|
-|**2022-11-15**|**Grasping the Inconspicuous**|Hrishikesh Gupta et.al.|[2211.08182v1](http://arxiv.org/abs/2211.08182v1)|null|
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-13**|**NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer**|Kun Zhou et.al.|[2303.06919v1](http://arxiv.org/abs/2303.06919v1)|null|
+|**2023-03-11**|**Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**|Minjae Lee et.al.|[2303.06335v1](http://arxiv.org/abs/2303.06335v1)|null|
+|**2023-03-10**|**NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering**|Wojciech Zając et.al.|[2303.06226v1](http://arxiv.org/abs/2303.06226v1)|null|
 |**2023-03-10**|**Learning Object-Centric Neural Scattering Functions for Free-viewpoint Relighting and Scene Composition**|Hong-Xing Yu et.al.|[2303.06138v1](http://arxiv.org/abs/2303.06138v1)|null|
 |**2023-03-10**|**MVImgNet: A Large-scale Dataset of Multi-view Images**|Xianggang Yu et.al.|[2303.06042v1](http://arxiv.org/abs/2303.06042v1)|null|
 |**2023-03-10**|**You Only Train Once: Multi-Identity Free-Viewpoint Neural Human Rendering from Monocular Videos**|Jaehyeok Kim et.al.|[2303.05835v1](http://arxiv.org/abs/2303.05835v1)|null|
@@ -66,7 +69,4 @@
 |**2023-02-24**|**CATNIPS: Collision Avoidance Through Neural Implicit Probabilistic Scenes**|Timothy Chen et.al.|[2302.12931v1](http://arxiv.org/abs/2302.12931v1)|null|
 |**2023-02-23**|**MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes**|Christian Reiser et.al.|[2302.12249v1](http://arxiv.org/abs/2302.12249v1)|null|
 |**2023-02-23**|**Learning Neural Volumetric Representations of Dynamic Humans in Minutes**|Chen Geng et.al.|[2302.12237v2](http://arxiv.org/abs/2302.12237v2)|null|
-|**2023-02-23**|**DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**|Jamie Wynn et.al.|[2302.12231v1](http://arxiv.org/abs/2302.12231v1)|null|
-|**2023-02-21**|**Differentiable Rendering with Reparameterized Volume Sampling**|Nikita Morozov et.al.|[2302.10970v1](http://arxiv.org/abs/2302.10970v1)|**[link](https://github.com/greatdrake/reparameterized-volume-sampling)**|
-|**2023-02-21**|**RealFusion: 360° Reconstruction of Any Object from a Single Image**|Luke Melas-Kyriazi et.al.|[2302.10663v2](http://arxiv.org/abs/2302.10663v2)|null|
 
