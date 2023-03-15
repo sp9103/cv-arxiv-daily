@@ -1,4 +1,4 @@
-## Updated on 2023.03.14
+## Updated on 2023.03.15
 
 ## 6DOF Object Pose
 
@@ -20,7 +20,7 @@
 |**2023-02-07**|**3D Neural Embedding Likelihood for Robust Sim-to-Real Transfer in Inverse Graphics**|Guangyao Zhou et.al.|[2302.03744v1](http://arxiv.org/abs/2302.03744v1)|null|
 |**2023-01-31**|**Collision-aware In-hand 6D Object Pose Estimation using Multiple Vision-based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2301.13667v1](http://arxiv.org/abs/2301.13667v1)|null|
 |**2023-01-18**|**OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models**|Xingyi He et.al.|[2301.07673v1](http://arxiv.org/abs/2301.07673v1)|null|
-|**2022-12-25**|**TexPose: Neural Texture Learning for Self-Supervised 6D Object Pose Estimation**|Hanzhi Chen et.al.|[2212.12902v1](http://arxiv.org/abs/2212.12902v1)|null|
+|**2022-12-25**|**TexPose: Neural Texture Learning for Self-Supervised 6D Object Pose Estimation**|Hanzhi Chen et.al.|[2212.12902v2](http://arxiv.org/abs/2212.12902v2)|null|
 |**2022-12-20**|**CHAIRS: Towards Full-Body Articulated Human-Object Interaction**|Nan Jiang et.al.|[2212.10621v1](http://arxiv.org/abs/2212.10621v1)|**[link](https://github.com/jnnan/chairs)**|
 |**2022-12-13**|**Accidental Turntables: Learning 3D Pose by Watching Objects Turn**|Zezhou Cheng et.al.|[2212.06300v1](http://arxiv.org/abs/2212.06300v1)|null|
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
@@ -40,14 +40,14 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-03-13**|**NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer**|Kun Zhou et.al.|[2303.06919v1](http://arxiv.org/abs/2303.06919v1)|null|
-|**2023-03-11**|**Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**|Minjae Lee et.al.|[2303.06335v1](http://arxiv.org/abs/2303.06335v1)|null|
-|**2023-03-10**|**NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering**|Wojciech Zając et.al.|[2303.06226v1](http://arxiv.org/abs/2303.06226v1)|null|
+|**2023-03-11**|**Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**|Minjae Lee et.al.|[2303.06335v1](http://arxiv.org/abs/2303.06335v1)|**[link](https://github.com/minjae-lulu/just-flip)**|
+|**2023-03-10**|**NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering**|Wojciech Zając et.al.|[2303.06226v1](http://arxiv.org/abs/2303.06226v1)|**[link](https://github.com/wojtekz4/nerflame)**|
 |**2023-03-10**|**Learning Object-Centric Neural Scattering Functions for Free-viewpoint Relighting and Scene Composition**|Hong-Xing Yu et.al.|[2303.06138v1](http://arxiv.org/abs/2303.06138v1)|null|
 |**2023-03-10**|**MVImgNet: A Large-scale Dataset of Multi-view Images**|Xianggang Yu et.al.|[2303.06042v1](http://arxiv.org/abs/2303.06042v1)|null|
 |**2023-03-10**|**You Only Train Once: Multi-Identity Free-Viewpoint Neural Human Rendering from Monocular Videos**|Jaehyeok Kim et.al.|[2303.05835v1](http://arxiv.org/abs/2303.05835v1)|null|
 |**2023-03-10**|**Aleth-NeRF: Low-light Condition View Synthesis with Concealing Fields**|Ziteng Cui et.al.|[2303.05807v1](http://arxiv.org/abs/2303.05807v1)|null|
 |**2023-03-10**|**Self-NeRF: A Self-Training Pipeline for Few-Shot Neural Radiance Fields**|Jiayang Bai et.al.|[2303.05775v1](http://arxiv.org/abs/2303.05775v1)|null|
-|**2023-03-10**|**Hardware Acceleration of Neural Graphics**|Muhammad Husnain Mubarik et.al.|[2303.05735v1](http://arxiv.org/abs/2303.05735v1)|null|
+|**2023-03-10**|**Hardware Acceleration of Neural Graphics**|Muhammad Husnain Mubarik et.al.|[2303.05735v2](http://arxiv.org/abs/2303.05735v2)|null|
 |**2023-03-10**|**MovingParts: Motion-based 3D Part Discovery in Dynamic Radiance Field**|Kaizhi Yang et.al.|[2303.05703v1](http://arxiv.org/abs/2303.05703v1)|null|
 |**2023-03-09**|**PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification**|Xuan Li et.al.|[2303.05512v1](http://arxiv.org/abs/2303.05512v1)|null|
 |**2023-03-08**|**CROSSFIRE: Camera Relocalization On Self-Supervised Features from an Implicit Representation**|Arthur Moreau et.al.|[2303.04869v1](http://arxiv.org/abs/2303.04869v1)|null|
