@@ -39,6 +39,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**$α$Surf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity**|Tianhao Wu et.al.|[2303.10083v1](http://arxiv.org/abs/2303.10083v1)|null|
+|**2023-03-17**|**Single-view Neural Radiance Fields with Depth Teacher**|Yurui Chen et.al.|[2303.09952v1](http://arxiv.org/abs/2303.09952v1)|null|
 |**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v1](http://arxiv.org/abs/2303.09554v1)|null|
 |**2023-03-16**|**LERF: Language Embedded Radiance Fields**|Justin Kerr et.al.|[2303.09553v1](http://arxiv.org/abs/2303.09553v1)|null|
 |**2023-03-16**|**NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes**|Marie-Julie Rakotosaona et.al.|[2303.09431v1](http://arxiv.org/abs/2303.09431v1)|null|
@@ -67,6 +69,4 @@
 |**2023-03-09**|**PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification**|Xuan Li et.al.|[2303.05512v1](http://arxiv.org/abs/2303.05512v1)|null|
 |**2023-03-08**|**CROSSFIRE: Camera Relocalization On Self-Supervised Features from an Implicit Representation**|Arthur Moreau et.al.|[2303.04869v1](http://arxiv.org/abs/2303.04869v1)|null|
 |**2023-03-08**|**FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning**|Seunghwan Lee et.al.|[2303.04508v1](http://arxiv.org/abs/2303.04508v1)|**[link](https://github.com/ROKIT-Healthcare/FastSurf)**|
-|**2023-03-08**|**DroNeRF: Real-time Multi-agent Drone Pose Optimization for Computing Neural Radiance Fields**|Dipam Patel et.al.|[2303.04322v1](http://arxiv.org/abs/2303.04322v1)|null|
-|**2023-03-07**|**NEPHELE: A Neural Platform for Highly Realistic Cloud Radiance Rendering**|Haimin Luo et.al.|[2303.04086v1](http://arxiv.org/abs/2303.04086v1)|null|
 
