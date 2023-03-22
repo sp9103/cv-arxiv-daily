@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.21
+## Updated on 2023.03.22
 
 ## 6DOF Object Pose
 
@@ -51,7 +51,7 @@ layout: default
 |**2023-03-17**|**Aerodynamic Simulators for Rocket Design using Neural Radiance Fields**|Haitz Saez de Ocariz Borde et.al.|[2303.10283v1](http://arxiv.org/abs/2303.10283v1)|null|
 |**2023-03-17**|**$α$Surf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity**|Tianhao Wu et.al.|[2303.10083v1](http://arxiv.org/abs/2303.10083v1)|null|
 |**2023-03-17**|**Single-view Neural Radiance Fields with Depth Teacher**|Yurui Chen et.al.|[2303.09952v1](http://arxiv.org/abs/2303.09952v1)|null|
-|**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v2](http://arxiv.org/abs/2303.09554v2)|null|
+|**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v3](http://arxiv.org/abs/2303.09554v3)|null|
 |**2023-03-16**|**LERF: Language Embedded Radiance Fields**|Justin Kerr et.al.|[2303.09553v1](http://arxiv.org/abs/2303.09553v1)|null|
 |**2023-03-16**|**NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes**|Marie-Julie Rakotosaona et.al.|[2303.09431v1](http://arxiv.org/abs/2303.09431v1)|null|
 |**2023-03-16**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412v2](http://arxiv.org/abs/2303.09412v2)|**[link](https://github.com/hannahhaensen/nerftrinsic_four)**|
