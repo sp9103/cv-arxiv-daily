@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.22
+## Updated on 2023.03.23
 
 ## 6DOF Object Pose
 
@@ -45,15 +45,15 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-21**|**3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion**|Yu-Jhe Li et.al.|[2303.11938v1](http://arxiv.org/abs/2303.11938v1)|null|
 |**2023-03-21**|**Real-time volumetric rendering of dynamic humans**|Ignacio Rocco et.al.|[2303.11898v1](http://arxiv.org/abs/2303.11898v1)|null|
-|**2023-03-21**|**ExtremeNeRF: Few-shot Neural Radiance Fields Under Unconstrained Illumination**|SeokYeong Lee et.al.|[2303.11728v1](http://arxiv.org/abs/2303.11728v1)|null|
+|**2023-03-21**|**ExtremeNeRF: Few-shot Neural Radiance Fields Under Unconstrained Illumination**|SeokYeong Lee et.al.|[2303.11728v2](http://arxiv.org/abs/2303.11728v2)|null|
 |**2023-03-21**|**Interactive Geometry Editing of Neural Radiance Fields**|Shaoxu Li et.al.|[2303.11537v1](http://arxiv.org/abs/2303.11537v1)|null|
 |**2023-03-20**|**DehazeNeRF: Multiple Image Haze Removal and 3D Shape Reconstruction using Neural Radiance Fields**|Wei-Ting Chen et.al.|[2303.11364v1](http://arxiv.org/abs/2303.11364v1)|null|
 |**2023-03-20**|**ContraNeRF: Generalizable Neural Radiance Fields for Synthetic-to-real Novel View Synthesis via Contrastive Learning**|Hao Yang et.al.|[2303.11052v1](http://arxiv.org/abs/2303.11052v1)|null|
 |**2023-03-19**|**SKED: Sketch-guided Text-based 3D Editing**|Aryan Mikaeili et.al.|[2303.10735v1](http://arxiv.org/abs/2303.10735v1)|null|
 |**2023-03-19**|**NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping**|Junyuan Deng et.al.|[2303.10709v1](http://arxiv.org/abs/2303.10709v1)|**[link](https://github.com/junyuandeng/nerf-loam)**|
-|**2023-03-19**|**StyleRF: Zero-shot 3D Style Transfer of Neural Radiance Fields**|Kunhao Liu et.al.|[2303.10598v1](http://arxiv.org/abs/2303.10598v1)|null|
+|**2023-03-19**|**StyleRF: Zero-shot 3D Style Transfer of Neural Radiance Fields**|Kunhao Liu et.al.|[2303.10598v2](http://arxiv.org/abs/2303.10598v2)|null|
 |**2023-03-18**|**3D Data Augmentation for Driving Scenes on Camera**|Wenwen Tong et.al.|[2303.10340v1](http://arxiv.org/abs/2303.10340v1)|null|
-|**2023-03-17**|**Aerodynamic Simulators for Rocket Design using Neural Radiance Fields**|Haitz Saez de Ocariz Borde et.al.|[2303.10283v1](http://arxiv.org/abs/2303.10283v1)|null|
+|**2023-03-17**|**Aerothermodynamic Simulators for Rocket Design using Neural Fields**|Haitz Sáez de Ocáriz Borde et.al.|[2303.10283v2](http://arxiv.org/abs/2303.10283v2)|null|
 |**2023-03-17**|**$α$Surf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity**|Tianhao Wu et.al.|[2303.10083v1](http://arxiv.org/abs/2303.10083v1)|null|
 |**2023-03-17**|**Single-view Neural Radiance Fields with Depth Teacher**|Yurui Chen et.al.|[2303.09952v1](http://arxiv.org/abs/2303.09952v1)|null|
 |**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v3](http://arxiv.org/abs/2303.09554v3)|null|
@@ -71,6 +71,6 @@ layout: default
 |**2023-03-14**|**I$^2$-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs**|Jingsen Zhu et.al.|[2303.07634v1](http://arxiv.org/abs/2303.07634v1)|null|
 |**2023-03-14**|**Frequency-Modulated Point Cloud Rendering with Easy Editing**|Yi Zhang et.al.|[2303.07596v2](http://arxiv.org/abs/2303.07596v2)|**[link](https://github.com/yizhangphd/freqpcr)**|
 |**2023-03-13**|**FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**|Jiawei Yang et.al.|[2303.07418v1](http://arxiv.org/abs/2303.07418v1)|**[link](https://github.com/jiawei-yang/freenerf)**|
-|**2023-03-13**|**NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer**|Kun Zhou et.al.|[2303.06919v1](http://arxiv.org/abs/2303.06919v1)|null|
+|**2023-03-13**|**NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer**|Kun Zhou et.al.|[2303.06919v2](http://arxiv.org/abs/2303.06919v2)|null|
 |**2023-03-11**|**Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**|Minjae Lee et.al.|[2303.06335v1](http://arxiv.org/abs/2303.06335v1)|**[link](https://github.com/minjae-lulu/just-flip)**|
 
