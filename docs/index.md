@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation**|Hansheng Chen et.al.|[2303.12787v1](http://arxiv.org/abs/2303.12787v1)|null|
+|**2023-03-22**|**Rigidity-Aware Detection for 6D Object Pose Estimation**|Yang Hai et.al.|[2303.12396v1](http://arxiv.org/abs/2303.12396v1)|null|
+|**2023-03-22**|**Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation**|Heng Yang et.al.|[2303.12246v1](http://arxiv.org/abs/2303.12246v1)|null|
 |**2023-03-21**|**Linear-Covariance Loss for End-to-End Learning of 6D Pose Estimation**|Fulin Liu et.al.|[2303.11516v1](http://arxiv.org/abs/2303.11516v1)|null|
 |**2023-03-18**|**SOCS: Semantically-aware Object Coordinate Space for Category-Level 6D Object Pose Estimation under Large Shape Variations**|Boyan Wan et.al.|[2303.10346v1](http://arxiv.org/abs/2303.10346v1)|null|
 |**2023-03-12**|**Module-Wise Network Quantization for 6D Object Pose Estimation**|Saqib Javed et.al.|[2303.06753v1](http://arxiv.org/abs/2303.06753v1)|null|
@@ -35,14 +38,18 @@ layout: default
 |**2022-12-04**|**Review on 6D Object Pose Estimation with the focus on Indoor Scene Understanding**|Negar Nejatishahidin et.al.|[2212.01920v1](http://arxiv.org/abs/2212.01920v1)|null|
 |**2022-11-29**|**LocPoseNet: Robust Location Prior for Unseen Object Pose Estimation**|Chen Zhao et.al.|[2211.16290v2](http://arxiv.org/abs/2211.16290v2)|null|
 |**2022-11-25**|**PoET: Pose Estimation Transformer for Single-View, Multi-Object 6D Pose Estimation**|Thomas Jantos et.al.|[2211.14125v1](http://arxiv.org/abs/2211.14125v1)|**[link](https://github.com/aau-cns/poet)**|
-|**2022-11-24**|**Go Beyond Point Pairs: A General and Accurate Sim2Real Object Pose Voting Method with Efficient Online Synthetic Training**|Yang You et.al.|[2211.13398v1](http://arxiv.org/abs/2211.13398v1)|**[link](https://github.com/qq456cvb/beyondppf)**|
-|**2022-11-21**|**Learning Implicit Probability Distribution Functions for Symmetric Orientation Estimation from RGB Images Without Pose Labels**|Arul Selvam Periyasamy et.al.|[2211.11394v1](http://arxiv.org/abs/2211.11394v1)|null|
-|**2022-11-21**|**Deep Projective Rotation Estimation through Relative Supervision**|Brian Okorn et.al.|[2211.11182v1](http://arxiv.org/abs/2211.11182v1)|null|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**SHERF: Generalizable Human NeRF from a Single Image**|Shoukang Hu et.al.|[2303.12791v1](http://arxiv.org/abs/2303.12791v1)|**[link](https://github.com/skhu101/sherf)**|
+|**2023-03-22**|**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**|Ayaan Haque et.al.|[2303.12789v1](http://arxiv.org/abs/2303.12789v1)|null|
+|**2023-03-22**|**FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models**|Jianglong Ye et.al.|[2303.12786v1](http://arxiv.org/abs/2303.12786v1)|null|
+|**2023-03-22**|**Balanced Spherical Grid for Egocentric View Synthesis**|Changwoon Choi et.al.|[2303.12408v1](http://arxiv.org/abs/2303.12408v1)|**[link](https://github.com/changwoonchoi/EgoNeRF)**|
+|**2023-03-22**|**NLOS-NeuS: Non-line-of-sight Neural Implicit Surface**|Yuki Fujimura et.al.|[2303.12280v1](http://arxiv.org/abs/2303.12280v1)|null|
+|**2023-03-21**|**Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields**|Ahmad AlMughrabi et.al.|[2303.12234v1](http://arxiv.org/abs/2303.12234v1)|null|
+|**2023-03-21**|**Oral-NeXF: 3D Oral Reconstruction with Neural X-ray Field from Panoramic Imaging**|Weinan Song et.al.|[2303.12123v1](http://arxiv.org/abs/2303.12123v1)|null|
 |**2023-03-21**|**3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion**|Yu-Jhe Li et.al.|[2303.11938v1](http://arxiv.org/abs/2303.11938v1)|null|
 |**2023-03-21**|**Real-time volumetric rendering of dynamic humans**|Ignacio Rocco et.al.|[2303.11898v1](http://arxiv.org/abs/2303.11898v1)|null|
 |**2023-03-21**|**ExtremeNeRF: Few-shot Neural Radiance Fields Under Unconstrained Illumination**|SeokYeong Lee et.al.|[2303.11728v2](http://arxiv.org/abs/2303.11728v2)|null|
@@ -53,7 +60,6 @@ layout: default
 |**2023-03-19**|**NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping**|Junyuan Deng et.al.|[2303.10709v1](http://arxiv.org/abs/2303.10709v1)|**[link](https://github.com/junyuandeng/nerf-loam)**|
 |**2023-03-19**|**StyleRF: Zero-shot 3D Style Transfer of Neural Radiance Fields**|Kunhao Liu et.al.|[2303.10598v2](http://arxiv.org/abs/2303.10598v2)|null|
 |**2023-03-18**|**3D Data Augmentation for Driving Scenes on Camera**|Wenwen Tong et.al.|[2303.10340v1](http://arxiv.org/abs/2303.10340v1)|null|
-|**2023-03-17**|**Aerothermodynamic Simulators for Rocket Design using Neural Fields**|Haitz Sáez de Ocáriz Borde et.al.|[2303.10283v2](http://arxiv.org/abs/2303.10283v2)|null|
 |**2023-03-17**|**$α$Surf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity**|Tianhao Wu et.al.|[2303.10083v1](http://arxiv.org/abs/2303.10083v1)|null|
 |**2023-03-17**|**Single-view Neural Radiance Fields with Depth Teacher**|Yurui Chen et.al.|[2303.09952v1](http://arxiv.org/abs/2303.09952v1)|null|
 |**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v3](http://arxiv.org/abs/2303.09554v3)|null|
@@ -67,10 +73,4 @@ layout: default
 |**2023-03-15**|**Harnessing Low-Frequency Neural Fields for Few-Shot View Synthesis**|Liangchen Song et.al.|[2303.08370v1](http://arxiv.org/abs/2303.08370v1)|**[link](https://github.com/lsongx/halo)**|
 |**2023-03-14**|**MELON: NeRF with Unposed Images Using Equivalence Class Estimation**|Axel Levy et.al.|[2303.08096v1](http://arxiv.org/abs/2303.08096v1)|null|
 |**2023-03-14**|**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**|Junyoung Seo et.al.|[2303.07937v3](http://arxiv.org/abs/2303.07937v3)|null|
-|**2023-03-14**|**NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images**|Yunfan Ye et.al.|[2303.07653v2](http://arxiv.org/abs/2303.07653v2)|null|
-|**2023-03-14**|**I$^2$-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs**|Jingsen Zhu et.al.|[2303.07634v1](http://arxiv.org/abs/2303.07634v1)|null|
-|**2023-03-14**|**Frequency-Modulated Point Cloud Rendering with Easy Editing**|Yi Zhang et.al.|[2303.07596v2](http://arxiv.org/abs/2303.07596v2)|**[link](https://github.com/yizhangphd/freqpcr)**|
-|**2023-03-13**|**FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**|Jiawei Yang et.al.|[2303.07418v1](http://arxiv.org/abs/2303.07418v1)|**[link](https://github.com/jiawei-yang/freenerf)**|
-|**2023-03-13**|**NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer**|Kun Zhou et.al.|[2303.06919v2](http://arxiv.org/abs/2303.06919v2)|null|
-|**2023-03-11**|**Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**|Minjae Lee et.al.|[2303.06335v1](http://arxiv.org/abs/2303.06335v1)|**[link](https://github.com/minjae-lulu/just-flip)**|
 
