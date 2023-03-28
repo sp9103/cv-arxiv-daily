@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.27
+## Updated on 2023.03.28
 
 ## 6DOF Object Pose
 
@@ -28,7 +28,7 @@ layout: default
 |**2023-02-14**|**MSDA: Monocular Self-supervised Domain Adaptation for 6D Object Pose Estimation**|Dingding Cai et.al.|[2302.07300v1](http://arxiv.org/abs/2302.07300v1)|null|
 |**2023-02-14**|**Model-Based Underwater 6D Pose Estimation from RGB**|Davide Sapienza et.al.|[2302.06821v1](http://arxiv.org/abs/2302.06821v1)|null|
 |**2023-02-12**|**A Correct-and-Certify Approach to Self-Supervise Object Pose Estimators via Ensemble Self-Training**|Jingnan Shi et.al.|[2302.06019v1](http://arxiv.org/abs/2302.06019v1)|null|
-|**2023-02-07**|**3D Neural Embedding Likelihood for Robust Sim-to-Real Transfer in Inverse Graphics**|Guangyao Zhou et.al.|[2302.03744v1](http://arxiv.org/abs/2302.03744v1)|null|
+|**2023-02-07**|**3D Neural Embedding Likelihood for Robust Probabilistic Inverse Graphics**|Guangyao Zhou et.al.|[2302.03744v2](http://arxiv.org/abs/2302.03744v2)|null|
 |**2023-01-31**|**Collision-aware In-hand 6D Object Pose Estimation using Multiple Vision-based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2301.13667v1](http://arxiv.org/abs/2301.13667v1)|null|
 |**2023-01-18**|**OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models**|Xingyi He et.al.|[2301.07673v1](http://arxiv.org/abs/2301.07673v1)|null|
 |**2022-12-25**|**TexPose: Neural Texture Learning for Self-Supervised 6D Object Pose Estimation**|Hanzhi Chen et.al.|[2212.12902v2](http://arxiv.org/abs/2212.12902v2)|null|
@@ -52,11 +52,11 @@ layout: default
 |**2023-03-24**|**GM-NeRF: Learning Generalizable Model-based Neural Radiance Fields from Multi-view Images**|Jianchuan Chen et.al.|[2303.13777v1](http://arxiv.org/abs/2303.13777v1)|null|
 |**2023-03-24**|**TEGLO: High Fidelity Canonical Texture Mapping from Single-View Images**|Vishal Vinod et.al.|[2303.13743v1](http://arxiv.org/abs/2303.13743v1)|null|
 |**2023-03-23**|**SCADE: NeRFs from Space Carving with Ambiguity-Aware Depth Estimates**|Mikaela Angelina Uy et.al.|[2303.13582v1](http://arxiv.org/abs/2303.13582v1)|null|
-|**2023-03-23**|**DreamBooth3D: Subject-Driven Text-to-3D Generation**|Amit Raj et.al.|[2303.13508v1](http://arxiv.org/abs/2303.13508v1)|null|
+|**2023-03-23**|**DreamBooth3D: Subject-Driven Text-to-3D Generation**|Amit Raj et.al.|[2303.13508v2](http://arxiv.org/abs/2303.13508v2)|null|
 |**2023-03-23**|**TriPlaneNet: An Encoder for EG3D Inversion**|Ananta R. Bhattarai et.al.|[2303.13497v1](http://arxiv.org/abs/2303.13497v1)|null|
 |**2023-03-23**|**Plotting Behind the Scenes: Towards Learnable Game Engines**|Willi Menapace et.al.|[2303.13472v1](http://arxiv.org/abs/2303.13472v1)|null|
 |**2023-03-23**|**Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes**|Dana Cohen-Bar et.al.|[2303.13450v1](http://arxiv.org/abs/2303.13450v1)|null|
-|**2023-03-23**|**SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field**|Chong Bao et.al.|[2303.13277v1](http://arxiv.org/abs/2303.13277v1)|null|
+|**2023-03-23**|**SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field**|Chong Bao et.al.|[2303.13277v2](http://arxiv.org/abs/2303.13277v2)|null|
 |**2023-03-23**|**Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization**|Zicheng Zhang et.al.|[2303.13232v1](http://arxiv.org/abs/2303.13232v1)|null|
 |**2023-03-23**|**Semantic Ray: Learning a Generalizable Semantic Field with Cross-Reprojection Attention**|Fangfu Liu et.al.|[2303.13014v1](http://arxiv.org/abs/2303.13014v1)|null|
 |**2023-03-22**|**NeRF-GAN Distillation for Efficient 3D-Aware Generation with Convolutions**|Mohamad Shahbazi et.al.|[2303.12865v1](http://arxiv.org/abs/2303.12865v1)|null|
@@ -65,7 +65,7 @@ layout: default
 |**2023-03-22**|**FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models**|Jianglong Ye et.al.|[2303.12786v1](http://arxiv.org/abs/2303.12786v1)|null|
 |**2023-03-22**|**Balanced Spherical Grid for Egocentric View Synthesis**|Changwoon Choi et.al.|[2303.12408v2](http://arxiv.org/abs/2303.12408v2)|**[link](https://github.com/changwoonchoi/EgoNeRF)**|
 |**2023-03-22**|**NLOS-NeuS: Non-line-of-sight Neural Implicit Surface**|Yuki Fujimura et.al.|[2303.12280v1](http://arxiv.org/abs/2303.12280v1)|null|
-|**2023-03-21**|**Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields**|Ahmad AlMughrabi et.al.|[2303.12234v1](http://arxiv.org/abs/2303.12234v1)|null|
+|**2023-03-21**|**Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields**|Ahmad AlMughrabi et.al.|[2303.12234v1](http://arxiv.org/abs/2303.12234v1)|**[link](https://github.com/amughrabi/pre-nerf)**|
 |**2023-03-21**|**Oral-NeXF: 3D Oral Reconstruction with Neural X-ray Field from Panoramic Imaging**|Weinan Song et.al.|[2303.12123v1](http://arxiv.org/abs/2303.12123v1)|null|
 |**2023-03-21**|**3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion**|Yu-Jhe Li et.al.|[2303.11938v1](http://arxiv.org/abs/2303.11938v1)|null|
 |**2023-03-21**|**Real-time volumetric rendering of dynamic humans**|Ignacio Rocco et.al.|[2303.11898v1](http://arxiv.org/abs/2303.11898v1)|null|
