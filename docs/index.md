@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-29**|**CheckerPose: Progressive Dense Keypoint Localization for Object Pose Estimation with Graph Neural Network**|Ruyi Lian et.al.|[2303.16874v1](http://arxiv.org/abs/2303.16874v1)|null|
+|**2023-03-29**|**Multi-View Keypoints for Reliable 6D Object Pose Estimation**|Alan Li et.al.|[2303.16833v1](http://arxiv.org/abs/2303.16833v1)|null|
+|**2023-03-29**|**TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation**|Taeyeop Lee et.al.|[2303.16730v1](http://arxiv.org/abs/2303.16730v1)|null|
 |**2023-03-28**|**HS-Pose: Hybrid Scope Feature Extraction for Category-level Object Pose Estimation**|Linfang Zheng et.al.|[2303.15743v1](http://arxiv.org/abs/2303.15743v1)|**[link](https://github.com/lynne-zheng-linfang/hs-pose)**|
 |**2023-03-23**|**NOPE: Novel Object Pose Estimation from a Single Image**|Van Nguyen Nguyen et.al.|[2303.13612v1](http://arxiv.org/abs/2303.13612v1)|**[link](https://github.com/nv-nguyen/nope)**|
 |**2023-03-23**|**6D Object Pose Estimation from Approximate 3D Models for Orbital Robotics**|Maximilian Ulmer et.al.|[2303.13241v1](http://arxiv.org/abs/2303.13241v1)|null|
@@ -35,14 +38,17 @@ layout: default
 |**2022-12-25**|**TexPose: Neural Texture Learning for Self-Supervised 6D Object Pose Estimation**|Hanzhi Chen et.al.|[2212.12902v2](http://arxiv.org/abs/2212.12902v2)|null|
 |**2022-12-20**|**CHAIRS: Towards Full-Body Articulated Human-Object Interaction**|Nan Jiang et.al.|[2212.10621v1](http://arxiv.org/abs/2212.10621v1)|**[link](https://github.com/jnnan/chairs)**|
 |**2022-12-13**|**Accidental Turntables: Learning 3D Pose by Watching Objects Turn**|Zezhou Cheng et.al.|[2212.06300v1](http://arxiv.org/abs/2212.06300v1)|null|
-|**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
-|**2022-12-09**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
-|**2022-12-07**|**An Intuitive and Unconstrained 2D Cube Representation for Simultaneous Head Detection and Pose Estimation**|Huayi Zhou et.al.|[2212.03623v1](http://arxiv.org/abs/2212.03623v1)|null|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-29**|**DPF: Learning Dense Prediction Fields with Weak Supervision**|Xiaoxue Chen et.al.|[2303.16890v1](http://arxiv.org/abs/2303.16890v1)|**[link](https://github.com/cxx226/dpf)**|
+|**2023-03-29**|**Instant Neural Radiance Fields Stylization**|Shaoxu Li et.al.|[2303.16884v1](http://arxiv.org/abs/2303.16884v1)|null|
+|**2023-03-29**|**TriVol: Point Cloud Rendering via Triple Volumes**|Tao Hu et.al.|[2303.16485v1](http://arxiv.org/abs/2303.16485v1)|**[link](https://github.com/dvlab-research/trivol)**|
+|**2023-03-29**|**Point2Pix: Photo-Realistic Point Cloud Rendering via Neural Radiance Fields**|Tao Hu et.al.|[2303.16482v1](http://arxiv.org/abs/2303.16482v1)|null|
+|**2023-03-28**|**Flow supervision for Deformable NeRF**|Chaoyang Wang et.al.|[2303.16333v1](http://arxiv.org/abs/2303.16333v1)|null|
+|**2023-03-28**|**CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution**|Zixuan Chen et.al.|[2303.16242v1](http://arxiv.org/abs/2303.16242v1)|null|
 |**2023-03-28**|**SparseNeRF: Distilling Depth Ranking for Few-shot Novel View Synthesis**|Guangcong Wang et.al.|[2303.16196v1](http://arxiv.org/abs/2303.16196v1)|null|
 |**2023-03-28**|**VMesh: Hybrid Volume-Mesh Representation for Efficient View Synthesis**|Yuan-Chen Guo et.al.|[2303.16184v1](http://arxiv.org/abs/2303.16184v1)|null|
 |**2023-03-28**|**Adaptive Voronoi NeRFs**|Tim Elsner et.al.|[2303.16001v1](http://arxiv.org/abs/2303.16001v1)|null|
@@ -67,10 +73,4 @@ layout: default
 |**2023-03-24**|**GM-NeRF: Learning Generalizable Model-based Neural Radiance Fields from Multi-view Images**|Jianchuan Chen et.al.|[2303.13777v1](http://arxiv.org/abs/2303.13777v1)|null|
 |**2023-03-24**|**TEGLO: High Fidelity Canonical Texture Mapping from Single-View Images**|Vishal Vinod et.al.|[2303.13743v1](http://arxiv.org/abs/2303.13743v1)|null|
 |**2023-03-23**|**SCADE: NeRFs from Space Carving with Ambiguity-Aware Depth Estimates**|Mikaela Angelina Uy et.al.|[2303.13582v1](http://arxiv.org/abs/2303.13582v1)|null|
-|**2023-03-23**|**DreamBooth3D: Subject-Driven Text-to-3D Generation**|Amit Raj et.al.|[2303.13508v2](http://arxiv.org/abs/2303.13508v2)|null|
-|**2023-03-23**|**TriPlaneNet: An Encoder for EG3D Inversion**|Ananta R. Bhattarai et.al.|[2303.13497v1](http://arxiv.org/abs/2303.13497v1)|null|
-|**2023-03-23**|**Plotting Behind the Scenes: Towards Learnable Game Engines**|Willi Menapace et.al.|[2303.13472v1](http://arxiv.org/abs/2303.13472v1)|null|
-|**2023-03-23**|**Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes**|Dana Cohen-Bar et.al.|[2303.13450v1](http://arxiv.org/abs/2303.13450v1)|null|
-|**2023-03-23**|**SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field**|Chong Bao et.al.|[2303.13277v2](http://arxiv.org/abs/2303.13277v2)|null|
-|**2023-03-23**|**Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization**|Zicheng Zhang et.al.|[2303.13232v1](http://arxiv.org/abs/2303.13232v1)|null|
 
