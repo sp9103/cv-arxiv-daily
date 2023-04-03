@@ -49,7 +49,7 @@ layout: default
 |**2023-03-30**|**NeILF++: Inter-Reflectable Light Fields for Geometry and Material Estimation**|Jingyang Zhang et.al.|[2303.17147v1](http://arxiv.org/abs/2303.17147v1)|null|
 |**2023-03-30**|**Enhanced Stable View Synthesis**|Nishant Jain et.al.|[2303.17094v1](http://arxiv.org/abs/2303.17094v1)|null|
 |**2023-03-29**|**DPF: Learning Dense Prediction Fields with Weak Supervision**|Xiaoxue Chen et.al.|[2303.16890v1](http://arxiv.org/abs/2303.16890v1)|**[link](https://github.com/cxx226/dpf)**|
-|**2023-03-29**|**Instant Neural Radiance Fields Stylization**|Shaoxu Li et.al.|[2303.16884v1](http://arxiv.org/abs/2303.16884v1)|null|
+|**2023-03-29**|**Instant Neural Radiance Fields Stylization**|Shaoxu Li et.al.|[2303.16884v1](http://arxiv.org/abs/2303.16884v1)|**[link](https://github.com/lsx0101/Instant-NeRF-Stylization)**|
 |**2023-03-29**|**TriVol: Point Cloud Rendering via Triple Volumes**|Tao Hu et.al.|[2303.16485v1](http://arxiv.org/abs/2303.16485v1)|**[link](https://github.com/dvlab-research/trivol)**|
 |**2023-03-29**|**Point2Pix: Photo-Realistic Point Cloud Rendering via Neural Radiance Fields**|Tao Hu et.al.|[2303.16482v1](http://arxiv.org/abs/2303.16482v1)|null|
 |**2023-03-28**|**Flow supervision for Deformable NeRF**|Chaoyang Wang et.al.|[2303.16333v1](http://arxiv.org/abs/2303.16333v1)|null|
