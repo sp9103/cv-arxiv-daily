@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.03
+## Updated on 2023.04.04
 
 ## 6DOF Object Pose
 
@@ -61,7 +61,7 @@ layout: default
 |**2023-03-27**|**JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields**|Xi Wang et.al.|[2303.15427v1](http://arxiv.org/abs/2303.15427v1)|null|
 |**2023-03-27**|**Generalizable Neural Voxels for Fast Human Radiance Fields**|Taoran Yi et.al.|[2303.15387v1](http://arxiv.org/abs/2303.15387v1)|null|
 |**2023-03-27**|**NeUDF: Learning Unsigned Distance Fields from Multi-view Images for Reconstructing Non-watertight Models**|Fei Hou et.al.|[2303.15368v1](http://arxiv.org/abs/2303.15368v1)|null|
-|**2023-03-24**|**Perceptual Quality Assessment of NeRF and Neural View Synthesis Methods for Front-Facing Views**|Hanxue Liang et.al.|[2303.15206v1](http://arxiv.org/abs/2303.15206v1)|null|
+|**2023-03-24**|**Perceptual Quality Assessment of NeRF and Neural View Synthesis Methods for Front-Facing Views**|Hanxue Liang et.al.|[2303.15206v2](http://arxiv.org/abs/2303.15206v2)|null|
 |**2023-03-27**|**3D-Aware Multi-Class Image-to-Image Translation with NeRFs**|Senmao Li et.al.|[2303.15012v1](http://arxiv.org/abs/2303.15012v1)|**[link](https://github.com/sen-mao/3di2i-translation)**|
 |**2023-03-26**|**Clean-NeRF: Reformulating NeRF to account for View-Dependent Observations**|Xinhang Liu et.al.|[2303.14707v1](http://arxiv.org/abs/2303.14707v1)|null|
 |**2023-03-25**|**PAniC-3D: Stylized Single-view 3D Reconstruction from Portraits of Anime Characters**|Shuhong Chen et.al.|[2303.14587v1](http://arxiv.org/abs/2303.14587v1)|**[link](https://github.com/shuhongchen/panic3d-anime-reconstruction)**|
@@ -69,7 +69,7 @@ layout: default
 |**2023-03-25**|**DBARF: Deep Bundle-Adjusting Generalizable Neural Radiance Fields**|Yu Chen et.al.|[2303.14478v1](http://arxiv.org/abs/2303.14478v1)|null|
 |**2023-03-25**|**NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects**|Zhiwen Yan et.al.|[2303.14435v1](http://arxiv.org/abs/2303.14435v1)|**[link](https://github.com/jokeryan/nerf-ds)**|
 |**2023-03-24**|**DyLiN: Making Light Field Networks Dynamic**|Heng Yu et.al.|[2303.14243v1](http://arxiv.org/abs/2303.14243v1)|null|
-|**2023-03-24**|**Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior**|Junshu Tang et.al.|[2303.14184v1](http://arxiv.org/abs/2303.14184v1)|**[link](https://github.com/junshutang/Make-It-3D)**|
+|**2023-03-24**|**Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior**|Junshu Tang et.al.|[2303.14184v2](http://arxiv.org/abs/2303.14184v2)|**[link](https://github.com/junshutang/Make-It-3D)**|
 |**2023-03-24**|**Grid-guided Neural Radiance Fields for Large Urban Scenes**|Linning Xu et.al.|[2303.14001v1](http://arxiv.org/abs/2303.14001v1)|null|
 |**2023-03-24**|**CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout**|Yiqi Lin et.al.|[2303.13843v1](http://arxiv.org/abs/2303.13843v1)|null|
 |**2023-03-24**|**HandNeRF: Neural Radiance Fields for Animatable Interacting Hands**|Zhiyang Guo et.al.|[2303.13825v1](http://arxiv.org/abs/2303.13825v1)|null|
