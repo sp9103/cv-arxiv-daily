@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.06
+## Updated on 2023.04.07
 
 ## 6DOF Object Pose
 
@@ -46,7 +46,7 @@ layout: default
 |**2023-04-04**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061v1](http://arxiv.org/abs/2304.02061v1)|null|
 |**2023-04-04**|**MonoHuman: Animatable Human Neural Field from Monocular Video**|Zhengming Yu et.al.|[2304.02001v1](http://arxiv.org/abs/2304.02001v1)|null|
 |**2023-04-04**|**Learning Personalized High Quality Volumetric Head Avatars from Monocular RGB Videos**|Ziqian Bai et.al.|[2304.01436v1](http://arxiv.org/abs/2304.01436v1)|null|
-|**2023-04-03**|**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**|Yukang Cao et.al.|[2304.00916v1](http://arxiv.org/abs/2304.00916v1)|null|
+|**2023-04-03**|**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**|Yukang Cao et.al.|[2304.00916v2](http://arxiv.org/abs/2304.00916v2)|null|
 |**2023-04-03**|**MetaHead: An Engine to Create Realistic Digital Head**|Dingyun Zhang et.al.|[2304.00838v1](http://arxiv.org/abs/2304.00838v1)|null|
 |**2023-04-03**|**Disorder-invariant Implicit Neural Representation**|Hao Zhu et.al.|[2304.00837v1](http://arxiv.org/abs/2304.00837v1)|null|
 |**2023-04-01**|**JacobiNeRF: NeRF Shaping with Mutual Information Gradients**|Xiaomeng Xu et.al.|[2304.00341v1](http://arxiv.org/abs/2304.00341v1)|**[link](https://github.com/xxm19/jacobinerf)**|
