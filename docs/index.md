@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.11
+## Updated on 2023.04.12
 
 ## 6DOF Object Pose
 
@@ -48,7 +48,7 @@ layout: default
 |**2023-04-10**|**Inferring Fluid Dynamics via Inverse Rendering**|Jinxian Liu et.al.|[2304.04446v1](http://arxiv.org/abs/2304.04446v1)|null|
 |**2023-04-10**|**Instance Neural Radiance Field**|Benran Hu et.al.|[2304.04395v1](http://arxiv.org/abs/2304.04395v1)|null|
 |**2023-04-10**|**Evaluate Geometry of Radiance Field with Low-frequency Color Prior**|Qihang Fang et.al.|[2304.04351v1](http://arxiv.org/abs/2304.04351v1)|**[link](https://github.com/qihanggh/imrc)**|
-|**2023-04-09**|**NeRF applied to satellite imagery for surface reconstruction**|Federico Semeraro et.al.|[2304.04133v1](http://arxiv.org/abs/2304.04133v1)|null|
+|**2023-04-09**|**NeRF applied to satellite imagery for surface reconstruction**|Federico Semeraro et.al.|[2304.04133v2](http://arxiv.org/abs/2304.04133v2)|**[link](https://github.com/fsemerar/satnerf)**|
 |**2023-04-08**|**PVD-AL: Progressive Volume Distillation with Active Learning for Efficient Conversion Between Different NeRF Architectures**|Shuangkang Fang et.al.|[2304.04012v1](http://arxiv.org/abs/2304.04012v1)|null|
 |**2023-04-07**|**Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field**|Leheng Li et.al.|[2304.03526v1](http://arxiv.org/abs/2304.03526v1)|null|
 |**2023-04-06**|**Beyond NeRF Underwater: Learning Neural Reflectance Fields for True Color Correction of Marine Imagery**|Tianyi Zhang et.al.|[2304.03384v1](http://arxiv.org/abs/2304.03384v1)|null|
@@ -58,7 +58,7 @@ layout: default
 |**2023-04-06**|**DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model**|Hoigi Seo et.al.|[2304.02827v1](http://arxiv.org/abs/2304.02827v1)|null|
 |**2023-04-06**|**DeLiRa: Self-Supervised Depth, Light, and Radiance Fields**|Vitor Guizilini et.al.|[2304.02797v1](http://arxiv.org/abs/2304.02797v1)|null|
 |**2023-04-05**|**Image Stabilization for Hololens Camera in Remote Collaboration**|Gowtham Senthil et.al.|[2304.02736v1](http://arxiv.org/abs/2304.02736v1)|null|
-|**2023-04-04**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061v1](http://arxiv.org/abs/2304.02061v1)|null|
+|**2023-04-04**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061v2](http://arxiv.org/abs/2304.02061v2)|null|
 |**2023-04-04**|**MonoHuman: Animatable Human Neural Field from Monocular Video**|Zhengming Yu et.al.|[2304.02001v1](http://arxiv.org/abs/2304.02001v1)|null|
 |**2023-04-04**|**Learning Personalized High Quality Volumetric Head Avatars from Monocular RGB Videos**|Ziqian Bai et.al.|[2304.01436v1](http://arxiv.org/abs/2304.01436v1)|null|
 |**2023-04-03**|**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**|Yukang Cao et.al.|[2304.00916v2](http://arxiv.org/abs/2304.00916v2)|null|
