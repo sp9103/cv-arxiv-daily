@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.26
+## Updated on 2023.04.27
 
 ## 6DOF Object Pose
 
@@ -44,11 +44,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-25**|**Local Implicit Ray Function for Generalizable Radiance Field Representation**|Xin Huang et.al.|[2304.12746v1](http://arxiv.org/abs/2304.12746v1)|null|
-|**2023-04-25**|**MixNeRF: Memory Efficient NeRF with Feature Mixed-up Hash Table**|Yongjae Lee et.al.|[2304.12587v1](http://arxiv.org/abs/2304.12587v1)|**[link](https://github.com/nfyfamr/mixnerf)**|
+|**2023-04-25**|**MixNeRF: Memory Efficient NeRF with Feature Mixed-up Hash Table**|Yongjae Lee et.al.|[2304.12587v2](http://arxiv.org/abs/2304.12587v2)|**[link](https://github.com/nfyfamr/mixnerf)**|
 |**2023-04-24**|**Instant-3D: Instant Neural Radiance Field Training Towards On-Device AR/VR 3D Reconstruction**|Sixu Li et.al.|[2304.12467v1](http://arxiv.org/abs/2304.12467v1)|null|
 |**2023-04-24**|**TensoIR: Tensorial Inverse Rendering**|Haian Jin et.al.|[2304.12461v1](http://arxiv.org/abs/2304.12461v1)|null|
 |**2023-04-24**|**TextMesh: Generation of Realistic 3D Meshes From Text Prompts**|Christina Tsalicoglou et.al.|[2304.12439v1](http://arxiv.org/abs/2304.12439v1)|null|
-|**2023-04-24**|**Segment Anything in 3D with NeRFs**|Jiazhong Cen et.al.|[2304.12308v1](http://arxiv.org/abs/2304.12308v1)|null|
+|**2023-04-24**|**Segment Anything in 3D with NeRFs**|Jiazhong Cen et.al.|[2304.12308v2](http://arxiv.org/abs/2304.12308v2)|null|
 |**2023-04-24**|**Explicit Correspondence Matching for Generalizable Neural Radiance Fields**|Yuedong Chen et.al.|[2304.12294v1](http://arxiv.org/abs/2304.12294v1)|**[link](https://github.com/donydchen/matchnerf)**|
 |**2023-04-24**|**HOSNeRF: Dynamic Human-Object-Scene Neural Radiance Fields from a Single Video**|Jia-Wei Liu et.al.|[2304.12281v1](http://arxiv.org/abs/2304.12281v1)|null|
 |**2023-04-24**|**Gen-NeRF: Efficient and Generalizable Neural Radiance Fields via Algorithm-Hardware Co-Design**|Yonggan Fu et.al.|[2304.11842v2](http://arxiv.org/abs/2304.11842v2)|null|
