@@ -14,7 +14,6 @@ layout: default
 |**2023-04-03**|**PoseMatcher: One-shot 6D Object Pose Estimation by Deep Feature Matching**|Pedro Castro et.al.|[2304.01382v1](http://arxiv.org/abs/2304.01382v1)|null|
 |**2023-03-29**|**CheckerPose: Progressive Dense Keypoint Localization for Object Pose Estimation with Graph Neural Network**|Ruyi Lian et.al.|[2303.16874v1](http://arxiv.org/abs/2303.16874v1)|null|
 |**2023-03-29**|**Multi-View Keypoints for Reliable 6D Object Pose Estimation**|Alan Li et.al.|[2303.16833v1](http://arxiv.org/abs/2303.16833v1)|null|
-|**2023-03-29**|**TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation**|Taeyeop Lee et.al.|[2303.16730v1](http://arxiv.org/abs/2303.16730v1)|null|
 |**2023-03-28**|**HS-Pose: Hybrid Scope Feature Extraction for Category-level Object Pose Estimation**|Linfang Zheng et.al.|[2303.15743v1](http://arxiv.org/abs/2303.15743v1)|**[link](https://github.com/lynne-zheng-linfang/hs-pose)**|
 |**2023-03-23**|**NOPE: Novel Object Pose Estimation from a Single Image**|Van Nguyen Nguyen et.al.|[2303.13612v1](http://arxiv.org/abs/2303.13612v1)|**[link](https://github.com/nv-nguyen/nope)**|
 |**2023-03-23**|**6D Object Pose Estimation from Approximate 3D Models for Orbital Robotics**|Maximilian Ulmer et.al.|[2303.13241v2](http://arxiv.org/abs/2303.13241v2)|null|
