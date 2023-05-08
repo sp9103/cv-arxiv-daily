@@ -43,6 +43,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-05**|**General Neural Gauge Fields**|Fangneng Zhan et.al.|[2305.03462v1](http://arxiv.org/abs/2305.03462v1)|null|
+|**2023-05-04**|**NeRF-QA: Neural Radiance Fields Quality Assessment Database**|Pedro Martin et.al.|[2305.03176v1](http://arxiv.org/abs/2305.03176v1)|null|
 |**2023-05-04**|**NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds**|Jun-Kun Chen et.al.|[2305.03049v1](http://arxiv.org/abs/2305.03049v1)|null|
 |**2023-05-04**|**Single-Shot Implicit Morphable Faces with Consistent Texture Parameterization**|Connor Z. Lin et.al.|[2305.03043v1](http://arxiv.org/abs/2305.03043v1)|null|
 |**2023-05-04**|**TUVF: Learning Generalizable Texture UV Radiance Fields**|An-Chieh Cheng et.al.|[2305.03040v1](http://arxiv.org/abs/2305.03040v1)|null|
@@ -58,7 +60,7 @@ layout: default
 |**2023-05-01**|**GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**|Zhenhui Ye et.al.|[2305.00787v1](http://arxiv.org/abs/2305.00787v1)|null|
 |**2023-04-30**|**Object-Centric Voxelization of Dynamic Scenes via Inverse Neural Rendering**|Siyu Gao et.al.|[2305.00393v1](http://arxiv.org/abs/2305.00393v1)|null|
 |**2023-04-30**|**Neural Radiance Fields (NeRFs): A Review and Some Recent Developments**|Mohamed Debbagh et.al.|[2305.00375v1](http://arxiv.org/abs/2305.00375v1)|null|
-|**2023-04-28**|**ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**|Nagabhushan Somraj et.al.|[2305.00041v1](http://arxiv.org/abs/2305.00041v1)|null|
+|**2023-04-28**|**ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**|Nagabhushan Somraj et.al.|[2305.00041v1](http://arxiv.org/abs/2305.00041v1)|**[link](https://github.com/NagabhushanSN95/ViP-NeRF)**|
 |**2023-04-28**|**NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields**|Junge Zhang et.al.|[2304.14811v1](http://arxiv.org/abs/2304.14811v1)|null|
 |**2023-04-27**|**Learning a Diffusion Prior for NeRFs**|Guandao Yang et.al.|[2304.14473v1](http://arxiv.org/abs/2304.14473v1)|null|
 |**2023-04-27**|**ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**|Jiteng Mu et.al.|[2304.14401v1](http://arxiv.org/abs/2304.14401v1)|null|
@@ -71,6 +73,4 @@ layout: default
 |**2023-04-25**|**MF-NeRF: Memory Efficient NeRF with Mixed-Feature Hash Table**|Yongjae Lee et.al.|[2304.12587v3](http://arxiv.org/abs/2304.12587v3)|**[link](https://github.com/nfyfamr/mf-nerf)**|
 |**2023-04-24**|**Instant-3D: Instant Neural Radiance Field Training Towards On-Device AR/VR 3D Reconstruction**|Sixu Li et.al.|[2304.12467v1](http://arxiv.org/abs/2304.12467v1)|null|
 |**2023-04-24**|**TensoIR: Tensorial Inverse Rendering**|Haian Jin et.al.|[2304.12461v1](http://arxiv.org/abs/2304.12461v1)|null|
-|**2023-04-24**|**TextMesh: Generation of Realistic 3D Meshes From Text Prompts**|Christina Tsalicoglou et.al.|[2304.12439v1](http://arxiv.org/abs/2304.12439v1)|null|
-|**2023-04-24**|**Segment Anything in 3D with NeRFs**|Jiazhong Cen et.al.|[2304.12308v2](http://arxiv.org/abs/2304.12308v2)|null|
 
