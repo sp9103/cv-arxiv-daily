@@ -39,6 +39,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion**|Mustafa Işık et.al.|[2305.06356v1](http://arxiv.org/abs/2305.06356v1)|null|
+|**2023-05-10**|**Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era**|Chenghao Li et.al.|[2305.06131v1](http://arxiv.org/abs/2305.06131v1)|null|
+|**2023-05-10**|**NeRF$^\textbf{2}$: Neural Radio-Frequency Radiance Fields**|Xiaopeng Zhao et.al.|[2305.06118v1](http://arxiv.org/abs/2305.06118v1)|null|
+|**2023-05-09**|**Instant-NeRF: Instant On-Device Neural Radiance Field Training via Algorithm-Accelerator Co-Designed Near-Memory Processing**|Yang Zhao et.al.|[2305.05766v1](http://arxiv.org/abs/2305.05766v1)|null|
 |**2023-05-09**|**PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces**|Yiqun Wang et.al.|[2305.05594v1](http://arxiv.org/abs/2305.05594v1)|**[link](https://github.com/yiqun-wang/pet-neus)**|
 |**2023-05-08**|**NerfAcc: Efficient Sampling Accelerates NeRFs**|Ruilong Li et.al.|[2305.04966v1](http://arxiv.org/abs/2305.04966v1)|null|
 |**2023-05-08**|**AvatarReX: Real-time Expressive Full-body Avatars**|Zerong Zheng et.al.|[2305.04789v1](http://arxiv.org/abs/2305.04789v1)|null|
@@ -65,8 +69,4 @@
 |**2023-04-28**|**NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields**|Junge Zhang et.al.|[2304.14811v1](http://arxiv.org/abs/2304.14811v1)|null|
 |**2023-04-27**|**Learning a Diffusion Prior for NeRFs**|Guandao Yang et.al.|[2304.14473v1](http://arxiv.org/abs/2304.14473v1)|null|
 |**2023-04-27**|**ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**|Jiteng Mu et.al.|[2304.14401v1](http://arxiv.org/abs/2304.14401v1)|null|
-|**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301v2](http://arxiv.org/abs/2304.14301v2)|null|
-|**2023-04-27**|**Compositional 3D Human-Object Neural Animation**|Zhi Hou et.al.|[2304.14070v1](http://arxiv.org/abs/2304.14070v1)|null|
-|**2023-04-27**|**ContraNeRF: 3D-Aware Generative Model via Contrastive Learning with Unsupervised Implicit Pose Embedding**|Mijeoong Kim et.al.|[2304.14005v1](http://arxiv.org/abs/2304.14005v1)|null|
-|**2023-04-26**|**Super-NeRF: View-consistent Detail Generation for NeRF super-resolution**|Yuqi Han et.al.|[2304.13518v1](http://arxiv.org/abs/2304.13518v1)|null|
 
