@@ -1,4 +1,4 @@
-## Updated on 2023.05.10
+## Updated on 2023.05.11
 
 ## 6DOF Object Pose
 
@@ -48,7 +48,7 @@
 |**2023-05-04**|**NeRF-QA: Neural Radiance Fields Quality Assessment Database**|Pedro Martin et.al.|[2305.03176v1](http://arxiv.org/abs/2305.03176v1)|null|
 |**2023-05-04**|**NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds**|Jun-Kun Chen et.al.|[2305.03049v1](http://arxiv.org/abs/2305.03049v1)|null|
 |**2023-05-04**|**Single-Shot Implicit Morphable Faces with Consistent Texture Parameterization**|Connor Z. Lin et.al.|[2305.03043v1](http://arxiv.org/abs/2305.03043v1)|null|
-|**2023-05-04**|**TUVF: Learning Generalizable Texture UV Radiance Fields**|An-Chieh Cheng et.al.|[2305.03040v1](http://arxiv.org/abs/2305.03040v1)|null|
+|**2023-05-04**|**TUVF: Learning Generalizable Texture UV Radiance Fields**|An-Chieh Cheng et.al.|[2305.03040v2](http://arxiv.org/abs/2305.03040v2)|null|
 |**2023-05-04**|**NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads**|Tobias Kirschstein et.al.|[2305.03027v1](http://arxiv.org/abs/2305.03027v1)|null|
 |**2023-05-04**|**Radiance Field Gradient Scaling for Unbiased Near-Camera Training**|Julien Philip et.al.|[2305.02756v1](http://arxiv.org/abs/2305.02756v1)|**[link](https://github.com/gradient-scaling/gradient-scaling.github.io)**|
 |**2023-05-04**|**Semantic-aware Generation of Multi-view Portrait Drawings**|Biao Ma et.al.|[2305.02618v1](http://arxiv.org/abs/2305.02618v1)|**[link](https://github.com/aiart-hdu/sage)**|
