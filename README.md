@@ -39,6 +39,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**SparseGNV: Generating Novel Views of Indoor Scenes with Sparse Input Views**|Weihao Cheng et.al.|[2305.07024v1](http://arxiv.org/abs/2305.07024v1)|**[link](https://github.com/xt4d/sparsegnv)**|
 |**2023-05-10**|**HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion**|Mustafa Işık et.al.|[2305.06356v2](http://arxiv.org/abs/2305.06356v2)|**[link](https://github.com/synthesiaresearch/humanrf)**|
 |**2023-05-10**|**Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era**|Chenghao Li et.al.|[2305.06131v1](http://arxiv.org/abs/2305.06131v1)|null|
 |**2023-05-10**|**NeRF$^\textbf{2}$: Neural Radio-Frequency Radiance Fields**|Xiaopeng Zhao et.al.|[2305.06118v1](http://arxiv.org/abs/2305.06118v1)|null|
@@ -68,5 +69,4 @@
 |**2023-04-28**|**ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**|Nagabhushan Somraj et.al.|[2305.00041v1](http://arxiv.org/abs/2305.00041v1)|**[link](https://github.com/NagabhushanSN95/ViP-NeRF)**|
 |**2023-04-28**|**NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields**|Junge Zhang et.al.|[2304.14811v1](http://arxiv.org/abs/2304.14811v1)|null|
 |**2023-04-27**|**Learning a Diffusion Prior for NeRFs**|Guandao Yang et.al.|[2304.14473v1](http://arxiv.org/abs/2304.14473v1)|null|
-|**2023-04-27**|**ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**|Jiteng Mu et.al.|[2304.14401v1](http://arxiv.org/abs/2304.14401v1)|null|
 
