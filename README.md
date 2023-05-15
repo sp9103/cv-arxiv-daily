@@ -1,4 +1,4 @@
-## Updated on 2023.05.14
+## Updated on 2023.05.15
 
 ## 6DOF Object Pose
 
@@ -31,7 +31,7 @@
 |**2023-02-14**|**Self-supervised learning of object pose estimation using keypoint prediction**|Zahra Gharaee et.al.|[2302.07360v2](http://arxiv.org/abs/2302.07360v2)|null|
 |**2023-02-14**|**MSDA: Monocular Self-supervised Domain Adaptation for 6D Object Pose Estimation**|Dingding Cai et.al.|[2302.07300v1](http://arxiv.org/abs/2302.07300v1)|null|
 |**2023-02-14**|**Model-Based Underwater 6D Pose Estimation from RGB**|Davide Sapienza et.al.|[2302.06821v1](http://arxiv.org/abs/2302.06821v1)|null|
-|**2023-02-12**|**A Correct-and-Certify Approach to Self-Supervise Object Pose Estimators via Ensemble Self-Training**|Jingnan Shi et.al.|[2302.06019v1](http://arxiv.org/abs/2302.06019v1)|null|
+|**2023-02-12**|**A Correct-and-Certify Approach to Self-Supervise Object Pose Estimators via Ensemble Self-Training**|Jingnan Shi et.al.|[2302.06019v2](http://arxiv.org/abs/2302.06019v2)|null|
 |**2023-02-07**|**3D Neural Embedding Likelihood for Robust Probabilistic Inverse Graphics**|Guangyao Zhou et.al.|[2302.03744v2](http://arxiv.org/abs/2302.03744v2)|null|
 |**2023-01-31**|**Collision-aware In-hand 6D Object Pose Estimation using Multiple Vision-based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2301.13667v1](http://arxiv.org/abs/2301.13667v1)|null|
 
