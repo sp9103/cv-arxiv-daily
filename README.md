@@ -39,6 +39,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-18**|**MVPSNet: Fast Generalizable Multi-view Photometric Stereo**|Dongxu Zhao et.al.|[2305.11167v1](http://arxiv.org/abs/2305.11167v1)|null|
+|**2023-05-18**|**ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**|Shoukang Hu et.al.|[2305.11031v1](http://arxiv.org/abs/2305.11031v1)|**[link](https://github.com/skhu101/consistentnerf)**|
+|**2023-05-17**|**MultiPlaneNeRF: Neural Radiance Field with Non-Trainable Representation**|Dominik Zimny et.al.|[2305.10579v1](http://arxiv.org/abs/2305.10579v1)|**[link](https://github.com/gmum/multiplanenerf)**|
+|**2023-05-17**|**OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields**|Youtan Yin et.al.|[2305.10503v1](http://arxiv.org/abs/2305.10503v1)|null|
 |**2023-05-16**|**NerfBridge: Bringing Real-time, Online Neural Radiance Field Training to Robotics**|Javier Yu et.al.|[2305.09761v1](http://arxiv.org/abs/2305.09761v1)|null|
 |**2023-05-15**|**MV-Map: Offboard HD-Map Generation with Multi-view Consistency**|Ziyang Xie et.al.|[2305.08851v1](http://arxiv.org/abs/2305.08851v1)|**[link](https://github.com/ziyang-xie/mv-map)**|
 |**2023-05-15**|**Curvature-Aware Training for Coordinate Networks**|Hemanth Saratchandran et.al.|[2305.08552v1](http://arxiv.org/abs/2305.08552v1)|null|
@@ -65,8 +69,4 @@
 |**2023-05-03**|**Real-Time Radiance Fields for Single-Image Portrait View Synthesis**|Alex Trevithick et.al.|[2305.02310v1](http://arxiv.org/abs/2305.02310v1)|null|
 |**2023-05-03**|**Inverse Global Illumination using a Neural Radiometric Prior**|Saeed Hadadan et.al.|[2305.02192v1](http://arxiv.org/abs/2305.02192v1)|null|
 |**2023-05-02**|**Neural LiDAR Fields for Novel View Synthesis**|Shengyu Huang et.al.|[2305.01643v1](http://arxiv.org/abs/2305.01643v1)|null|
-|**2023-05-02**|**LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar**|Yuelang Xu et.al.|[2305.01190v2](http://arxiv.org/abs/2305.01190v2)|null|
-|**2023-05-02**|**Federated Neural Radiance Fields**|Lachlan Holden et.al.|[2305.01163v1](http://arxiv.org/abs/2305.01163v1)|null|
-|**2023-05-01**|**GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**|Zhenhui Ye et.al.|[2305.00787v1](http://arxiv.org/abs/2305.00787v1)|null|
-|**2023-04-30**|**Object-Centric Voxelization of Dynamic Scenes via Inverse Neural Rendering**|Siyu Gao et.al.|[2305.00393v1](http://arxiv.org/abs/2305.00393v1)|null|
 
