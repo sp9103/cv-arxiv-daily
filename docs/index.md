@@ -43,6 +43,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-22**|**NeRFuser: Large-Scale Scene Representation by NeRF Fusion**|Jiading Fang et.al.|[2305.13307v1](http://arxiv.org/abs/2305.13307v1)|**[link](https://github.com/ripl/nerfuser)**|
+|**2023-05-22**|**Registering Neural Radiance Fields as 3D Density Images**|Han Jiang et.al.|[2305.12843v1](http://arxiv.org/abs/2305.12843v1)|null|
 |**2023-05-19**|**Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields**|Jingbo Zhang et.al.|[2305.11588v1](http://arxiv.org/abs/2305.11588v1)|null|
 |**2023-05-18**|**MVPSNet: Fast Generalizable Multi-view Photometric Stereo**|Dongxu Zhao et.al.|[2305.11167v1](http://arxiv.org/abs/2305.11167v1)|null|
 |**2023-05-18**|**ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**|Shoukang Hu et.al.|[2305.11031v1](http://arxiv.org/abs/2305.11031v1)|**[link](https://github.com/skhu101/consistentnerf)**|
@@ -71,6 +73,4 @@ layout: default
 |**2023-05-04**|**Radiance Field Gradient Scaling for Unbiased Near-Camera Training**|Julien Philip et.al.|[2305.02756v1](http://arxiv.org/abs/2305.02756v1)|**[link](https://github.com/gradient-scaling/gradient-scaling.github.io)**|
 |**2023-05-04**|**Semantic-aware Generation of Multi-view Portrait Drawings**|Biao Ma et.al.|[2305.02618v1](http://arxiv.org/abs/2305.02618v1)|**[link](https://github.com/aiart-hdu/sage)**|
 |**2023-05-03**|**Shap-E: Generating Conditional 3D Implicit Functions**|Heewoo Jun et.al.|[2305.02463v1](http://arxiv.org/abs/2305.02463v1)|**[link](https://github.com/openai/shap-e)**|
-|**2023-05-03**|**Real-Time Radiance Fields for Single-Image Portrait View Synthesis**|Alex Trevithick et.al.|[2305.02310v1](http://arxiv.org/abs/2305.02310v1)|null|
-|**2023-05-03**|**Inverse Global Illumination using a Neural Radiometric Prior**|Saeed Hadadan et.al.|[2305.02192v1](http://arxiv.org/abs/2305.02192v1)|null|
 
