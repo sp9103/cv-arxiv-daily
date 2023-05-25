@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.24
+## Updated on 2023.05.25
 
 ## 6DOF Object Pose
 
@@ -43,14 +43,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-23**|**3D Open-vocabulary Segmentation with Foundation Models**|Kunhao Liu et.al.|[2305.14093v1](http://arxiv.org/abs/2305.14093v1)|**[link](https://github.com/kunhao-liu/3d-ovs)**|
+|**2023-05-23**|**3D Open-vocabulary Segmentation with Foundation Models**|Kunhao Liu et.al.|[2305.14093v2](http://arxiv.org/abs/2305.14093v2)|**[link](https://github.com/kunhao-liu/3d-ovs)**|
 |**2023-05-22**|**NeRFuser: Large-Scale Scene Representation by NeRF Fusion**|Jiading Fang et.al.|[2305.13307v1](http://arxiv.org/abs/2305.13307v1)|**[link](https://github.com/ripl/nerfuser)**|
 |**2023-05-22**|**Registering Neural Radiance Fields as 3D Density Images**|Han Jiang et.al.|[2305.12843v1](http://arxiv.org/abs/2305.12843v1)|null|
 |**2023-05-19**|**Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields**|Jingbo Zhang et.al.|[2305.11588v1](http://arxiv.org/abs/2305.11588v1)|null|
 |**2023-05-18**|**MVPSNet: Fast Generalizable Multi-view Photometric Stereo**|Dongxu Zhao et.al.|[2305.11167v1](http://arxiv.org/abs/2305.11167v1)|null|
 |**2023-05-18**|**ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**|Shoukang Hu et.al.|[2305.11031v1](http://arxiv.org/abs/2305.11031v1)|**[link](https://github.com/skhu101/consistentnerf)**|
 |**2023-05-17**|**MultiPlaneNeRF: Neural Radiance Field with Non-Trainable Representation**|Dominik Zimny et.al.|[2305.10579v1](http://arxiv.org/abs/2305.10579v1)|**[link](https://github.com/gmum/multiplanenerf)**|
-|**2023-05-17**|**OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields**|Youtan Yin et.al.|[2305.10503v1](http://arxiv.org/abs/2305.10503v1)|**[link](https://github.com/cuteyyt/or-nerf)**|
+|**2023-05-17**|**OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields**|Youtan Yin et.al.|[2305.10503v2](http://arxiv.org/abs/2305.10503v2)|**[link](https://github.com/cuteyyt/or-nerf)**|
 |**2023-05-16**|**NerfBridge: Bringing Real-time, Online Neural Radiance Field Training to Robotics**|Javier Yu et.al.|[2305.09761v1](http://arxiv.org/abs/2305.09761v1)|**[link](https://github.com/javieryu/nerf_bridge)**|
 |**2023-05-15**|**MV-Map: Offboard HD-Map Generation with Multi-view Consistency**|Ziyang Xie et.al.|[2305.08851v1](http://arxiv.org/abs/2305.08851v1)|**[link](https://github.com/ziyang-xie/mv-map)**|
 |**2023-05-15**|**Curvature-Aware Training for Coordinate Networks**|Hemanth Saratchandran et.al.|[2305.08552v1](http://arxiv.org/abs/2305.08552v1)|null|
