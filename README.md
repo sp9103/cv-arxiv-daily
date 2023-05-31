@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**A Probabilistic Rotation Representation for Symmetric Shapes With an Efficiently Computable Bingham Loss Function**|Hiroya Sato et.al.|[2305.18947v1](http://arxiv.org/abs/2305.18947v1)|null|
 |**2023-05-25**|**Robust Category-Level 3D Pose Estimation from Synthetic Data**|Jiahao Yang et.al.|[2305.16124v1](http://arxiv.org/abs/2305.16124v1)|null|
 |**2023-05-25**|**Confronting Ambiguity in 6D Object Pose Estimation via Score-Based Diffusion on SE(3)**|Tsu-Ching Hsiao et.al.|[2305.15873v1](http://arxiv.org/abs/2305.15873v1)|null|
 |**2023-05-25**|**POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference**|Zhiwen Fan et.al.|[2305.15727v1](http://arxiv.org/abs/2305.15727v1)|null|
@@ -33,12 +34,14 @@
 |**2023-02-23**|**Open Challenges for Monocular Single-shot 6D Object Pose Estimation**|Stefan Thalhammer et.al.|[2302.11827v1](http://arxiv.org/abs/2302.11827v1)|null|
 |**2023-02-22**|**Fusing Visual Appearance and Geometry for Multi-modality 6DoF Object Tracking**|Manuel Stoiber et.al.|[2302.11458v1](http://arxiv.org/abs/2302.11458v1)|**[link](https://github.com/dlr-rm/3dobjecttracking)**|
 |**2023-02-14**|**Self-supervised learning of object pose estimation using keypoint prediction**|Zahra Gharaee et.al.|[2302.07360v2](http://arxiv.org/abs/2302.07360v2)|null|
-|**2023-02-14**|**MSDA: Monocular Self-supervised Domain Adaptation for 6D Object Pose Estimation**|Dingding Cai et.al.|[2302.07300v1](http://arxiv.org/abs/2302.07300v1)|null|
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**|Jiuhn Song et.al.|[2305.19201v1](http://arxiv.org/abs/2305.19201v1)|null|
+|**2023-05-30**|**Template-free Articulated Neural Point Clouds for Reposable View Synthesis**|Lukas Uzolas et.al.|[2305.19065v1](http://arxiv.org/abs/2305.19065v1)|**[link](https://github.com/lukasuz/articulated-point-nerf)**|
+|**2023-05-30**|**HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance**|Joseph Zhu et.al.|[2305.18766v1](http://arxiv.org/abs/2305.18766v1)|null|
 |**2023-05-29**|**Compact Real-time Radiance Fields with Neural Codebook**|Lingzhi Li et.al.|[2305.18163v1](http://arxiv.org/abs/2305.18163v1)|null|
 |**2023-05-29**|**Towards a Robust Framework for NeRF Evaluation**|Adrian Azzarelli et.al.|[2305.18079v2](http://arxiv.org/abs/2305.18079v2)|null|
 |**2023-05-29**|**Factored-NeuS: Reconstructing Surfaces, Illumination, and Materials of Possibly Glossy Objects**|Yue Fan et.al.|[2305.17929v1](http://arxiv.org/abs/2305.17929v1)|null|
@@ -66,7 +69,4 @@
 |**2023-05-10**|**HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion**|Mustafa Işık et.al.|[2305.06356v2](http://arxiv.org/abs/2305.06356v2)|**[link](https://github.com/synthesiaresearch/humanrf)**|
 |**2023-05-10**|**Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era**|Chenghao Li et.al.|[2305.06131v2](http://arxiv.org/abs/2305.06131v2)|null|
 |**2023-05-10**|**NeRF$^\textbf{2}$: Neural Radio-Frequency Radiance Fields**|Xiaopeng Zhao et.al.|[2305.06118v1](http://arxiv.org/abs/2305.06118v1)|null|
-|**2023-05-09**|**Instant-NeRF: Instant On-Device Neural Radiance Field Training via Algorithm-Accelerator Co-Designed Near-Memory Processing**|Yang Zhao et.al.|[2305.05766v1](http://arxiv.org/abs/2305.05766v1)|null|
-|**2023-05-09**|**PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces**|Yiqun Wang et.al.|[2305.05594v1](http://arxiv.org/abs/2305.05594v1)|**[link](https://github.com/yiqun-wang/pet-neus)**|
-|**2023-05-08**|**NerfAcc: Efficient Sampling Accelerates NeRFs**|Ruilong Li et.al.|[2305.04966v1](http://arxiv.org/abs/2305.04966v1)|null|
 
