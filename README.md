@@ -39,6 +39,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**|Lu Yu et.al.|[2306.09551v1](http://arxiv.org/abs/2306.09551v1)|null|
 |**2023-06-15**|**UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video**|Zhi-Hao Lin et.al.|[2306.09349v2](http://arxiv.org/abs/2306.09349v2)|null|
 |**2023-06-15**|**Seeing the World through Your Eyes**|Hadi Alzayer et.al.|[2306.09348v1](http://arxiv.org/abs/2306.09348v1)|null|
 |**2023-06-15**|**DreamHuman: Animatable 3D Avatars from Text**|Nikos Kolotouros et.al.|[2306.09329v1](http://arxiv.org/abs/2306.09329v1)|null|
@@ -68,5 +69,4 @@
 |**2023-06-02**|**PanoGRF: Generalizable Spherical Radiance Fields for Wide-baseline Panoramas**|Zheng Chen et.al.|[2306.01531v1](http://arxiv.org/abs/2306.01531v1)|null|
 |**2023-06-01**|**FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models**|Hao Zhang et.al.|[2306.00783v1](http://arxiv.org/abs/2306.00783v1)|**[link](https://github.com/billyxyb/fdnerf)**|
 |**2023-06-01**|**Analyzing the Internals of Neural Radiance Fields**|Lukas Radl et.al.|[2306.00696v1](http://arxiv.org/abs/2306.00696v1)|**[link](https://github.com/r4dl/nerfinternals)**|
-|**2023-06-01**|**AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**|Mohit Mendiratta et.al.|[2306.00547v2](http://arxiv.org/abs/2306.00547v2)|null|
 
