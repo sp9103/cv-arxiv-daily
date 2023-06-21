@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-18**|**GenPose: Generative Category-level Object Pose Estimation via Diffusion Models**|Jiyao Zhang et.al.|[2306.10531v1](http://arxiv.org/abs/2306.10531v1)|null|
 |**2023-06-01**|**A Probabilistic Relaxation of the Two-Stage Object Pose Estimation Paradigm**|Onur Beker et.al.|[2306.00892v1](http://arxiv.org/abs/2306.00892v1)|null|
 |**2023-05-31**|**Self-supervised Vision Transformers for 3D Pose Estimation of Novel Objects**|Stefan Thalhammer et.al.|[2306.00129v1](http://arxiv.org/abs/2306.00129v1)|**[link](https://github.com/sthalham/tram3d)**|
 |**2023-05-30**|**A Probabilistic Rotation Representation for Symmetric Shapes With an Efficiently Computable Bingham Loss Function**|Hiroya Sato et.al.|[2305.18947v1](http://arxiv.org/abs/2305.18947v1)|null|
@@ -33,12 +34,14 @@
 |**2023-02-28**|**Self-Supervised Category-Level Articulated Object Pose Estimation with Part-Level SE(3) Equivariance**|Xueyi Liu et.al.|[2302.14268v1](http://arxiv.org/abs/2302.14268v1)|**[link](https://github.com/Meowuu7/equi-articulated-pose)**|
 |**2023-02-25**|**BOP Challenge 2022 on Detection, Segmentation and Pose Estimation of Specific Rigid Objects**|Martin Sundermeyer et.al.|[2302.13075v1](http://arxiv.org/abs/2302.13075v1)|null|
 |**2023-02-24**|**3D Surface Reconstruction in the Wild by Deforming Shape Priors from Synthetic Data**|Nicolai Häni et.al.|[2302.12883v1](http://arxiv.org/abs/2302.12883v1)|null|
-|**2023-02-23**|**Open Challenges for Monocular Single-shot 6D Object Pose Estimation**|Stefan Thalhammer et.al.|[2302.11827v1](http://arxiv.org/abs/2302.11827v1)|null|
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**NeRF synthesis with shading guidance**|Chenbin Li et.al.|[2306.11556v1](http://arxiv.org/abs/2306.11556v1)|null|
+|**2023-06-19**|**Instruct-NeuralTalker: Editing Audio-Driven Talking Radiance Fields with Instructions**|Yuqi Sun et.al.|[2306.10813v1](http://arxiv.org/abs/2306.10813v1)|null|
+|**2023-06-17**|**MA-NeRF: Motion-Assisted Neural Radiance Fields for Face Synthesis from Sparse Images**|Weichen Zhang et.al.|[2306.10350v1](http://arxiv.org/abs/2306.10350v1)|null|
 |**2023-06-15**|**Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**|Lu Yu et.al.|[2306.09551v1](http://arxiv.org/abs/2306.09551v1)|null|
 |**2023-06-15**|**UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video**|Zhi-Hao Lin et.al.|[2306.09349v2](http://arxiv.org/abs/2306.09349v2)|null|
 |**2023-06-15**|**Seeing the World through Your Eyes**|Hadi Alzayer et.al.|[2306.09348v1](http://arxiv.org/abs/2306.09348v1)|null|
@@ -66,7 +69,4 @@
 |**2023-06-05**|**BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields**|AKM Shahariar Azad Rabby et.al.|[2306.03000v1](http://arxiv.org/abs/2306.03000v1)|null|
 |**2023-06-05**|**Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions**|Shaoxu Li et.al.|[2306.02903v1](http://arxiv.org/abs/2306.02903v1)|**[link](https://github.com/lsx0101/instruct-video2avatar)**|
 |**2023-06-05**|**ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields**|Kanghyeok Ko et.al.|[2306.02741v1](http://arxiv.org/abs/2306.02741v1)|null|
-|**2023-06-02**|**PanoGRF: Generalizable Spherical Radiance Fields for Wide-baseline Panoramas**|Zheng Chen et.al.|[2306.01531v1](http://arxiv.org/abs/2306.01531v1)|null|
-|**2023-06-01**|**FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models**|Hao Zhang et.al.|[2306.00783v1](http://arxiv.org/abs/2306.00783v1)|**[link](https://github.com/billyxyb/fdnerf)**|
-|**2023-06-01**|**Analyzing the Internals of Neural Radiance Fields**|Lukas Radl et.al.|[2306.00696v1](http://arxiv.org/abs/2306.00696v1)|**[link](https://github.com/r4dl/nerfinternals)**|
 
