@@ -39,6 +39,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423v1](http://arxiv.org/abs/2306.12423v1)|null|
+|**2023-06-21**|**DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**|Yukun Huang et.al.|[2306.12422v1](http://arxiv.org/abs/2306.12422v1)|null|
 |**2023-06-20**|**NeRF synthesis with shading guidance**|Chenbin Li et.al.|[2306.11556v1](http://arxiv.org/abs/2306.11556v1)|null|
 |**2023-06-19**|**Instruct-NeuralTalker: Editing Audio-Driven Talking Radiance Fields with Instructions**|Yuqi Sun et.al.|[2306.10813v1](http://arxiv.org/abs/2306.10813v1)|null|
 |**2023-06-17**|**MA-NeRF: Motion-Assisted Neural Radiance Fields for Face Synthesis from Sparse Images**|Weichen Zhang et.al.|[2306.10350v1](http://arxiv.org/abs/2306.10350v1)|null|
@@ -67,6 +69,4 @@
 |**2023-06-06**|**Human 3D Avatar Modeling with Implicit Neural Representation: A Brief Survey**|Mingyang Sun et.al.|[2306.03576v1](http://arxiv.org/abs/2306.03576v1)|null|
 |**2023-06-05**|**H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation**|Chenxing Jiang et.al.|[2306.03207v1](http://arxiv.org/abs/2306.03207v1)|**[link](https://github.com/sysu-star/h2-mapping)**|
 |**2023-06-05**|**BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields**|AKM Shahariar Azad Rabby et.al.|[2306.03000v1](http://arxiv.org/abs/2306.03000v1)|null|
-|**2023-06-05**|**Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions**|Shaoxu Li et.al.|[2306.02903v1](http://arxiv.org/abs/2306.02903v1)|**[link](https://github.com/lsx0101/instruct-video2avatar)**|
-|**2023-06-05**|**ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields**|Kanghyeok Ko et.al.|[2306.02741v1](http://arxiv.org/abs/2306.02741v1)|null|
 
