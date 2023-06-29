@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Hierarchical Graph Neural Networks for Proprioceptive 6D Pose Estimation of In-hand Objects**|Alireza Rezazadeh et.al.|[2306.15858v1](http://arxiv.org/abs/2306.15858v1)|null|
 |**2023-06-23**|**Shape-Constraint Recurrent Flow for 6D Object Pose Estimation**|Yang Hai et.al.|[2306.13266v1](http://arxiv.org/abs/2306.13266v1)|**[link](https://github.com/yanghai-1218/scflow)**|
 |**2023-06-18**|**GenPose: Generative Category-level Object Pose Estimation via Diffusion Models**|Jiyao Zhang et.al.|[2306.10531v1](http://arxiv.org/abs/2306.10531v1)|null|
 |**2023-06-01**|**A Probabilistic Relaxation of the Two-Stage Object Pose Estimation Paradigm**|Onur Beker et.al.|[2306.00892v1](http://arxiv.org/abs/2306.00892v1)|null|
@@ -37,12 +38,12 @@ layout: default
 |**2023-03-07**|**GMCR: Graph-based Maximum Consensus Estimation for Point Cloud Registration**|Michael Gentner et.al.|[2303.04032v1](http://arxiv.org/abs/2303.04032v1)|null|
 |**2023-03-03**|**Depth-based 6DoF Object Pose Estimation using Swin Transformer**|Zhujun Li et.al.|[2303.02133v2](http://arxiv.org/abs/2303.02133v2)|**[link](https://github.com/zhujunli1993/swindepose)**|
 |**2023-02-28**|**Self-Supervised Category-Level Articulated Object Pose Estimation with Part-Level SE(3) Equivariance**|Xueyi Liu et.al.|[2302.14268v1](http://arxiv.org/abs/2302.14268v1)|**[link](https://github.com/Meowuu7/equi-articulated-pose)**|
-|**2023-02-25**|**BOP Challenge 2022 on Detection, Segmentation and Pose Estimation of Specific Rigid Objects**|Martin Sundermeyer et.al.|[2302.13075v1](http://arxiv.org/abs/2302.13075v1)|null|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Toward a Spectral Foundation Model: An Attention-Based Approach with Domain-Inspired Fine-Tuning and Wavelength Parameterization**|Tomasz Różański et.al.|[2306.15703v1](http://arxiv.org/abs/2306.15703v1)|null|
 |**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203v1](http://arxiv.org/abs/2306.15203v1)|null|
 |**2023-06-26**|**TaiChi Action Capture and Performance Analysis with Multi-view RGB Cameras**|Jianwei Li et.al.|[2306.14490v1](http://arxiv.org/abs/2306.14490v1)|null|
 |**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760v1](http://arxiv.org/abs/2306.12760v1)|null|
@@ -61,7 +62,6 @@ layout: default
 |**2023-06-13**|**NeuS-PIR: Learning Relightable Neural Surface using Pre-Integrated Rendering**|Shi Mao et.al.|[2306.07632v1](http://arxiv.org/abs/2306.07632v1)|null|
 |**2023-06-13**|**Binary Radiance Fields**|Seungjoo Shin et.al.|[2306.07581v1](http://arxiv.org/abs/2306.07581v1)|null|
 |**2023-06-13**|**Parametric Implicit Face Representation for Audio-Driven Facial Reenactment**|Ricong Huang et.al.|[2306.07579v1](http://arxiv.org/abs/2306.07579v1)|null|
-|**2023-06-06**|**ATT3D: Amortized Text-to-3D Object Synthesis**|Jonathan Lorraine et.al.|[2306.07349v1](http://arxiv.org/abs/2306.07349v1)|null|
 |**2023-06-10**|**From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm**|Kun Zhou et.al.|[2306.06388v1](http://arxiv.org/abs/2306.06388v1)|null|
 |**2023-06-10**|**NeRFool: Uncovering the Vulnerability of Generalizable Neural Radiance Fields against Adversarial Perturbations**|Yonggan Fu et.al.|[2306.06359v1](http://arxiv.org/abs/2306.06359v1)|null|
 |**2023-06-09**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami et.al.|[2306.06300v2](http://arxiv.org/abs/2306.06300v2)|**[link](https://github.com/3dom-fbk/nerfbk)**|
