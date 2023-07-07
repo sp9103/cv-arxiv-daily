@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.06
+## Updated on 2023.07.07
 
 ## 6DOF Object Pose
 
