@@ -43,6 +43,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-16**|**Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**|Yifan Yang et.al.|[2307.08093v1](http://arxiv.org/abs/2307.08093v1)|**[link](https://github.com/yifyang993/cr-nerf-pytorch)**|
+|**2023-07-15**|**Improving NeRF with Height Data for Utilization of GIS Data**|Hinata Aoki et.al.|[2307.07729v1](http://arxiv.org/abs/2307.07729v1)|null|
 |**2023-07-14**|**CeRF: Convolutional Neural Radiance Fields for New View Synthesis with Derivatives of Ray Modeling**|Xiaoyan Yang et.al.|[2307.07125v2](http://arxiv.org/abs/2307.07125v2)|null|
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087v1](http://arxiv.org/abs/2307.05087v1)|null|
 |**2023-07-10**|**Articulated 3D Head Avatar Generation using Text-to-Image Diffusion Models**|Alexander W. Bergman et.al.|[2307.04859v1](http://arxiv.org/abs/2307.04859v1)|null|
@@ -71,6 +73,4 @@ layout: default
 |**2023-06-13**|**Neural Scene Chronology**|Haotong Lin et.al.|[2306.07970v1](http://arxiv.org/abs/2306.07970v1)|null|
 |**2023-06-13**|**NeuS-PIR: Learning Relightable Neural Surface using Pre-Integrated Rendering**|Shi Mao et.al.|[2306.07632v1](http://arxiv.org/abs/2306.07632v1)|null|
 |**2023-06-13**|**Binary Radiance Fields**|Seungjoo Shin et.al.|[2306.07581v1](http://arxiv.org/abs/2306.07581v1)|null|
-|**2023-06-13**|**Parametric Implicit Face Representation for Audio-Driven Facial Reenactment**|Ricong Huang et.al.|[2306.07579v1](http://arxiv.org/abs/2306.07579v1)|null|
-|**2023-06-10**|**From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm**|Kun Zhou et.al.|[2306.06388v2](http://arxiv.org/abs/2306.06388v2)|null|
 
