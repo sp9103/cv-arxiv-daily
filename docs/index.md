@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.17
+## Updated on 2023.07.18
 
 ## 6DOF Object Pose
 
@@ -43,13 +43,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-14**|**CeRF: Convolutional Neural Radiance Fields for New View Synthesis with Derivatives of Ray Modeling**|Xiaoyan Yang et.al.|[2307.07125v1](http://arxiv.org/abs/2307.07125v1)|null|
+|**2023-07-14**|**CeRF: Convolutional Neural Radiance Fields for New View Synthesis with Derivatives of Ray Modeling**|Xiaoyan Yang et.al.|[2307.07125v2](http://arxiv.org/abs/2307.07125v2)|null|
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087v1](http://arxiv.org/abs/2307.05087v1)|null|
 |**2023-07-10**|**Articulated 3D Head Avatar Generation using Text-to-Image Diffusion Models**|Alexander W. Bergman et.al.|[2307.04859v1](http://arxiv.org/abs/2307.04859v1)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441v1](http://arxiv.org/abs/2307.03441v1)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404v1](http://arxiv.org/abs/2307.03404v1)|null|
 |**2023-06-30**|**Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**|Guocheng Qian et.al.|[2306.17843v1](http://arxiv.org/abs/2306.17843v1)|**[link](https://github.com/guochengqian/magic123)**|
-|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v1](http://arxiv.org/abs/2306.17723v1)|null|
+|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v2](http://arxiv.org/abs/2306.17723v2)|null|
 |**2023-06-30**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624v2](http://arxiv.org/abs/2306.17624v2)|null|
 |**2023-06-29**|**One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**|Minghua Liu et.al.|[2306.16928v1](http://arxiv.org/abs/2306.16928v1)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541v1](http://arxiv.org/abs/2306.16541v1)|null|
