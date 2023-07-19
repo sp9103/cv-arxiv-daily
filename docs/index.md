@@ -43,6 +43,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Jiahe Li et.al.|[2307.09323v1](http://arxiv.org/abs/2307.09323v1)|**[link](https://github.com/fictionarry/er-nerf)**|
+|**2023-07-18**|**OPHAvatars: One-shot Photo-realistic Head Avatars**|Shaoxu Li et.al.|[2307.09153v1](http://arxiv.org/abs/2307.09153v1)|null|
+|**2023-07-18**|**PixelHuman: Animatable Neural Radiance Fields from Few Images**|Gyumin Shim et.al.|[2307.09070v1](http://arxiv.org/abs/2307.09070v1)|null|
 |**2023-07-16**|**Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**|Yifan Yang et.al.|[2307.08093v1](http://arxiv.org/abs/2307.08093v1)|**[link](https://github.com/yifyang993/cr-nerf-pytorch)**|
 |**2023-07-15**|**Improving NeRF with Height Data for Utilization of GIS Data**|Hinata Aoki et.al.|[2307.07729v1](http://arxiv.org/abs/2307.07729v1)|null|
 |**2023-07-14**|**CeRF: Convolutional Neural Radiance Fields for New View Synthesis with Derivatives of Ray Modeling**|Xiaoyan Yang et.al.|[2307.07125v2](http://arxiv.org/abs/2307.07125v2)|null|
@@ -70,7 +73,4 @@ layout: default
 |**2023-06-15**|**Seeing the World through Your Eyes**|Hadi Alzayer et.al.|[2306.09348v1](http://arxiv.org/abs/2306.09348v1)|null|
 |**2023-06-15**|**DreamHuman: Animatable 3D Avatars from Text**|Nikos Kolotouros et.al.|[2306.09329v1](http://arxiv.org/abs/2306.09329v1)|null|
 |**2023-06-13**|**DORSal: Diffusion for Object-centric Representations of Scenes $\textit{et al.}$**|Allan Jabri et.al.|[2306.08068v1](http://arxiv.org/abs/2306.08068v1)|null|
-|**2023-06-13**|**Neural Scene Chronology**|Haotong Lin et.al.|[2306.07970v1](http://arxiv.org/abs/2306.07970v1)|null|
-|**2023-06-13**|**NeuS-PIR: Learning Relightable Neural Surface using Pre-Integrated Rendering**|Shi Mao et.al.|[2306.07632v1](http://arxiv.org/abs/2306.07632v1)|null|
-|**2023-06-13**|**Binary Radiance Fields**|Seungjoo Shin et.al.|[2306.07581v1](http://arxiv.org/abs/2306.07581v1)|null|
 
