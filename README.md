@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Revisiting Fully Convolutional Geometric Features for Object 6D Pose Estimation**|Jaime Corsetti et.al.|[2307.15514v1](http://arxiv.org/abs/2307.15514v1)|null|
 |**2023-07-23**|**TransNet: Transparent Object Manipulation Through Category-Level Pose Estimation**|Huijie Zhang et.al.|[2307.12400v1](http://arxiv.org/abs/2307.12400v1)|null|
 |**2023-07-23**|**FDCT: Fast Depth Completion for Transparent Objects**|Tianan Li et.al.|[2307.12274v2](http://arxiv.org/abs/2307.12274v2)|**[link](https://github.com/nonmy/fdct)**|
 |**2023-07-22**|**Challenges for Monocular 6D Object Pose Estimation in Robotics**|Stefan Thalhammer et.al.|[2307.12172v1](http://arxiv.org/abs/2307.12172v1)|null|
@@ -32,13 +33,14 @@
 |**2023-03-28**|**HS-Pose: Hybrid Scope Feature Extraction for Category-level Object Pose Estimation**|Linfang Zheng et.al.|[2303.15743v1](http://arxiv.org/abs/2303.15743v1)|**[link](https://github.com/lynne-zheng-linfang/hs-pose)**|
 |**2023-03-23**|**NOPE: Novel Object Pose Estimation from a Single Image**|Van Nguyen Nguyen et.al.|[2303.13612v1](http://arxiv.org/abs/2303.13612v1)|**[link](https://github.com/nv-nguyen/nope)**|
 |**2023-03-23**|**6D Object Pose Estimation from Approximate 3D Models for Orbital Robotics**|Maximilian Ulmer et.al.|[2303.13241v3](http://arxiv.org/abs/2303.13241v3)|null|
-|**2023-03-22**|**EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation**|Hansheng Chen et.al.|[2303.12787v2](http://arxiv.org/abs/2303.12787v2)|null|
-|**2023-03-22**|**Rigidity-Aware Detection for 6D Object Pose Estimation**|Yang Hai et.al.|[2303.12396v1](http://arxiv.org/abs/2303.12396v1)|**[link](https://github.com/yanghai-1218/radet)**|
+|**2023-03-22**|**EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation**|Hansheng Chen et.al.|[2303.12787v2](http://arxiv.org/abs/2303.12787v2)|**[link](https://github.com/tjiiv-cprg/epro-pnp-v2)**|
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF**|Haotian Bai et.al.|[2307.15333v1](http://arxiv.org/abs/2307.15333v1)|null|
+|**2023-07-27**|**Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**|Xiangyu Wang et.al.|[2307.15131v1](http://arxiv.org/abs/2307.15131v1)|**[link](https://github.com/windingwind/seal-3d)**|
 |**2023-07-27**|**MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving**|Zirui Wu et.al.|[2307.15058v1](http://arxiv.org/abs/2307.15058v1)|null|
 |**2023-07-27**|**MapNeRF: Incorporating Map Priors into Neural Radiance Fields for Driving View Simulation**|Chenming Wu et.al.|[2307.14981v1](http://arxiv.org/abs/2307.14981v1)|null|
 |**2023-07-27**|**NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection**|Chenfeng Xu et.al.|[2307.14620v1](http://arxiv.org/abs/2307.14620v1)|**[link](https://github.com/facebookresearch/nerf-det)**|
@@ -67,6 +69,4 @@
 |**2023-07-10**|**Articulated 3D Head Avatar Generation using Text-to-Image Diffusion Models**|Alexander W. Bergman et.al.|[2307.04859v1](http://arxiv.org/abs/2307.04859v1)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441v1](http://arxiv.org/abs/2307.03441v1)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404v1](http://arxiv.org/abs/2307.03404v1)|null|
-|**2023-06-30**|**Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**|Guocheng Qian et.al.|[2306.17843v2](http://arxiv.org/abs/2306.17843v2)|**[link](https://github.com/guochengqian/magic123)**|
-|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v3](http://arxiv.org/abs/2306.17723v3)|null|
 
