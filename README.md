@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-30**|**Touch if it's transparent! ACTOR: Active Tactile-based Category-Level Transparent Object Reconstruction**|Prajval Kumar Murali et.al.|[2307.16254v1](http://arxiv.org/abs/2307.16254v1)|null|
 |**2023-07-28**|**Revisiting Fully Convolutional Geometric Features for Object 6D Pose Estimation**|Jaime Corsetti et.al.|[2307.15514v1](http://arxiv.org/abs/2307.15514v1)|null|
 |**2023-07-23**|**TransNet: Transparent Object Manipulation Through Category-Level Pose Estimation**|Huijie Zhang et.al.|[2307.12400v1](http://arxiv.org/abs/2307.12400v1)|null|
 |**2023-07-23**|**FDCT: Fast Depth Completion for Transparent Objects**|Tianan Li et.al.|[2307.12274v2](http://arxiv.org/abs/2307.12274v2)|**[link](https://github.com/nonmy/fdct)**|
@@ -33,7 +34,6 @@
 |**2023-03-28**|**HS-Pose: Hybrid Scope Feature Extraction for Category-level Object Pose Estimation**|Linfang Zheng et.al.|[2303.15743v1](http://arxiv.org/abs/2303.15743v1)|**[link](https://github.com/lynne-zheng-linfang/hs-pose)**|
 |**2023-03-23**|**NOPE: Novel Object Pose Estimation from a Single Image**|Van Nguyen Nguyen et.al.|[2303.13612v1](http://arxiv.org/abs/2303.13612v1)|**[link](https://github.com/nv-nguyen/nope)**|
 |**2023-03-23**|**6D Object Pose Estimation from Approximate 3D Models for Orbital Robotics**|Maximilian Ulmer et.al.|[2303.13241v3](http://arxiv.org/abs/2303.13241v3)|null|
-|**2023-03-22**|**EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation**|Hansheng Chen et.al.|[2303.12787v2](http://arxiv.org/abs/2303.12787v2)|**[link](https://github.com/tjiiv-cprg/epro-pnp-v2)**|
 
 ## NeRF
 
