@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.31
+## Updated on 2023.08.01
 
 ## 6DOF Object Pose
 
@@ -54,7 +54,7 @@ layout: default
 |**2023-07-24**|**Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields**|Shangzhan Zhang et.al.|[2307.12909v1](http://arxiv.org/abs/2307.12909v1)|null|
 |**2023-07-24**|**CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**|Davide Di Nucci et.al.|[2307.12718v1](http://arxiv.org/abs/2307.12718v1)|null|
 |**2023-07-23**|**TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering**|Xiao Pan et.al.|[2307.12291v1](http://arxiv.org/abs/2307.12291v1)|null|
-|**2023-07-21**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526v1](http://arxiv.org/abs/2307.11526v1)|null|
+|**2023-07-21**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526v2](http://arxiv.org/abs/2307.11526v2)|null|
 |**2023-07-21**|**FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields**|Sungwon Hwang et.al.|[2307.11418v1](http://arxiv.org/abs/2307.11418v1)|null|
 |**2023-07-21**|**Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields**|Wenbo Hu et.al.|[2307.11335v1](http://arxiv.org/abs/2307.11335v1)|null|
 |**2023-07-21**|**EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos**|Ruyi Zha et.al.|[2307.11307v1](http://arxiv.org/abs/2307.11307v1)|**[link](https://github.com/ruyi-zha/endosurf)**|
