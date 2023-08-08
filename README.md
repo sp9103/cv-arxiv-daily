@@ -1,4 +1,4 @@
-## Updated on 2023.08.07
+## Updated on 2023.08.08
 
 ## 6DOF Object Pose
 
@@ -47,7 +47,7 @@
 |**2023-07-28**|**Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF**|Haotian Bai et.al.|[2307.15333v1](http://arxiv.org/abs/2307.15333v1)|null|
 |**2023-07-27**|**Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**|Xiangyu Wang et.al.|[2307.15131v1](http://arxiv.org/abs/2307.15131v1)|**[link](https://github.com/windingwind/seal-3d)**|
 |**2023-07-27**|**MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving**|Zirui Wu et.al.|[2307.15058v1](http://arxiv.org/abs/2307.15058v1)|**[link](https://github.com/open-air-sun/mars)**|
-|**2023-07-27**|**MapNeRF: Incorporating Map Priors into Neural Radiance Fields for Driving View Simulation**|Chenming Wu et.al.|[2307.14981v1](http://arxiv.org/abs/2307.14981v1)|null|
+|**2023-07-27**|**MapNeRF: Incorporating Map Priors into Neural Radiance Fields for Driving View Simulation**|Chenming Wu et.al.|[2307.14981v2](http://arxiv.org/abs/2307.14981v2)|null|
 |**2023-07-27**|**NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection**|Chenfeng Xu et.al.|[2307.14620v1](http://arxiv.org/abs/2307.14620v1)|**[link](https://github.com/facebookresearch/nerf-det)**|
 |**2023-07-26**|**Car-Studio: Learning Car Radiance Fields from Single-View and Endless In-the-wild Images**|Tianyu Liu et.al.|[2307.14009v1](http://arxiv.org/abs/2307.14009v1)|**[link](https://github.com/lty2226262/Car_studio)**|
 |**2023-07-26**|**Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation**|Chaohui Yu et.al.|[2307.13908v1](http://arxiv.org/abs/2307.13908v1)|null|
@@ -56,7 +56,7 @@
 |**2023-07-24**|**CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**|Davide Di Nucci et.al.|[2307.12718v1](http://arxiv.org/abs/2307.12718v1)|null|
 |**2023-07-23**|**TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering**|Xiao Pan et.al.|[2307.12291v1](http://arxiv.org/abs/2307.12291v1)|null|
 |**2023-07-21**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526v2](http://arxiv.org/abs/2307.11526v2)|null|
-|**2023-07-21**|**FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields**|Sungwon Hwang et.al.|[2307.11418v1](http://arxiv.org/abs/2307.11418v1)|null|
+|**2023-07-21**|**FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields**|Sungwon Hwang et.al.|[2307.11418v2](http://arxiv.org/abs/2307.11418v2)|null|
 |**2023-07-21**|**Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields**|Wenbo Hu et.al.|[2307.11335v1](http://arxiv.org/abs/2307.11335v1)|null|
 |**2023-07-21**|**EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos**|Ruyi Zha et.al.|[2307.11307v1](http://arxiv.org/abs/2307.11307v1)|**[link](https://github.com/ruyi-zha/endosurf)**|
 |**2023-07-20**|**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**|Fan Lu et.al.|[2307.10776v1](http://arxiv.org/abs/2307.10776v1)|null|
