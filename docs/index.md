@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Aggressive Aerial Grasping using a Soft Drone with Onboard Perception**|Samuel Ubellacker et.al.|[2308.06351v1](http://arxiv.org/abs/2308.06351v1)|null|
 |**2023-08-10**|**Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation**|Jun Zhou et.al.|[2308.05438v1](http://arxiv.org/abs/2308.05438v1)|**[link](https://github.com/junzastar/dftr_voting)**|
 |**2023-08-03**|**Active Acoustic Sensing for Robot Manipulation**|Shihan Lu et.al.|[2308.01600v1](http://arxiv.org/abs/2308.01600v1)|null|
 |**2023-08-02**|**HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose Annotations, Affordances, and Reconstructions**|Andrew Guo et.al.|[2308.01477v1](http://arxiv.org/abs/2308.01477v1)|null|
@@ -35,21 +36,22 @@ layout: default
 |**2023-04-17**|**Uncovering the Background-Induced bias in RGB based 6-DoF Object Pose Estimation**|Elena Govi et.al.|[2304.08230v1](http://arxiv.org/abs/2304.08230v1)|**[link](https://github.com/elego9/6dp-data-bias)**|
 |**2023-04-10**|**ShapeShift: Superquadric-based Object Pose Estimation for Robotic Grasping**|E. Zhixuan Zeng et.al.|[2304.04861v1](http://arxiv.org/abs/2304.04861v1)|null|
 |**2023-04-03**|**PoseMatcher: One-shot 6D Object Pose Estimation by Deep Feature Matching**|Pedro Castro et.al.|[2304.01382v1](http://arxiv.org/abs/2304.01382v1)|null|
-|**2023-03-29**|**CheckerPose: Progressive Dense Keypoint Localization for Object Pose Estimation with Graph Neural Network**|Ruyi Lian et.al.|[2303.16874v2](http://arxiv.org/abs/2303.16874v2)|null|
+|**2023-03-29**|**CheckerPose: Progressive Dense Keypoint Localization for Object Pose Estimation with Graph Neural Network**|Ruyi Lian et.al.|[2303.16874v2](http://arxiv.org/abs/2303.16874v2)|**[link](https://github.com/ruyilian/checkerpose)**|
 |**2023-03-29**|**Multi-View Keypoints for Reliable 6D Object Pose Estimation**|Alan Li et.al.|[2303.16833v1](http://arxiv.org/abs/2303.16833v1)|null|
-|**2023-03-29**|**TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation**|Taeyeop Lee et.al.|[2303.16730v1](http://arxiv.org/abs/2303.16730v1)|null|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118v1](http://arxiv.org/abs/2308.07118v1)|**[link](https://github.com/maftej/iisnerf)**|
+|**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032v1](http://arxiv.org/abs/2308.07032v1)|null|
 |**2023-08-11**|**Focused Specific Objects NeRF**|Yuesong Li et.al.|[2308.05970v1](http://arxiv.org/abs/2308.05970v1)|null|
 |**2023-08-11**|**VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**|Dominic Maggio et.al.|[2308.05939v1](http://arxiv.org/abs/2308.05939v1)|null|
 |**2023-08-09**|**Scene-Generalizable Interactive Segmentation of Radiance Fields**|Songlin Tang et.al.|[2308.05104v1](http://arxiv.org/abs/2308.05104v1)|null|
 |**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826v1](http://arxiv.org/abs/2308.04826v1)|null|
 |**2023-08-09**|**A General Implicit Framework for Fast NeRF Composition and Rendering**|Xinyu Gao et.al.|[2308.04669v2](http://arxiv.org/abs/2308.04669v2)|null|
 |**2023-08-08**|**Digging into Depth Priors for Outdoor Neural Radiance Fields**|Chen Wang et.al.|[2308.04413v1](http://arxiv.org/abs/2308.04413v1)|null|
-|**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079v1](http://arxiv.org/abs/2308.04079v1)|null|
+|**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079v1](http://arxiv.org/abs/2308.04079v1)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-07-27**|**Improved Neural Radiance Fields Using Pseudo-depth and Fusion**|Jingliang Li et.al.|[2308.03772v1](http://arxiv.org/abs/2308.03772v1)|null|
 |**2023-08-07**|**3D Motion Magnification: Visualizing Subtle Motions with Time Varying Radiance Fields**|Brandon Y. Feng et.al.|[2308.03757v1](http://arxiv.org/abs/2308.03757v1)|null|
 |**2023-08-07**|**Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**|Junyi Zeng et.al.|[2308.03280v1](http://arxiv.org/abs/2308.03280v1)|null|
@@ -71,6 +73,4 @@ layout: default
 |**2023-07-25**|**Strivec: Sparse Tri-Vector Radiance Fields**|Quankai Gao et.al.|[2307.13226v1](http://arxiv.org/abs/2307.13226v1)|**[link](https://github.com/zerg-overmind/strivec)**|
 |**2023-07-24**|**Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields**|Shangzhan Zhang et.al.|[2307.12909v1](http://arxiv.org/abs/2307.12909v1)|null|
 |**2023-07-24**|**CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**|Davide Di Nucci et.al.|[2307.12718v1](http://arxiv.org/abs/2307.12718v1)|null|
-|**2023-07-23**|**TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering**|Xiao Pan et.al.|[2307.12291v1](http://arxiv.org/abs/2307.12291v1)|null|
-|**2023-07-21**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526v2](http://arxiv.org/abs/2307.11526v2)|null|
 
