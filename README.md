@@ -1,4 +1,4 @@
-## Updated on 2023.08.19
+## Updated on 2023.08.20
 
 ## 6DOF Object Pose
 
