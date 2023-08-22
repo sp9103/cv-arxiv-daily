@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-19**|**3D-Aware Neural Body Fitting for Occlusion Robust 3D Human Pose Estimation**|Yi Zhang et.al.|[2308.10123v1](http://arxiv.org/abs/2308.10123v1)|**[link](https://github.com/edz-o/3dnbf)**|
+|**2023-08-19**|**Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation**|Yang Hai et.al.|[2308.10016v1](http://arxiv.org/abs/2308.10016v1)|**[link](https://github.com/yanghai-1218/pseudoflow)**|
+|**2023-08-19**|**VI-Net: Boosting Category-level 6D Object Pose Estimation via Learning Decoupled Rotations on the Spherical Representations**|Jiehong Lin et.al.|[2308.09916v1](http://arxiv.org/abs/2308.09916v1)|**[link](https://github.com/jiehonglin/vi-net)**|
 |**2023-08-16**|**Exploiting Point-Wise Attention in 6D Object Pose Estimation Based on Bidirectional Prediction**|Yuhao Yang et.al.|[2308.08518v2](http://arxiv.org/abs/2308.08518v2)|null|
 |**2023-08-11**|**Aggressive Aerial Grasping using a Soft Drone with Onboard Perception**|Samuel Ubellacker et.al.|[2308.06351v1](http://arxiv.org/abs/2308.06351v1)|null|
 |**2023-08-10**|**Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation**|Jun Zhou et.al.|[2308.05438v1](http://arxiv.org/abs/2308.05438v1)|**[link](https://github.com/junzastar/dftr_voting)**|
@@ -35,14 +38,16 @@ layout: default
 |**2023-05-23**|**MultiSCOPE: Disambiguating In-Hand Object Poses with Proprioception and Tactile Feedback**|Andrea Sipos et.al.|[2305.14204v1](http://arxiv.org/abs/2305.14204v1)|null|
 |**2023-05-02**|**ContactArt: Learning 3D Interaction Priors for Category-level Articulated Object and Hand Poses Estimation**|Zehao Zhu et.al.|[2305.01618v1](http://arxiv.org/abs/2305.01618v1)|null|
 |**2023-04-17**|**Uncovering the Background-Induced bias in RGB based 6-DoF Object Pose Estimation**|Elena Govi et.al.|[2304.08230v1](http://arxiv.org/abs/2304.08230v1)|**[link](https://github.com/elego9/6dp-data-bias)**|
-|**2023-04-10**|**ShapeShift: Superquadric-based Object Pose Estimation for Robotic Grasping**|E. Zhixuan Zeng et.al.|[2304.04861v1](http://arxiv.org/abs/2304.04861v1)|null|
-|**2023-04-03**|**PoseMatcher: One-shot 6D Object Pose Estimation by Deep Feature Matching**|Pedro Castro et.al.|[2304.01382v1](http://arxiv.org/abs/2304.01382v1)|null|
-|**2023-03-29**|**CheckerPose: Progressive Dense Keypoint Localization for Object Pose Estimation with Graph Neural Network**|Ruyi Lian et.al.|[2303.16874v2](http://arxiv.org/abs/2303.16874v2)|**[link](https://github.com/ruyilian/checkerpose)**|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902v1](http://arxiv.org/abs/2308.10902v1)|null|
+|**2023-08-20**|**Strata-NeRF : Neural Radiance Fields for Stratified Scenes**|Ankit Dhiman et.al.|[2308.10337v1](http://arxiv.org/abs/2308.10337v1)|null|
+|**2023-08-19**|**HollowNeRF: Pruning Hashgrid-Based NeRFs with Trainable Collision Mitigation**|Xiufeng Xie et.al.|[2308.10122v1](http://arxiv.org/abs/2308.10122v1)|null|
+|**2023-08-19**|**AltNeRF: Learning Robust Neural Radiance Field via Alternating Depth-Pose Optimization**|Kun Wang et.al.|[2308.10001v1](http://arxiv.org/abs/2308.10001v1)|null|
+|**2023-08-19**|**Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing**|Jie Zhang et.al.|[2308.09894v1](http://arxiv.org/abs/2308.09894v1)|null|
 |**2023-08-18**|**MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection**|Junkai Xu et.al.|[2308.09421v1](http://arxiv.org/abs/2308.09421v1)|**[link](https://github.com/cskkxjk/mononerd)**|
 |**2023-08-18**|**DReg-NeRF: Deep Registration for Neural Radiance Fields**|Yu Chen et.al.|[2308.09386v1](http://arxiv.org/abs/2308.09386v1)|**[link](https://github.com/aibluefisher/dreg-nerf)**|
 |**2023-08-17**|**Watch Your Steps: Local Image and Scene Editing by Text Instructions**|Ashkan Mirzaei et.al.|[2308.08947v1](http://arxiv.org/abs/2308.08947v1)|null|
@@ -58,7 +63,6 @@ layout: default
 |**2023-08-09**|**A General Implicit Framework for Fast NeRF Composition and Rendering**|Xinyu Gao et.al.|[2308.04669v2](http://arxiv.org/abs/2308.04669v2)|null|
 |**2023-08-08**|**Digging into Depth Priors for Outdoor Neural Radiance Fields**|Chen Wang et.al.|[2308.04413v1](http://arxiv.org/abs/2308.04413v1)|null|
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079v1](http://arxiv.org/abs/2308.04079v1)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
-|**2023-07-27**|**Improved Neural Radiance Fields Using Pseudo-depth and Fusion**|Jingliang Li et.al.|[2308.03772v1](http://arxiv.org/abs/2308.03772v1)|null|
 |**2023-08-07**|**3D Motion Magnification: Visualizing Subtle Motions with Time Varying Radiance Fields**|Brandon Y. Feng et.al.|[2308.03757v1](http://arxiv.org/abs/2308.03757v1)|null|
 |**2023-08-07**|**Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**|Junyi Zeng et.al.|[2308.03280v1](http://arxiv.org/abs/2308.03280v1)|null|
 |**2023-08-05**|**Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**|Yanqi Bao et.al.|[2308.02908v1](http://arxiv.org/abs/2308.02908v1)|**[link](https://github.com/bbbbby-99/wah-nerf)**|
@@ -69,8 +73,4 @@ layout: default
 |**2023-08-01**|**High-Fidelity Eye Animatable Neural Radiance Fields for Human Face**|Hengfei Wang et.al.|[2308.00773v1](http://arxiv.org/abs/2308.00773v1)|null|
 |**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462v1](http://arxiv.org/abs/2308.00462v1)|null|
 |**2023-08-01**|**Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF)**|Chaochao Zhou et.al.|[2308.00214v2](http://arxiv.org/abs/2308.00214v2)|null|
-|**2023-07-28**|**Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF**|Haotian Bai et.al.|[2307.15333v1](http://arxiv.org/abs/2307.15333v1)|null|
-|**2023-07-27**|**Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**|Xiangyu Wang et.al.|[2307.15131v1](http://arxiv.org/abs/2307.15131v1)|**[link](https://github.com/windingwind/seal-3d)**|
-|**2023-07-27**|**MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving**|Zirui Wu et.al.|[2307.15058v1](http://arxiv.org/abs/2307.15058v1)|**[link](https://github.com/open-air-sun/mars)**|
-|**2023-07-27**|**MapNeRF: Incorporating Map Priors into Neural Radiance Fields for Driving View Simulation**|Chenming Wu et.al.|[2307.14981v2](http://arxiv.org/abs/2307.14981v2)|null|
 
