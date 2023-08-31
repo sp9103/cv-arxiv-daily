@@ -39,6 +39,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications**|Shreyank N Gowda et.al.|[2308.16041v1](http://arxiv.org/abs/2308.16041v1)|null|
+|**2023-08-30**|**Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey**|Zhihao Jia et.al.|[2308.15733v1](http://arxiv.org/abs/2308.15733v1)|null|
+|**2023-08-29**|**Efficient Ray Sampling for Radiance Fields Reconstruction**|Shilei Sun et.al.|[2308.15547v1](http://arxiv.org/abs/2308.15547v1)|null|
 |**2023-08-29**|**Canonical Factors for Hybrid Neural Fields**|Brent Yi et.al.|[2308.15461v1](http://arxiv.org/abs/2308.15461v1)|null|
 |**2023-08-29**|**Pose-Free Neural Radiance Fields via Implicit Pose Regularization**|Jiahui Zhang et.al.|[2308.15049v1](http://arxiv.org/abs/2308.15049v1)|null|
 |**2023-08-28**|**CLNeRF: Continual Learning Meets NeRF**|Zhipeng Cai et.al.|[2308.14816v1](http://arxiv.org/abs/2308.14816v1)|**[link](https://github.com/intellabs/clnerf)**|
@@ -66,7 +69,4 @@
 |**2023-08-17**|**Watch Your Steps: Local Image and Scene Editing by Text Instructions**|Ashkan Mirzaei et.al.|[2308.08947v1](http://arxiv.org/abs/2308.08947v1)|null|
 |**2023-08-17**|**Language-enhanced RNR-Map: Querying Renderable Neural Radiance Field maps with natural language**|Francesco Taioli et.al.|[2308.08854v1](http://arxiv.org/abs/2308.08854v1)|**[link](https://github.com/intelligolabs/Le-RNR-Map)**|
 |**2023-08-16**|**Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstruction**|Georgios Kouros et.al.|[2308.08530v3](http://arxiv.org/abs/2308.08530v3)|**[link](https://github.com/gkouros/ref-dvgo)**|
-|**2023-08-16**|**SceNeRFlow: Time-Consistent Reconstruction of General Dynamic Scenes**|Edith Tretschk et.al.|[2308.08258v1](http://arxiv.org/abs/2308.08258v1)|null|
-|**2023-08-14**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118v2](http://arxiv.org/abs/2308.07118v2)|**[link](https://github.com/maftej/iisnerf)**|
-|**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032v1](http://arxiv.org/abs/2308.07032v1)|**[link](https://github.com/madaoer/s3im_nerf)**|
 
