@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.31
+## Updated on 2023.09.01
 
 ## 6DOF Object Pose
 
@@ -63,7 +63,7 @@ layout: default
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774v1](http://arxiv.org/abs/2308.11774v1)|null|
 |**2023-08-22**|**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**|Wentian Qu et.al.|[2308.11198v1](http://arxiv.org/abs/2308.11198v1)|null|
 |**2023-08-22**|**Efficient View Synthesis with Neural Radiance Distribution Field**|Yushuang Wu et.al.|[2308.11130v1](http://arxiv.org/abs/2308.11130v1)|null|
-|**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902v1](http://arxiv.org/abs/2308.10902v1)|null|
+|**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902v2](http://arxiv.org/abs/2308.10902v2)|null|
 |**2023-08-20**|**Strata-NeRF : Neural Radiance Fields for Stratified Scenes**|Ankit Dhiman et.al.|[2308.10337v1](http://arxiv.org/abs/2308.10337v1)|null|
 |**2023-08-19**|**HollowNeRF: Pruning Hashgrid-Based NeRFs with Trainable Collision Mitigation**|Xiufeng Xie et.al.|[2308.10122v1](http://arxiv.org/abs/2308.10122v1)|null|
 |**2023-08-19**|**AltNeRF: Learning Robust Neural Radiance Field via Alternating Depth-Pose Optimization**|Kun Wang et.al.|[2308.10001v1](http://arxiv.org/abs/2308.10001v1)|null|
