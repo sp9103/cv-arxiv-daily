@@ -71,6 +71,6 @@ layout: default
 |**2023-08-25**|**Relighting Neural Radiance Fields with Shadow and Highlight Hints**|Chong Zeng et.al.|[2308.13404v1](http://arxiv.org/abs/2308.13404v1)|**[link](https://github.com/iamNCJ/NRHints)**|
 |**2023-08-24**|**NOVA: NOvel View Augmentation for Neural Composition of Dynamic Objects**|Dakshit Agrawal et.al.|[2308.12560v1](http://arxiv.org/abs/2308.12560v1)|**[link](https://github.com/dakshitagrawal/nova)**|
 |**2023-08-23**|**ARF-Plus: Controlling Perceptual Factors in Artistic Radiance Fields for 3D Scene Stylization**|Wenzhao Li et.al.|[2308.12452v2](http://arxiv.org/abs/2308.12452v2)|null|
-|**2023-08-23**|**Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields**|Hyeonseop Song et.al.|[2308.11974v1](http://arxiv.org/abs/2308.11974v1)|null|
+|**2023-08-23**|**Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields**|Hyeonseop Song et.al.|[2308.11974v2](http://arxiv.org/abs/2308.11974v2)|null|
 |**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951v2](http://arxiv.org/abs/2308.11951v2)|null|
 
