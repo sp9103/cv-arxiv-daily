@@ -1,4 +1,4 @@
-## Updated on 2023.09.14
+## Updated on 2023.09.15
 
 ## 6DOF Object Pose
 
@@ -10,7 +10,7 @@
 |**2023-08-19**|**3D-Aware Neural Body Fitting for Occlusion Robust 3D Human Pose Estimation**|Yi Zhang et.al.|[2308.10123v1](http://arxiv.org/abs/2308.10123v1)|**[link](https://github.com/edz-o/3dnbf)**|
 |**2023-08-19**|**Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation**|Yang Hai et.al.|[2308.10016v1](http://arxiv.org/abs/2308.10016v1)|**[link](https://github.com/yanghai-1218/pseudoflow)**|
 |**2023-08-19**|**VI-Net: Boosting Category-level 6D Object Pose Estimation via Learning Decoupled Rotations on the Spherical Representations**|Jiehong Lin et.al.|[2308.09916v1](http://arxiv.org/abs/2308.09916v1)|**[link](https://github.com/jiehonglin/vi-net)**|
-|**2023-08-16**|**Exploiting Point-Wise Attention in 6D Object Pose Estimation Based on Bidirectional Prediction**|Yuhao Yang et.al.|[2308.08518v2](http://arxiv.org/abs/2308.08518v2)|null|
+|**2023-08-16**|**Exploiting Point-Wise Attention in 6D Object Pose Estimation Based on Bidirectional Prediction**|Yuhao Yang et.al.|[2308.08518v3](http://arxiv.org/abs/2308.08518v3)|null|
 |**2023-08-11**|**Aggressive Aerial Grasping using a Soft Drone with Onboard Perception**|Samuel Ubellacker et.al.|[2308.06351v1](http://arxiv.org/abs/2308.06351v1)|null|
 |**2023-08-10**|**Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation**|Jun Zhou et.al.|[2308.05438v1](http://arxiv.org/abs/2308.05438v1)|**[link](https://github.com/junzastar/dftr_voting)**|
 |**2023-08-03**|**Active Acoustic Sensing for Robot Manipulation**|Shihan Lu et.al.|[2308.01600v1](http://arxiv.org/abs/2308.01600v1)|null|
@@ -50,7 +50,7 @@
 |**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750v1](http://arxiv.org/abs/2309.04750v1)|null|
 |**2023-09-08**|**Dynamic Mesh-Aware Radiance Fields**|Yi-Ling Qiao et.al.|[2309.04581v1](http://arxiv.org/abs/2309.04581v1)|null|
 |**2023-09-08**|**DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields**|Junzhe Zhang et.al.|[2309.04410v1](http://arxiv.org/abs/2309.04410v1)|null|
-|**2023-09-07**|**SimpleNeRF: Regularizing Sparse Input Neural Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2309.03955v1](http://arxiv.org/abs/2309.03955v1)|null|
+|**2023-09-07**|**SimpleNeRF: Regularizing Sparse Input Neural Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2309.03955v2](http://arxiv.org/abs/2309.03955v2)|null|
 |**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933v1](http://arxiv.org/abs/2309.03933v1)|null|
 |**2023-09-07**|**SimNP: Learning Self-Similarity Priors Between Neural Points**|Christopher Wewer et.al.|[2309.03809v1](http://arxiv.org/abs/2309.03809v1)|null|
 |**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550v1](http://arxiv.org/abs/2309.03550v1)|null|
