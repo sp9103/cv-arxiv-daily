@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.09.18
+## Updated on 2023.09.19
 
 ## 6DOF Object Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-15**|**YCB-Ev: Event-vision dataset for 6DoF object pose estimation**|Pavel Rojtberg et.al.|[2309.08482v1](http://arxiv.org/abs/2309.08482v1)|null|
+|**2023-09-15**|**YCB-Ev: Event-vision dataset for 6DoF object pose estimation**|Pavel Rojtberg et.al.|[2309.08482v1](http://arxiv.org/abs/2309.08482v1)|**[link](https://github.com/paroj/ycbev)**|
 |**2023-09-11**|**ViHOPE: Visuotactile In-Hand Object 6D Pose Estimation with Shape Completion**|Hongyu Li et.al.|[2309.05662v1](http://arxiv.org/abs/2309.05662v1)|null|
 |**2023-09-07**|**ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation**|Hui Zhang et.al.|[2309.03891v1](http://arxiv.org/abs/2309.03891v1)|null|
 |**2023-09-05**|**DR-Pose: A Two-stage Deformation-and-Registration Pipeline for Category-level 6D Object Pose Estimation**|Lei Zhou et.al.|[2309.01925v1](http://arxiv.org/abs/2309.01925v1)|**[link](https://github.com/zray26/dr-pose)**|
@@ -44,11 +44,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-15**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596v1](http://arxiv.org/abs/2309.08596v1)|**[link](https://github.com/wengflow/robust-e-nerf)**|
-|**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523v1](http://arxiv.org/abs/2309.08523v1)|**[link](https://github.com/kongdai123/repainting_3d_assets)**|
+|**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523v1](http://arxiv.org/abs/2309.08523v1)|**[link](https://github.com/toshas/remesh_isotropic_planar)**|
 |**2023-09-15**|**Deformable Neural Radiance Fields using RGB and Event Cameras**|Qi Ma et.al.|[2309.08416v1](http://arxiv.org/abs/2309.08416v1)|null|
 |**2023-09-12**|**Efficient Graphics Representation with Differentiable Indirection**|Sayantan Datta et.al.|[2309.08387v1](http://arxiv.org/abs/2309.08387v1)|null|
 |**2023-09-14**|**Gradient based Grasp Pose Optimization on a NeRF that Approximates Grasp Success**|Gergely Sóti et.al.|[2309.08040v1](http://arxiv.org/abs/2309.08040v1)|null|
-|**2023-09-14**|**Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping**|Adam Rashid et.al.|[2309.07970v1](http://arxiv.org/abs/2309.07970v1)|null|
+|**2023-09-14**|**Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping**|Adam Rashid et.al.|[2309.07970v2](http://arxiv.org/abs/2309.07970v2)|null|
 |**2023-09-14**|**MC-NeRF: Muti-Camera Neural Radiance Fields for Muti-Camera Image Acquisition Systems**|Yu Gao et.al.|[2309.07846v1](http://arxiv.org/abs/2309.07846v1)|null|
 |**2023-09-14**|**DT-NeRF: Decomposed Triplane-Hash Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Yaoyu Su et.al.|[2309.07752v1](http://arxiv.org/abs/2309.07752v1)|null|
 |**2023-09-14**|**CoRF : Colorizing Radiance Fields using Knowledge Distillation**|Ankit Dhiman et.al.|[2309.07668v1](http://arxiv.org/abs/2309.07668v1)|null|
