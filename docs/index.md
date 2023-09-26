@@ -52,7 +52,7 @@ layout: default
 |**2023-09-21**|**Rendering stable features improves sampling-based localisation with Neural radiance fields**|Boxuan Zhang et.al.|[2309.11698v1](http://arxiv.org/abs/2309.11698v1)|null|
 |**2023-09-20**|**GenLayNeRF: Generalizable Layered Representations with 3D Model Alignment for Multi-Human View Synthesis**|Youssef Abdelkareem et.al.|[2309.11627v1](http://arxiv.org/abs/2309.11627v1)|null|
 |**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525v1](http://arxiv.org/abs/2309.11525v1)|null|
-|**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281v1](http://arxiv.org/abs/2309.11281v1)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
+|**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281v2](http://arxiv.org/abs/2309.11281v2)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
 |**2023-09-20**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009v2](http://arxiv.org/abs/2309.11009v2)|null|
 |**2023-09-20**|**Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**|Xingting Yao et.al.|[2309.10987v1](http://arxiv.org/abs/2309.10987v1)|null|
 |**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684v1](http://arxiv.org/abs/2309.10684v1)|null|
@@ -64,7 +64,7 @@ layout: default
 |**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927v1](http://arxiv.org/abs/2309.08927v1)|null|
 |**2023-09-15**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596v1](http://arxiv.org/abs/2309.08596v1)|**[link](https://github.com/wengflow/robust-e-nerf)**|
 |**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523v1](http://arxiv.org/abs/2309.08523v1)|**[link](https://github.com/kongdai123/repainting_3d_assets)**|
-|**2023-09-15**|**Deformable Neural Radiance Fields using RGB and Event Cameras**|Qi Ma et.al.|[2309.08416v1](http://arxiv.org/abs/2309.08416v1)|null|
+|**2023-09-15**|**Deformable Neural Radiance Fields using RGB and Event Cameras**|Qi Ma et.al.|[2309.08416v2](http://arxiv.org/abs/2309.08416v2)|null|
 |**2023-09-14**|**Gradient based Grasp Pose Optimization on a NeRF that Approximates Grasp Success**|Gergely Sóti et.al.|[2309.08040v1](http://arxiv.org/abs/2309.08040v1)|null|
 |**2023-09-14**|**Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping**|Adam Rashid et.al.|[2309.07970v2](http://arxiv.org/abs/2309.07970v2)|null|
 |**2023-09-14**|**MC-NeRF: Muti-Camera Neural Radiance Fields for Muti-Camera Image Acquisition Systems**|Yu Gao et.al.|[2309.07846v1](http://arxiv.org/abs/2309.07846v1)|null|
