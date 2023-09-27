@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.26
+## Updated on 2023.09.27
 
 ## 6DOF Object Pose
 
@@ -56,7 +56,7 @@ layout: default
 |**2023-09-21**|**MarkNerf:Watermarking for Neural Radiance Field**|Lifeng Chen et.al.|[2309.11747v1](http://arxiv.org/abs/2309.11747v1)|null|
 |**2023-09-21**|**Rendering stable features improves sampling-based localisation with Neural radiance fields**|Boxuan Zhang et.al.|[2309.11698v1](http://arxiv.org/abs/2309.11698v1)|null|
 |**2023-09-20**|**GenLayNeRF: Generalizable Layered Representations with 3D Model Alignment for Multi-Human View Synthesis**|Youssef Abdelkareem et.al.|[2309.11627v1](http://arxiv.org/abs/2309.11627v1)|null|
-|**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525v1](http://arxiv.org/abs/2309.11525v1)|null|
+|**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525v2](http://arxiv.org/abs/2309.11525v2)|null|
 |**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281v2](http://arxiv.org/abs/2309.11281v2)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
 |**2023-09-20**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009v2](http://arxiv.org/abs/2309.11009v2)|null|
 |**2023-09-20**|**Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**|Xingting Yao et.al.|[2309.10987v1](http://arxiv.org/abs/2309.10987v1)|null|
