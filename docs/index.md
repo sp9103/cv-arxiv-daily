@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.30
+## Updated on 2023.10.01
 
 ## 6DOF Object Pose
 
@@ -72,5 +72,5 @@ layout: default
 |**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684v1](http://arxiv.org/abs/2309.10684v1)|null|
 |**2023-09-19**|**Steganography for Neural Radiance Fields by Backdooring**|Weina Dong et.al.|[2309.10503v1](http://arxiv.org/abs/2309.10503v1)|null|
 |**2023-09-18**|**Instant Photorealistic Style Transfer: A Lightweight and Adaptive Approach**|Rong Liu et.al.|[2309.10011v1](http://arxiv.org/abs/2309.10011v1)|null|
-|**2023-09-18**|**RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision**|Mingjie Pan et.al.|[2309.09502v1](http://arxiv.org/abs/2309.09502v1)|null|
+|**2023-09-18**|**RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision**|Mingjie Pan et.al.|[2309.09502v1](http://arxiv.org/abs/2309.09502v1)|**[link](https://github.com/pmj110119/renderocc)**|
 
