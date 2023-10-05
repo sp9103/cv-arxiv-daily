@@ -39,6 +39,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015v1](http://arxiv.org/abs/2310.03015v1)|null|
+|**2023-10-04**|**T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|null|
+|**2023-10-04**|**GETAvatar: Generative Textured Meshes for Animatable Human Avatars**|Xuanmeng Zhang et.al.|[2310.02714v1](http://arxiv.org/abs/2310.02714v1)|null|
+|**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712v1](http://arxiv.org/abs/2310.02712v1)|null|
+|**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v1](http://arxiv.org/abs/2310.02687v1)|null|
+|**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437v1](http://arxiv.org/abs/2310.02437v1)|null|
 |**2023-10-03**|**View-Independent Adjoint Light Tracing for Lighting Design Optimization**|Lukas Lipp et.al.|[2310.02043v1](http://arxiv.org/abs/2310.02043v1)|null|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881v1](http://arxiv.org/abs/2310.01881v1)|null|
 |**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821v1](http://arxiv.org/abs/2310.01821v1)|null|
@@ -63,10 +69,4 @@
 |**2023-09-27**|**BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields**|Shreya Saha et.al.|[2309.15329v1](http://arxiv.org/abs/2309.15329v1)|null|
 |**2023-09-26**|**3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**|Miriam Jäger et.al.|[2309.14800v1](http://arxiv.org/abs/2309.14800v1)|null|
 |**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293v1](http://arxiv.org/abs/2309.14293v1)|null|
-|**2023-09-25**|**Tiled Multiplane Images for Practical 3D Photography**|Numair Khan et.al.|[2309.14291v1](http://arxiv.org/abs/2309.14291v1)|null|
-|**2023-09-25**|**Variational Inference for Scalable 3D Object-centric Learning**|Tianyu Wang et.al.|[2309.14010v1](http://arxiv.org/abs/2309.14010v1)|null|
-|**2023-09-24**|**MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field**|Zijiang Yang et.al.|[2309.13607v1](http://arxiv.org/abs/2309.13607v1)|null|
-|**2023-09-23**|**NeRF-Enhanced Outpainting for Faithful Field-of-View Extrapolation**|Rui Yu et.al.|[2309.13240v1](http://arxiv.org/abs/2309.13240v1)|null|
-|**2023-09-22**|**NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**|Xiaoxue Chen et.al.|[2309.13039v1](http://arxiv.org/abs/2309.13039v1)|**[link](https://github.com/dawning77/nerrf)**|
-|**2023-09-22**|**RHINO: Regularizing the Hash-based Implicit Neural Representation**|Hao Zhu et.al.|[2309.12642v1](http://arxiv.org/abs/2309.12642v1)|null|
 
