@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**3D-Aware Hypothesis & Verification for Generalizable Relative Object Pose Estimation**|Chen Zhao et.al.|[2310.03534v1](http://arxiv.org/abs/2310.03534v1)|null|
+|**2023-10-05**|**RGBManip: Monocular Image-based Robotic Manipulation through Active Object Pose Estimation**|Boshi An et.al.|[2310.03478v1](http://arxiv.org/abs/2310.03478v1)|null|
 |**2023-10-03**|**MFOS: Model-Free & One-Shot Object Pose Estimation**|JongMin Lee et.al.|[2310.01897v1](http://arxiv.org/abs/2310.01897v1)|null|
 |**2023-09-30**|**Diff-DOPE: Differentiable Deep Object Pose Estimation**|Jonathan Tremblay et.al.|[2310.00463v1](http://arxiv.org/abs/2310.00463v1)|null|
 |**2023-09-28**|**Laboratory Automation: Precision Insertion with Adaptive Fingers utilizing Contact through Sliding with Tactile-based Pose Estimation**|Sameer Pai et.al.|[2309.16170v1](http://arxiv.org/abs/2309.16170v1)|null|
@@ -32,13 +34,16 @@
 |**2023-07-09**|**TransPose: A Transformer-based 6D Object Pose Estimation Network with Depth Refinement**|Mahmoud Abdulsalam et.al.|[2307.05561v1](http://arxiv.org/abs/2307.05561v1)|null|
 |**2023-07-01**|**SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**|Fabian Duffhauss et.al.|[2307.00306v1](http://arxiv.org/abs/2307.00306v1)|**[link](https://github.com/boschresearch/symfm6d)**|
 |**2023-06-28**|**Hierarchical Graph Neural Networks for Proprioceptive 6D Pose Estimation of In-hand Objects**|Alireza Rezazadeh et.al.|[2306.15858v1](http://arxiv.org/abs/2306.15858v1)|null|
-|**2023-06-23**|**Shape-Constraint Recurrent Flow for 6D Object Pose Estimation**|Yang Hai et.al.|[2306.13266v1](http://arxiv.org/abs/2306.13266v1)|**[link](https://github.com/yanghai-1218/scflow)**|
-|**2023-06-18**|**GenPose: Generative Category-level Object Pose Estimation via Diffusion Models**|Jiyao Zhang et.al.|[2306.10531v2](http://arxiv.org/abs/2306.10531v2)|null|
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Drag View: Generalizable Novel View Synthesis with Unposed Imagery**|Zhiwen Fan et.al.|[2310.03704v1](http://arxiv.org/abs/2310.03704v1)|null|
+|**2023-10-05**|**Targeted Adversarial Attacks on Generalizable Neural Radiance Fields**|Andras Horvath et.al.|[2310.03578v1](http://arxiv.org/abs/2310.03578v1)|null|
+|**2023-10-05**|**BID-NeRF: RGB-D image pose estimation with inverted Neural Radiance Fields**|Ágoston István Csehi et.al.|[2310.03563v1](http://arxiv.org/abs/2310.03563v1)|null|
+|**2023-10-05**|**Point-Based Radiance Fields for Controllable Human Motion Synthesis**|Haitao Yu et.al.|[2310.03375v1](http://arxiv.org/abs/2310.03375v1)|**[link](https://github.com/dehezhang2/point_based_nerf_editing)**|
+|**2023-10-04**|**Shielding the Unseen: Privacy Protection through Poisoning NeRF with Spatial Deformation**|Yihan Wu et.al.|[2310.03125v1](http://arxiv.org/abs/2310.03125v1)|null|
 |**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015v1](http://arxiv.org/abs/2310.03015v1)|null|
 |**2023-10-04**|**T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|null|
 |**2023-10-04**|**GETAvatar: Generative Textured Meshes for Animatable Human Avatars**|Xuanmeng Zhang et.al.|[2310.02714v1](http://arxiv.org/abs/2310.02714v1)|null|
@@ -64,9 +69,4 @@
 |**2023-09-28**|**FG-NeRF: Flow-GAN based Probabilistic Neural Radiance Field for Independence-Assumption-Free Uncertainty Estimation**|Songlin Wei et.al.|[2309.16364v2](http://arxiv.org/abs/2309.16364v2)|null|
 |**2023-09-28**|**Learning Effective NeRFs and SDFs Representations with 3D Generative Adversarial Networks for 3D Object Generation: Technical Report for ICCV 2023 OmniObject3D Challenge**|Zheyuan Yang et.al.|[2309.16110v1](http://arxiv.org/abs/2309.16110v1)|null|
 |**2023-09-27**|**SHACIRA: Scalable HAsh-grid Compression for Implicit Neural Representations**|Sharath Girish et.al.|[2309.15848v1](http://arxiv.org/abs/2309.15848v1)|null|
-|**2023-09-27**|**P2I-NET: Mapping Camera Pose to Image via Adversarial Learning for New View Synthesis in Real Indoor Environments**|Xujie Kang et.al.|[2309.15526v1](http://arxiv.org/abs/2309.15526v1)|null|
-|**2023-09-27**|**NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions**|Zhang Chen et.al.|[2309.15426v1](http://arxiv.org/abs/2309.15426v1)|**[link](https://github.com/oppo-us-research/NeuRBF)**|
-|**2023-09-27**|**BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields**|Shreya Saha et.al.|[2309.15329v1](http://arxiv.org/abs/2309.15329v1)|null|
-|**2023-09-26**|**3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**|Miriam Jäger et.al.|[2309.14800v1](http://arxiv.org/abs/2309.14800v1)|null|
-|**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293v1](http://arxiv.org/abs/2309.14293v1)|null|
 
