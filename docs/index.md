@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.24
+## Updated on 2023.10.25
 
 ## 6DOF Object Pose
 
@@ -57,7 +57,7 @@ layout: default
 |**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965v1](http://arxiv.org/abs/2310.09965v1)|null|
 |**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892v1](http://arxiv.org/abs/2310.09892v1)|null|
 |**2023-10-15**|**CBARF: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses**|Hongyu Fu et.al.|[2310.09776v1](http://arxiv.org/abs/2310.09776v1)|null|
-|**2023-10-14**|**Point-DynRF: Point-based Dynamic Radiance Fields from a Monocular Video**|Byeongjun Park et.al.|[2310.09647v1](http://arxiv.org/abs/2310.09647v1)|null|
+|**2023-10-14**|**Point-DynRF: Point-based Dynamic Radiance Fields from a Monocular Video**|Byeongjun Park et.al.|[2310.09647v2](http://arxiv.org/abs/2310.09647v2)|null|
 |**2023-10-11**|**Dynamic Appearance Particle Neural Radiance Field**|Ancheng Lin et.al.|[2310.07916v1](http://arxiv.org/abs/2310.07916v1)|null|
 |**2023-10-11**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449v2](http://arxiv.org/abs/2310.07449v2)|null|
 |**2023-10-11**|**rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**|Tongtong Zhang et.al.|[2310.07179v1](http://arxiv.org/abs/2310.07179v1)|null|
