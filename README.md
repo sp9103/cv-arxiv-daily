@@ -44,14 +44,14 @@
 |**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214v1](http://arxiv.org/abs/2311.06214v1)|null|
 |**2023-11-10**|**ASSIST: Interactive Scene Nodes for Scalable and Realistic Indoor Simulation**|Zhide Zhong et.al.|[2311.06211v1](http://arxiv.org/abs/2311.06211v1)|null|
 |**2023-11-10**|**A Neural Height-Map Approach for the Binocular Photometric Stereo Problem**|Fotios Logothetis et.al.|[2311.05958v1](http://arxiv.org/abs/2311.05958v1)|null|
-|**2023-11-10**|**Uncertainty-aware Single View Volumetric Rendering for Medical Neural Radiance Fields**|Jing Hu et.al.|[2311.05836v1](http://arxiv.org/abs/2311.05836v1)|null|
+|**2023-11-10**|**Uncertainty-aware Single View Volumetric Rendering for Medical Neural Radiance Fields**|Jing Hu et.al.|[2311.05836v2](http://arxiv.org/abs/2311.05836v2)|null|
 |**2023-11-09**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521v1](http://arxiv.org/abs/2311.05521v1)|null|
 |**2023-11-09**|**Control3D: Towards Controllable Text-to-3D Generation**|Yang Chen et.al.|[2311.05461v1](http://arxiv.org/abs/2311.05461v1)|null|
 |**2023-11-09**|**VoxNeRF: Bridging Voxel Representation and Neural Radiance Fields for Enhanced Indoor View Synthesis**|Sen Wang et.al.|[2311.05289v1](http://arxiv.org/abs/2311.05289v1)|null|
 |**2023-11-09**|**ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image**|Senthil Purushwalkam et.al.|[2311.05230v1](http://arxiv.org/abs/2311.05230v1)|null|
 |**2023-11-08**|**Learning Robust Multi-Scale Representation for Neural Radiance Fields from Unposed Images**|Nishant Jain et.al.|[2311.04521v1](http://arxiv.org/abs/2311.04521v1)|null|
 |**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400v1](http://arxiv.org/abs/2311.04400v1)|null|
-|**2023-11-07**|**ADFactory: Automated Data Factory for Optical Flow Tasks**|Han Ling et.al.|[2311.04246v1](http://arxiv.org/abs/2311.04246v1)|null|
+|**2023-11-07**|**ADFactory: An Effective Framework for Generalizing Optical Flow with Nerf**|Han Ling et.al.|[2311.04246v2](http://arxiv.org/abs/2311.04246v2)|null|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154v1](http://arxiv.org/abs/2311.04154v1)|null|
 |**2023-11-07**|**Fast Sun-aligned Outdoor Scene Relighting based on TensoRF**|Yeonjin Chang et.al.|[2311.03965v1](http://arxiv.org/abs/2311.03965v1)|null|
 |**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v2](http://arxiv.org/abs/2311.03784v2)|**[link](https://github.com/mlvlab/upnerf)**|
