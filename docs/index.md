@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.11.15
+## Updated on 2023.11.16
 
 ## 6DOF Object Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-13**|**Bio-Inspired Grasping Controller for Sensorized 2-DoF Grippers**|Luca Lach et.al.|[2311.07257v1](http://arxiv.org/abs/2311.07257v1)|null|
+|**2023-11-13**|**Bio-Inspired Grasping Controller for Sensorized 2-DoF Grippers**|Luca Lach et.al.|[2311.07257v1](http://arxiv.org/abs/2311.07257v1)|**[link](https://github.com/llach/ta11_sensor_tools)**|
 |**2023-11-09**|**Visually Guided Model Predictive Robot Control via 6D Object Pose Localization and Tracking**|Mederic Fourmy et.al.|[2311.05344v1](http://arxiv.org/abs/2311.05344v1)|null|
 |**2023-11-06**|**Enabling In-Situ Resources Utilisation by leveraging collaborative robotics and astronaut-robot interaction**|Silvia Romero-Azpitarte et.al.|[2311.03146v1](http://arxiv.org/abs/2311.03146v1)|null|
 |**2023-11-02**|**Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2311.01380v1](http://arxiv.org/abs/2311.01380v1)|**[link](https://github.com/hsp-iit/sim2real-surface-classification)**|
