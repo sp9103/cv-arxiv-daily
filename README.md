@@ -1,4 +1,4 @@
-## Updated on 2023.11.25
+## Updated on 2023.11.26
 
 ## 6DOF Object Pose
 
@@ -39,7 +39,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-22**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404v1](http://arxiv.org/abs/2311.13404v1)|**[link](https://github.com/YessionCC/AnimatableGaussian)**|
+|**2023-11-22**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404v1](http://arxiv.org/abs/2311.13404v1)|null|
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398v1](http://arxiv.org/abs/2311.13398v1)|null|
 |**2023-11-22**|**Retargeting Visual Data with Deformation Fields**|Tim Elsner et.al.|[2311.13297v1](http://arxiv.org/abs/2311.13297v1)|null|
 |**2023-11-22**|**Volumetric Reconstruction Resolves Off-Resonance Artifacts in Static and Dynamic PROPELLER MRI**|Annesha Ghosh et.al.|[2311.13177v1](http://arxiv.org/abs/2311.13177v1)|**[link](https://github.com/sarafridov/volumetric-propeller)**|
