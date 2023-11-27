@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-23**|**GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence**|Van Nguyen Nguyen et.al.|[2311.14155v1](http://arxiv.org/abs/2311.14155v1)|null|
+|**2023-11-23**|**GS-Pose: Category-Level Object Pose Estimation via Geometric and Semantic Correspondence**|Pengyuan Wang et.al.|[2311.13777v1](http://arxiv.org/abs/2311.13777v1)|null|
 |**2023-11-21**|**HiPose: Hierarchical Binary Surface Encoding and Correspondence Pruning for RGB-D 6DoF Object Pose Estimation**|Yongliang Lin et.al.|[2311.12588v1](http://arxiv.org/abs/2311.12588v1)|null|
 |**2023-11-18**|**SecondPose: SE(3)-Consistent Dual-Stream Feature Fusion for Category-Level Pose Estimation**|Yamei Chen et.al.|[2311.11125v1](http://arxiv.org/abs/2311.11125v1)|null|
 |**2023-11-18**|**Synthetic Data Generation for Bridging Sim2Real Gap in a Production Environment**|Parth Rawal et.al.|[2311.11039v1](http://arxiv.org/abs/2311.11039v1)|null|
@@ -36,13 +38,20 @@ layout: default
 |**2023-09-07**|**ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation**|Hui Zhang et.al.|[2309.03891v1](http://arxiv.org/abs/2309.03891v1)|null|
 |**2023-09-05**|**DR-Pose: A Two-stage Deformation-and-Registration Pipeline for Category-level 6D Object Pose Estimation**|Lei Zhou et.al.|[2309.01925v1](http://arxiv.org/abs/2309.01925v1)|**[link](https://github.com/zray26/dr-pose)**|
 |**2023-08-19**|**3D-Aware Neural Body Fitting for Occlusion Robust 3D Human Pose Estimation**|Yi Zhang et.al.|[2308.10123v1](http://arxiv.org/abs/2308.10123v1)|**[link](https://github.com/edz-o/3dnbf)**|
-|**2023-08-19**|**Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation**|Yang Hai et.al.|[2308.10016v1](http://arxiv.org/abs/2308.10016v1)|**[link](https://github.com/yanghai-1218/pseudoflow)**|
-|**2023-08-19**|**VI-Net: Boosting Category-level 6D Object Pose Estimation via Learning Decoupled Rotations on the Spherical Representations**|Jiehong Lin et.al.|[2308.09916v1](http://arxiv.org/abs/2308.09916v1)|**[link](https://github.com/jiehonglin/vi-net)**|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Neural Style Transfer for Computer Games**|Eleftherios Ioannou et.al.|[2311.14617v1](http://arxiv.org/abs/2311.14617v1)|null|
+|**2023-11-24**|**Animate124: Animating One Image to 4D Dynamic Scene**|Yuyang Zhao et.al.|[2311.14603v1](http://arxiv.org/abs/2311.14603v1)|null|
+|**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521v1](http://arxiv.org/abs/2311.14521v1)|null|
+|**2023-11-23**|**ECRF: Entropy-Constrained Neural Radiance Fields Compression with Frequency Domain Optimization**|Soonbin Lee et.al.|[2311.14208v1](http://arxiv.org/abs/2311.14208v1)|null|
+|**2023-11-23**|**Tube-NeRF: Efficient Imitation Learning of Visuomotor Policies from MPC using Tube-Guided Data Augmentation and NeRFs**|Andrea Tagliabue et.al.|[2311.14153v1](http://arxiv.org/abs/2311.14153v1)|null|
+|**2023-11-23**|**Posterior Distillation Sampling**|Juil Koo et.al.|[2311.13831v1](http://arxiv.org/abs/2311.13831v1)|null|
+|**2023-11-23**|**Towards Transferable Multi-modal Perception Representation Learning for Autonomy: NeRF-Supervised Masked AutoEncoder**|Xiaohao Xu et.al.|[2311.13750v1](http://arxiv.org/abs/2311.13750v1)|null|
+|**2023-11-22**|**Compact 3D Gaussian Representation for Radiance Field**|Joo Chan Lee et.al.|[2311.13681v1](http://arxiv.org/abs/2311.13681v1)|null|
+|**2023-11-22**|**Boosting3D: High-Fidelity Image-to-3D by Boosting 2D Diffusion Prior to 3D Prior with Progressive Learning**|Kai Yu et.al.|[2311.13617v1](http://arxiv.org/abs/2311.13617v1)|null|
 |**2023-11-22**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404v1](http://arxiv.org/abs/2311.13404v1)|null|
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398v1](http://arxiv.org/abs/2311.13398v1)|null|
 |**2023-11-22**|**Retargeting Visual Data with Deformation Fields**|Tim Elsner et.al.|[2311.13297v1](http://arxiv.org/abs/2311.13297v1)|null|
@@ -64,13 +73,4 @@ layout: default
 |**2023-11-16**|**Adaptive Shells for Efficient Neural Radiance Field Rendering**|Zian Wang et.al.|[2311.10091v1](http://arxiv.org/abs/2311.10091v1)|null|
 |**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806v2](http://arxiv.org/abs/2311.09806v2)|null|
 |**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646v1](http://arxiv.org/abs/2311.09646v1)|null|
-|**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221v1](http://arxiv.org/abs/2311.09221v1)|null|
-|**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217v1](http://arxiv.org/abs/2311.09217v1)|null|
-|**2023-11-15**|**Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation**|Zhanfeng Liao et.al.|[2311.09077v1](http://arxiv.org/abs/2311.09077v1)|null|
-|**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581v1](http://arxiv.org/abs/2311.08581v1)|null|
-|**2023-11-13**|**$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**|Liangchen Li et.al.|[2311.07044v1](http://arxiv.org/abs/2311.07044v1)|null|
-|**2023-11-11**|**Aria-NeRF: Multimodal Egocentric View Synthesis**|Jiankai Sun et.al.|[2311.06455v1](http://arxiv.org/abs/2311.06455v1)|null|
-|**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214v2](http://arxiv.org/abs/2311.06214v2)|null|
-|**2023-11-10**|**ASSIST: Interactive Scene Nodes for Scalable and Realistic Indoor Simulation**|Zhide Zhong et.al.|[2311.06211v1](http://arxiv.org/abs/2311.06211v1)|null|
-|**2023-11-10**|**A Neural Height-Map Approach for the Binocular Photometric Stereo Problem**|Fotios Logothetis et.al.|[2311.05958v1](http://arxiv.org/abs/2311.05958v1)|null|
 
