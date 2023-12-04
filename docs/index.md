@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2312.00690v1](http://arxiv.org/abs/2312.00690v1)|null|
 |**2023-11-30**|**FoundPose: Unseen Object Pose Estimation with Foundation Features**|Evin Pınar Örnek et.al.|[2311.18809v1](http://arxiv.org/abs/2311.18809v1)|null|
 |**2023-11-29**|**A Stochastic-Geometrical Framework for Object Pose Estimation based on Mixture Models Avoiding the Correspondence Problem**|Wolfgang Hoegele et.al.|[2311.18107v1](http://arxiv.org/abs/2311.18107v1)|null|
 |**2023-11-28**|**HandyPriors: Physically Consistent Perception of Hand-Object Interactions with Differentiable Priors**|Shutong Zhang et.al.|[2311.16552v1](http://arxiv.org/abs/2311.16552v1)|null|
@@ -37,12 +38,17 @@ layout: default
 |**2023-09-30**|**Diff-DOPE: Differentiable Deep Object Pose Estimation**|Jonathan Tremblay et.al.|[2310.00463v1](http://arxiv.org/abs/2310.00463v1)|null|
 |**2023-09-28**|**Laboratory Automation: Precision Insertion with Adaptive Fingers utilizing Contact through Sliding with Tactile-based Pose Estimation**|Sameer Pai et.al.|[2309.16170v1](http://arxiv.org/abs/2309.16170v1)|null|
 |**2023-09-21**|**ZS6D: Zero-shot 6D Object Pose Estimation using Vision Transformers**|Philipp Ausserlechner et.al.|[2309.11986v1](http://arxiv.org/abs/2309.11986v1)|null|
-|**2023-09-19**|**RGB-based Category-level Object Pose Estimation via Decoupled Metric Scale Recovery**|Jiaxin Wei et.al.|[2309.10255v2](http://arxiv.org/abs/2309.10255v2)|**[link](https://github.com/goldoak/DMSR)**|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732v1](http://arxiv.org/abs/2312.00732v1)|**[link](https://github.com/lkeab/gaussian-grouping)**|
+|**2023-12-01**|**EvE: Exploiting Generative Priors for Radiance Field Enrichment**|Karim Kassab et.al.|[2312.00639v1](http://arxiv.org/abs/2312.00639v1)|null|
+|**2023-11-30**|**LucidDreaming: Controllable Object-Centric 3D Generation**|Zhaoning Wang et.al.|[2312.00588v1](http://arxiv.org/abs/2312.00588v1)|null|
+|**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451v1](http://arxiv.org/abs/2312.00451v1)|null|
+|**2023-11-30**|**PyNeRF: Pyramidal Neural Radiance Fields**|Haithem Turki et.al.|[2312.00252v1](http://arxiv.org/abs/2312.00252v1)|null|
+|**2023-11-30**|**SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting**|Haolin Xiong et.al.|[2312.00206v1](http://arxiv.org/abs/2312.00206v1)|null|
 |**2023-11-30**|**Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing**|Hyelin Nam et.al.|[2311.18608v1](http://arxiv.org/abs/2311.18608v1)|null|
 |**2023-11-30**|**ZeST-NeRF: Using temporal aggregation for Zero-Shot Temporal NeRFs**|Violeta Menéndez González et.al.|[2311.18491v1](http://arxiv.org/abs/2311.18491v1)|null|
 |**2023-11-30**|**Anisotropic Neural Representation Learning for High-Quality Neural Rendering**|Y. Wang et.al.|[2311.18311v1](http://arxiv.org/abs/2311.18311v1)|null|
@@ -66,11 +72,5 @@ layout: default
 |**2023-11-28**|**SplitNeRF: Split Sum Approximation Neural Field for Joint Geometry, Illumination, and Material Estimation**|Jesus Zarzar et.al.|[2311.16671v1](http://arxiv.org/abs/2311.16671v1)|null|
 |**2023-11-28**|**DGNR: Density-Guided Neural Point Rendering of Large Driving Scenes**|Zhuopeng Li et.al.|[2311.16664v1](http://arxiv.org/abs/2311.16664v1)|null|
 |**2023-11-28**|**SCALAR-NeRF: SCAlable LARge-scale Neural Radiance Fields for Scene Reconstruction**|Yu Chen et.al.|[2311.16657v1](http://arxiv.org/abs/2311.16657v1)|null|
-|**2023-11-28**|**RGBGrasp: Image-based Object Grasping by Capturing Multiple Views during Robot Arm Movement with Neural Radiance Fields**|Chang Liu et.al.|[2311.16592v1](http://arxiv.org/abs/2311.16592v1)|null|
 |**2023-11-28**|**Rethinking Directional Integration in Neural Radiance Fields**|Congyue Deng et.al.|[2311.16504v1](http://arxiv.org/abs/2311.16504v1)|null|
-|**2023-11-27**|**Deceptive-Human: Prompt-to-NeRF 3D Human Generation with 3D-Consistent Synthetic Images**|Shiu-hong Kao et.al.|[2311.16499v1](http://arxiv.org/abs/2311.16499v1)|**[link](https://github.com/danielshkao/deceptivehuman)**|
-|**2023-11-27**|**Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**|Yang Liu et.al.|[2311.16482v2](http://arxiv.org/abs/2311.16482v2)|**[link](https://github.com/jimmyYliu/Animatable-3D-Gaussian)**|
-|**2023-11-27**|**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**|Zhe Li et.al.|[2311.16096v1](http://arxiv.org/abs/2311.16096v1)|**[link](https://github.com/lizhe00/animatablegaussians)**|
-|**2023-11-27**|**SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance Fields**|Quentin Herau et.al.|[2311.15803v1](http://arxiv.org/abs/2311.15803v1)|null|
-|**2023-11-27**|**PaintNeSF: Artistic Creation of Stylized Scenes with Vectorized 3D Strokes**|Hao-Bin Duan et.al.|[2311.15637v1](http://arxiv.org/abs/2311.15637v1)|null|
 
