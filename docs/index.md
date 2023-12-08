@@ -11,7 +11,7 @@ layout: default
 |**2023-11-15**|**FocalPose++: Focal Length and Object Pose Estimation via Render and Compare**|Martin Cífka et.al.|[2312.02985v1](http://arxiv.org/abs/2312.02985v1)|null|
 |**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593v1](http://arxiv.org/abs/2312.02593v1)|null|
 |**2023-12-01**|**Object 6D pose estimation meets zero-shot learning**|Andrea Caraffa et.al.|[2312.00947v1](http://arxiv.org/abs/2312.00947v1)|null|
-|**2023-12-01**|**Open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2312.00690v1](http://arxiv.org/abs/2312.00690v1)|null|
+|**2023-12-01**|**Open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2312.00690v2](http://arxiv.org/abs/2312.00690v2)|null|
 |**2023-11-30**|**FoundPose: Unseen Object Pose Estimation with Foundation Features**|Evin Pınar Örnek et.al.|[2311.18809v1](http://arxiv.org/abs/2311.18809v1)|null|
 |**2023-11-29**|**A Stochastic-Geometrical Framework for Object Pose Estimation based on Mixture Models Avoiding the Correspondence Problem**|Wolfgang Hoegele et.al.|[2311.18107v1](http://arxiv.org/abs/2311.18107v1)|null|
 |**2023-11-28**|**HandyPriors: Physically Consistent Perception of Hand-Object Interactions with Differentiable Priors**|Shutong Zhang et.al.|[2311.16552v2](http://arxiv.org/abs/2311.16552v2)|null|
