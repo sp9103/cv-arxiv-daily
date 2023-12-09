@@ -54,6 +54,7 @@
 |**2023-12-06**|**Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**|Shijie Zhou et.al.|[2312.03203v1](http://arxiv.org/abs/2312.03203v1)|null|
 |**2023-12-05**|**HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces**|Haithem Turki et.al.|[2312.03160v1](http://arxiv.org/abs/2312.03160v1)|null|
 |**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981v1](http://arxiv.org/abs/2312.02981v1)|null|
+|**2023-12-05**|**GauHuman: Articulated Gaussian Splatting from Monocular Human Videos**|Shoukang Hu et.al.|[2312.02973v1](http://arxiv.org/abs/2312.02973v1)|**[link](https://github.com/skhu101/gauhuman)**|
 |**2023-12-05**|**Alchemist: Parametric Control of Material Properties with Diffusion Models**|Prafull Sharma et.al.|[2312.02970v1](http://arxiv.org/abs/2312.02970v1)|null|
 |**2023-12-05**|**MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures**|Zhangyang Xiong et.al.|[2312.02963v1](http://arxiv.org/abs/2312.02963v1)|null|
 |**2023-12-05**|**HeadGaS: Real-Time Animatable Head Avatars via 3D Gaussian Splatting**|Helisa Dhamo et.al.|[2312.02902v1](http://arxiv.org/abs/2312.02902v1)|null|
