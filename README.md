@@ -67,5 +67,6 @@
 |**2023-12-04**|**Mesh-Guided Neural Implicit Field Editing**|Can Wang et.al.|[2312.02157v1](http://arxiv.org/abs/2312.02157v1)|null|
 |**2023-12-04**|**BerfScene: Bev-conditioned Equivariant Radiance Fields for Infinite 3D Scene Generation**|Qihang Zhang et.al.|[2312.02136v1](http://arxiv.org/abs/2312.02136v1)|null|
 |**2023-12-04**|**Fast View Synthesis of Casual Videos**|Yao-Chih Lee et.al.|[2312.02135v1](http://arxiv.org/abs/2312.02135v1)|null|
+|**2023-12-04**|**SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM**|Nikhil Keetha et.al.|[2312.02126v1](http://arxiv.org/abs/2312.02126v1)|null|
 |**2023-12-04**|**ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction**|Yufei Shi et.al.|[2312.02015v1](http://arxiv.org/abs/2312.02015v1)|null|
 
