@@ -1,4 +1,4 @@
-## Updated on 2023.12.13
+## Updated on 2023.12.14
 
 ## 6DOF Object Pose
 
@@ -41,7 +41,7 @@
 |---|---|---|---|---|
 |**2023-12-12**|**SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration**|Daniel Duckworth et.al.|[2312.07541v1](http://arxiv.org/abs/2312.07541v1)|null|
 |**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504v1](http://arxiv.org/abs/2312.07504v1)|null|
-|**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246v1](http://arxiv.org/abs/2312.07246v1)|null|
+|**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246v1](http://arxiv.org/abs/2312.07246v1)|**[link](https://github.com/KU-CVLAB/CoPoNeRF)**|
 |**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946v1](http://arxiv.org/abs/2312.06946v1)|null|
 |**2023-12-10**|**TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video**|Minye Wu et.al.|[2312.06713v1](http://arxiv.org/abs/2312.06713v1)|null|
 |**2023-12-09**|**Robo360: A 3D Omnispective Multi-Material Robotic Manipulation Dataset**|Litian Liang et.al.|[2312.06686v1](http://arxiv.org/abs/2312.06686v1)|null|
