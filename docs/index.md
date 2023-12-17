@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.16
+## Updated on 2023.12.17
 
 ## 6DOF Object Pose
 
@@ -23,7 +23,7 @@ layout: default
 |**2023-11-23**|**GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence**|Van Nguyen Nguyen et.al.|[2311.14155v1](http://arxiv.org/abs/2311.14155v1)|**[link](https://github.com/nv-nguyen/gigapose)**|
 |**2023-11-23**|**GS-Pose: Category-Level Object Pose Estimation via Geometric and Semantic Correspondence**|Pengyuan Wang et.al.|[2311.13777v1](http://arxiv.org/abs/2311.13777v1)|null|
 |**2023-11-21**|**HiPose: Hierarchical Binary Surface Encoding and Correspondence Pruning for RGB-D 6DoF Object Pose Estimation**|Yongliang Lin et.al.|[2311.12588v1](http://arxiv.org/abs/2311.12588v1)|null|
-|**2023-11-18**|**SecondPose: SE(3)-Consistent Dual-Stream Feature Fusion for Category-Level Pose Estimation**|Yamei Chen et.al.|[2311.11125v1](http://arxiv.org/abs/2311.11125v1)|null|
+|**2023-11-18**|**SecondPose: SE(3)-Consistent Dual-Stream Feature Fusion for Category-Level Pose Estimation**|Yamei Chen et.al.|[2311.11125v1](http://arxiv.org/abs/2311.11125v1)|**[link](https://github.com/NOrangeeroli/SecondPose)**|
 |**2023-11-18**|**Synthetic Data Generation for Bridging Sim2Real Gap in a Production Environment**|Parth Rawal et.al.|[2311.11039v1](http://arxiv.org/abs/2311.11039v1)|null|
 |**2023-11-15**|**NormNet: Scale Normalization for 6D Pose Estimation in Stacked Scenarios**|En-Te Lin et.al.|[2311.09269v1](http://arxiv.org/abs/2311.09269v1)|**[link](https://github.com/shuttlet/normnet)**|
 |**2023-11-14**|**LocaliseBot: Multi-view 3D object localisation with differentiable rendering for robot grasping**|Sujal Vijayaraghavan et.al.|[2311.08438v1](http://arxiv.org/abs/2311.08438v1)|null|
