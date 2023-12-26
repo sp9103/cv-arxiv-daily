@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.25
+## Updated on 2023.12.26
 
 ## 6DOF Object Pose
 
@@ -37,7 +37,7 @@ layout: default
 |**2023-10-20**|**LanPose: Language-Instructed 6D Object Pose Estimation for Robotic Assembly**|Bowen Fu et.al.|[2310.13819v1](http://arxiv.org/abs/2310.13819v1)|null|
 |**2023-10-20**|**CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants**|Shaoan Wang et.al.|[2310.13320v1](http://arxiv.org/abs/2310.13320v1)|**[link](https://github.com/wsakobe/cylindertag)**|
 |**2023-10-18**|**One-Shot Imitation Learning: A Pose Estimation Perspective**|Pietro Vitiello et.al.|[2310.12077v1](http://arxiv.org/abs/2310.12077v1)|null|
-|**2023-10-11**|**DeepSimHO: Stable Pose Estimation for Hand-Object Interaction via Physics Simulation**|Rong Wang et.al.|[2310.07206v3](http://arxiv.org/abs/2310.07206v3)|null|
+|**2023-10-11**|**DeepSimHO: Stable Pose Estimation for Hand-Object Interaction via Physics Simulation**|Rong Wang et.al.|[2310.07206v3](http://arxiv.org/abs/2310.07206v3)|**[link](https://github.com/rongakowang/deepsimho)**|
 
 ## NeRF
 
