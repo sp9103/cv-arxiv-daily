@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**Fit-NGP: Fitting Object Models to Neural Graphics Primitives**|Marwan Taher et.al.|[2401.02357v1](http://arxiv.org/abs/2401.02357v1)|null|
 |**2023-12-29**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029v2](http://arxiv.org/abs/2401.00029v2)|null|
 |**2023-12-13**|**FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects**|Bowen Wen et.al.|[2312.08344v1](http://arxiv.org/abs/2312.08344v1)|**[link](https://github.com/NVlabs/FoundationPose)**|
 |**2023-12-13**|**Efficient Multi-Object Pose Estimation using Multi-Resolution Deformable Attention and Query Aggregation**|Arul Selvam Periyasamy et.al.|[2312.08268v1](http://arxiv.org/abs/2312.08268v1)|null|
@@ -33,12 +34,13 @@
 |**2023-10-23**|**Object Pose Estimation Annotation Pipeline for Multi-view Monocular Camera Systems in Industrial Settings**|Hazem Youssef et.al.|[2310.14914v1](http://arxiv.org/abs/2310.14914v1)|null|
 |**2023-10-20**|**LanPose: Language-Instructed 6D Object Pose Estimation for Robotic Assembly**|Bowen Fu et.al.|[2310.13819v1](http://arxiv.org/abs/2310.13819v1)|null|
 |**2023-10-20**|**CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants**|Shaoan Wang et.al.|[2310.13320v1](http://arxiv.org/abs/2310.13320v1)|**[link](https://github.com/wsakobe/cylindertag)**|
-|**2023-10-18**|**One-Shot Imitation Learning: A Pose Estimation Perspective**|Pietro Vitiello et.al.|[2310.12077v1](http://arxiv.org/abs/2310.12077v1)|null|
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**Fit-NGP: Fitting Object Models to Neural Graphics Primitives**|Marwan Taher et.al.|[2401.02357v1](http://arxiv.org/abs/2401.02357v1)|null|
+|**2024-01-04**|**Slot-guided Volumetric Object Radiance Fields**|Di Qi et.al.|[2401.02241v1](http://arxiv.org/abs/2401.02241v1)|null|
 |**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647v1](http://arxiv.org/abs/2401.01647v1)|null|
 |**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339v1](http://arxiv.org/abs/2401.01339v1)|null|
 |**2024-01-02**|**Noise-NeRF: Hide Information in Neural Radiance Fields using Trainable Noise**|Qinglong Huang et.al.|[2401.01216v1](http://arxiv.org/abs/2401.01216v1)|null|
@@ -67,6 +69,4 @@
 |**2023-12-21**|**PlatoNeRF: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar**|Tzofi Klinghoffer et.al.|[2312.14239v1](http://arxiv.org/abs/2312.14239v1)|null|
 |**2023-12-21**|**Virtual Pets: Animatable Animal Generation in 3D Scenes**|Yen-Chi Cheng et.al.|[2312.14154v1](http://arxiv.org/abs/2312.14154v1)|null|
 |**2023-12-21**|**Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**|Philipp Schröppel et.al.|[2312.14124v1](http://arxiv.org/abs/2312.14124v1)|**[link](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**|
-|**2023-12-21**|**Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**|Desai Xie et.al.|[2312.13980v1](http://arxiv.org/abs/2312.13980v1)|null|
-|**2023-12-21**|**SyncDreamer for 3D Reconstruction of Endangered Animal Species with NeRF and NeuS**|Ahmet Haydar Ornek et.al.|[2312.13832v1](http://arxiv.org/abs/2312.13832v1)|null|
 
