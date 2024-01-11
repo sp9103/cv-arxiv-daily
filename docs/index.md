@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**Structure from Duplicates: Neural Inverse Graphics from a Pile of Objects**|Tianhang Cheng et.al.|[2401.05236v1](http://arxiv.org/abs/2401.05236v1)|**[link](https://github.com/tianhang-cheng/sfd)**|
 |**2024-01-07**|**RHOBIN Challenge: Reconstruction of Human Object Interaction**|Xianghui Xie et.al.|[2401.04143v1](http://arxiv.org/abs/2401.04143v1)|null|
 |**2024-01-04**|**Fit-NGP: Fitting Object Models to Neural Graphics Primitives**|Marwan Taher et.al.|[2401.02357v1](http://arxiv.org/abs/2401.02357v1)|null|
 |**2023-12-29**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029v2](http://arxiv.org/abs/2401.00029v2)|null|
@@ -37,12 +38,13 @@ layout: default
 |**2023-10-26**|**SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation**|Haobo Jiang et.al.|[2310.17359v1](http://arxiv.org/abs/2310.17359v1)|null|
 |**2023-10-25**|**TransPose: 6D Object Pose Estimation with Geometry-Aware Transformer**|Xiao Lin et.al.|[2310.16279v1](http://arxiv.org/abs/2310.16279v1)|null|
 |**2023-10-23**|**Object Pose Estimation Annotation Pipeline for Multi-view Monocular Camera Systems in Industrial Settings**|Hazem Youssef et.al.|[2310.14914v1](http://arxiv.org/abs/2310.14914v1)|null|
-|**2023-10-20**|**LanPose: Language-Instructed 6D Object Pose Estimation for Robotic Assembly**|Bowen Fu et.al.|[2310.13819v1](http://arxiv.org/abs/2310.13819v1)|null|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335v1](http://arxiv.org/abs/2401.05335v1)|null|
+|**2024-01-10**|**CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video**|Xingyu Miao et.al.|[2401.04861v1](http://arxiv.org/abs/2401.04861v1)|null|
 |**2024-01-08**|**A Survey on 3D Gaussian Splatting**|Guikun Chen et.al.|[2401.03890v1](http://arxiv.org/abs/2401.03890v1)|null|
 |**2024-01-08**|**NeRFmentation: NeRF-based Augmentation for Monocular Depth Estimation**|Casimir Feldmann et.al.|[2401.03771v1](http://arxiv.org/abs/2401.03771v1)|null|
 |**2024-01-06**|**RustNeRF: Robust Neural Radiance Field with Low-Quality Images**|Mengfei Li et.al.|[2401.03257v1](http://arxiv.org/abs/2401.03257v1)|null|
@@ -65,12 +67,10 @@ layout: default
 |**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457v1](http://arxiv.org/abs/2312.16457v1)|null|
 |**2023-12-26**|**DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision**|Lu Ling et.al.|[2312.16256v2](http://arxiv.org/abs/2312.16256v2)|null|
 |**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215v1](http://arxiv.org/abs/2312.16215v1)|null|
-|**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084v1](http://arxiv.org/abs/2312.16084v1)|null|
+|**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084v1](http://arxiv.org/abs/2312.16084v1)|**[link](https://github.com/minghanqin/LangSplat)**|
 |**2023-12-26**|**2D-Guided 3D Gaussian Segmentation**|Kun Lan et.al.|[2312.16047v1](http://arxiv.org/abs/2312.16047v1)|null|
 |**2023-12-26**|**Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images**|Zhan Lu et.al.|[2312.15942v1](http://arxiv.org/abs/2312.15942v1)|null|
 |**2023-12-26**|**SERF: Fine-Grained Interactive 3D Segmentation and Editing with Radiance Fields**|Kaichen Zhou et.al.|[2312.15856v1](http://arxiv.org/abs/2312.15856v1)|null|
 |**2023-12-25**|**Neural BSSRDF: Object Appearance Representation Including Heterogeneous Subsurface Scattering**|Thomson TG et.al.|[2312.15711v1](http://arxiv.org/abs/2312.15711v1)|null|
 |**2023-12-23**|**Human101: Training 100+FPS Human Gaussians in 100s from 1 View**|Mingwei Li et.al.|[2312.15258v1](http://arxiv.org/abs/2312.15258v1)|**[link](https://github.com/longxiang-ai/human101)**|
-|**2023-12-23**|**Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane**|Chen Yang et.al.|[2312.15253v1](http://arxiv.org/abs/2312.15253v1)|**[link](https://github.com/loping151/forplane)**|
-|**2023-12-23**|**CaLDiff: Camera Localization in NeRF via Pose Diffusion**|Rashik Shrestha et.al.|[2312.15242v1](http://arxiv.org/abs/2312.15242v1)|null|
 
