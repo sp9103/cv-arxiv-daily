@@ -47,9 +47,9 @@ layout: default
 |**2024-01-26**|**LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering**|Sheng Hong et.al.|[2401.14857v1](http://arxiv.org/abs/2401.14857v1)|null|
 |**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726v1](http://arxiv.org/abs/2401.14726v1)|null|
 |**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354v1](http://arxiv.org/abs/2401.14354v1)|null|
-|**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257v1](http://arxiv.org/abs/2401.14257v1)|null|
+|**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257v2](http://arxiv.org/abs/2401.14257v2)|null|
 |**2024-01-24**|**EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable Endoscopic Tissues Reconstruction**|Yangsen Chen et.al.|[2401.13352v1](http://arxiv.org/abs/2401.13352v1)|null|
-|**2024-01-23**|**PSAvatar: A Point-based Morphable Shape Model for Real-Time Head Avatar Creation with 3D Gaussian Splatting**|Zhongyuan Zhao et.al.|[2401.12900v2](http://arxiv.org/abs/2401.12900v2)|**[link](https://github.com/pcl3dv/PSAvatar)**|
+|**2024-01-23**|**PSAvatar: A Point-based Morphable Shape Model for Real-Time Head Avatar Animation with 3D Gaussian Splatting**|Zhongyuan Zhao et.al.|[2401.12900v3](http://arxiv.org/abs/2401.12900v3)|**[link](https://github.com/pcl3dv/PSAvatar)**|
 |**2024-01-23**|**NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**|Chongke Bi et.al.|[2401.12568v1](http://arxiv.org/abs/2401.12568v1)|null|
 |**2024-01-23**|**DDMI: Domain-Agnostic Latent Diffusion Models for Synthesizing High-Quality Implicit Neural Representations**|Dogyun Park et.al.|[2401.12517v1](http://arxiv.org/abs/2401.12517v1)|null|
 |**2024-01-23**|**Exploration and Improvement of Nerf-based 3D Scene Editing Techniques**|Shun Fang et.al.|[2401.12456v1](http://arxiv.org/abs/2401.12456v1)|null|
