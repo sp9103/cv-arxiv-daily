@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 
 ## 6DOF Object Pose
 
@@ -43,7 +43,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121v1](http://arxiv.org/abs/2401.17121v1)|null|
+|**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121v1](http://arxiv.org/abs/2401.17121v1)|**[link](https://github.com/mercerai/paev3d)**|
 |**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v1](http://arxiv.org/abs/2401.16416v1)|null|
 |**2024-01-29**|**SuNeRF: 3D reconstruction of the solar EUV corona using Neural Radiance Fields**|Robert Jarolim et.al.|[2401.16388v1](http://arxiv.org/abs/2401.16388v1)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144v1](http://arxiv.org/abs/2401.16144v1)|null|
