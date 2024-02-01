@@ -43,6 +43,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075v1](http://arxiv.org/abs/2401.18075v1)|null|
+|**2024-01-31**|**ReplaceAnything3D:Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields**|Edward Bartrum et.al.|[2401.17895v1](http://arxiv.org/abs/2401.17895v1)|null|
+|**2024-01-31**|**Semantic Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857v1](http://arxiv.org/abs/2401.17857v1)|null|
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121v1](http://arxiv.org/abs/2401.17121v1)|**[link](https://github.com/mercerai/paev3d)**|
 |**2024-01-29**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v2](http://arxiv.org/abs/2401.16416v2)|null|
 |**2024-01-29**|**SuNeRF: 3D reconstruction of the solar EUV corona using Neural Radiance Fields**|Robert Jarolim et.al.|[2401.16388v1](http://arxiv.org/abs/2401.16388v1)|null|
@@ -69,8 +72,5 @@ layout: default
 |**2024-01-16**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140v2](http://arxiv.org/abs/2401.08140v2)|null|
 |**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045v1](http://arxiv.org/abs/2401.08045v1)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
 |**2024-01-15**|**6-DoF Grasp Pose Evaluation and Optimization via Transfer Learning from NeRFs**|Gergely Sóti et.al.|[2401.07935v1](http://arxiv.org/abs/2401.07935v1)|null|
-|**2024-01-11**|**TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation**|Rajaei Khatib et.al.|[2401.06191v1](http://arxiv.org/abs/2401.06191v1)|null|
 |**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052v1](http://arxiv.org/abs/2401.06052v1)|null|
-|**2024-01-11**|**TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering**|Linus Franke et.al.|[2401.06003v1](http://arxiv.org/abs/2401.06003v1)|null|
-|**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians with Dual Feature Fusion**|Bin Dou et.al.|[2401.05925v3](http://arxiv.org/abs/2401.05925v3)|null|
 
