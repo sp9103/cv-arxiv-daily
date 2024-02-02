@@ -43,6 +43,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864v1](http://arxiv.org/abs/2402.00864v1)|**[link](https://github.com/dongjiahua/vica-nerf)**|
+|**2024-02-01**|**Geometry Transfer for Stylizing Radiance Fields**|Hyunyoung Jung et.al.|[2402.00863v1](http://arxiv.org/abs/2402.00863v1)|null|
+|**2024-02-01**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827v1](http://arxiv.org/abs/2402.00827v1)|null|
 |**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075v1](http://arxiv.org/abs/2401.18075v1)|null|
 |**2024-01-31**|**ReplaceAnything3D:Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields**|Edward Bartrum et.al.|[2401.17895v1](http://arxiv.org/abs/2401.17895v1)|null|
 |**2024-01-31**|**Segment Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857v2](http://arxiv.org/abs/2401.17857v2)|null|
@@ -70,7 +73,4 @@ layout: default
 |**2024-01-17**|**GARField: Group Anything with Radiance Fields**|Chung Min Kim et.al.|[2401.09419v1](http://arxiv.org/abs/2401.09419v1)|**[link](https://github.com/chungmin99/garfield)**|
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937v1](http://arxiv.org/abs/2401.08937v1)|null|
 |**2024-01-16**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140v2](http://arxiv.org/abs/2401.08140v2)|null|
-|**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045v1](http://arxiv.org/abs/2401.08045v1)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
-|**2024-01-15**|**6-DoF Grasp Pose Evaluation and Optimization via Transfer Learning from NeRFs**|Gergely Sóti et.al.|[2401.07935v1](http://arxiv.org/abs/2401.07935v1)|null|
-|**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052v1](http://arxiv.org/abs/2401.06052v1)|null|
 
