@@ -5,7 +5,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-02-08**|**Extending 6D Object Pose Estimators for Stereo Vision**|Thomas Pöllabauer et.al.|[2402.05610v1](http://arxiv.org/abs/2402.05610v1)|null|
-|**2024-02-08**|**NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction**|Zhongqun Zhang et.al.|[2402.05532v1](http://arxiv.org/abs/2402.05532v1)|null|
+|**2024-02-08**|**NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction**|Zhongqun Zhang et.al.|[2402.05532v2](http://arxiv.org/abs/2402.05532v2)|null|
 |**2024-02-07**|**Detection and Pose Estimation of flat, Texture-less Industry Objects on HoloLens using synthetic Training**|Thomas Pöllabauer et.al.|[2402.04979v1](http://arxiv.org/abs/2402.04979v1)|null|
 |**2024-02-05**|**Extreme Two-View Geometry From Object Poses with Diffusion Models**|Yujing Sun et.al.|[2402.02800v1](http://arxiv.org/abs/2402.02800v1)|**[link](https://github.com/scy639/extreme-two-view-geometry-from-object-poses-with-diffusion-models)**|
 |**2024-01-29**|**Leveraging Positional Encoding for Robust Multi-Reference-Based Object 6D Pose Estimation**|Jaewoo Park et.al.|[2401.16284v1](http://arxiv.org/abs/2401.16284v1)|null|
@@ -40,7 +40,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-02-08**|**Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**|Yuxi Wei et.al.|[2402.05746v1](http://arxiv.org/abs/2402.05746v1)|**[link](https://github.com/yifanlu0227/chatsim)**|
-|**2024-02-08**|**NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction**|Zhongqun Zhang et.al.|[2402.05532v1](http://arxiv.org/abs/2402.05532v1)|null|
+|**2024-02-08**|**NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction**|Zhongqun Zhang et.al.|[2402.05532v2](http://arxiv.org/abs/2402.05532v2)|null|
 |**2024-02-07**|**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**|Jingwang Ling et.al.|[2402.04829v1](http://arxiv.org/abs/2402.04829v1)|null|
 |**2024-02-07**|**Mesh-based Gaussian Splatting for Real-time Large-scale Deformation**|Lin Gao et.al.|[2402.04796v1](http://arxiv.org/abs/2402.04796v1)|null|
 |**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648v1](http://arxiv.org/abs/2402.04648v1)|null|
