@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**Improving 2D-3D Dense Correspondences with Diffusion Models for 6D Object Pose Estimation**|Peter Hönig et.al.|[2402.06436v1](http://arxiv.org/abs/2402.06436v1)|null|
 |**2024-02-08**|**Extending 6D Object Pose Estimators for Stereo Vision**|Thomas Pöllabauer et.al.|[2402.05610v1](http://arxiv.org/abs/2402.05610v1)|null|
 |**2024-02-08**|**NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction**|Zhongqun Zhang et.al.|[2402.05532v2](http://arxiv.org/abs/2402.05532v2)|null|
 |**2024-02-07**|**Detection and Pose Estimation of flat, Texture-less Industry Objects on HoloLens using synthetic Training**|Thomas Pöllabauer et.al.|[2402.04979v1](http://arxiv.org/abs/2402.04979v1)|null|
@@ -37,12 +38,13 @@ layout: default
 |**2023-11-21**|**HiPose: Hierarchical Binary Surface Encoding and Correspondence Pruning for RGB-D 6DoF Object Pose Estimation**|Yongliang Lin et.al.|[2311.12588v1](http://arxiv.org/abs/2311.12588v1)|null|
 |**2023-11-18**|**SecondPose: SE(3)-Consistent Dual-Stream Feature Fusion for Category-Level Pose Estimation**|Yamei Chen et.al.|[2311.11125v2](http://arxiv.org/abs/2311.11125v2)|**[link](https://github.com/NOrangeeroli/SecondPose)**|
 |**2023-11-18**|**Synthetic Data Generation for Bridging Sim2Real Gap in a Production Environment**|Parth Rawal et.al.|[2311.11039v1](http://arxiv.org/abs/2311.11039v1)|null|
-|**2023-11-15**|**NormNet: Scale Normalization for 6D Pose Estimation in Stacked Scenarios**|En-Te Lin et.al.|[2311.09269v1](http://arxiv.org/abs/2311.09269v1)|**[link](https://github.com/shuttlet/normnet)**|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**|Georgii Stanishevskii et.al.|[2402.06390v1](http://arxiv.org/abs/2402.06390v1)|**[link](https://github.com/quereste/implicit-deepfake)**|
+|**2024-02-09**|**SIR: Multi-view Inverse Rendering with Decomposable Shadow for Indoor Scenes**|Xiaokang Wei et.al.|[2402.06136v1](http://arxiv.org/abs/2402.06136v1)|null|
 |**2024-02-08**|**Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**|Yuxi Wei et.al.|[2402.05746v1](http://arxiv.org/abs/2402.05746v1)|**[link](https://github.com/yifanlu0227/chatsim)**|
 |**2024-02-08**|**NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction**|Zhongqun Zhang et.al.|[2402.05532v2](http://arxiv.org/abs/2402.05532v2)|null|
 |**2024-02-07**|**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**|Jingwang Ling et.al.|[2402.04829v1](http://arxiv.org/abs/2402.04829v1)|null|
@@ -71,6 +73,4 @@ layout: default
 |**2024-01-29**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v2](http://arxiv.org/abs/2401.16416v2)|null|
 |**2024-01-29**|**SuNeRF: 3D reconstruction of the solar EUV corona using Neural Radiance Fields**|Robert Jarolim et.al.|[2401.16388v1](http://arxiv.org/abs/2401.16388v1)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144v1](http://arxiv.org/abs/2401.16144v1)|null|
-|**2024-01-27**|**AniDress: Animatable Loose-Dressed Avatar from Sparse Views Using Garment Rigging Model**|Beijia Chen et.al.|[2401.15348v1](http://arxiv.org/abs/2401.15348v1)|null|
-|**2024-01-26**|**Learning Neural Radiance Fields of Forest Structure for Scalable and Fine Monitoring**|Juan Castorena et.al.|[2401.15029v1](http://arxiv.org/abs/2401.15029v1)|null|
 
