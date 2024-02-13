@@ -39,6 +39,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation**|Chenchang Li et.al.|[2402.07648v1](http://arxiv.org/abs/2402.07648v1)|null|
+|**2024-02-11**|**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**|Leandro A. Passos et.al.|[2402.07310v1](http://arxiv.org/abs/2402.07310v1)|null|
+|**2024-02-11**|**3D Gaussian as a New Vision Era: A Survey**|Ben Fei et.al.|[2402.07181v1](http://arxiv.org/abs/2402.07181v1)|null|
+|**2024-02-09**|**Neural Rendering based Urban Scene Reconstruction for Autonomous Driving**|Shihao Shen et.al.|[2402.06826v1](http://arxiv.org/abs/2402.06826v1)|null|
 |**2024-02-09**|**ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**|Georgii Stanishevskii et.al.|[2402.06390v1](http://arxiv.org/abs/2402.06390v1)|**[link](https://github.com/quereste/implicit-deepfake)**|
 |**2024-02-09**|**SIR: Multi-view Inverse Rendering with Decomposable Shadow for Indoor Scenes**|Xiaokang Wei et.al.|[2402.06136v1](http://arxiv.org/abs/2402.06136v1)|null|
 |**2024-02-08**|**Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**|Yuxi Wei et.al.|[2402.05746v1](http://arxiv.org/abs/2402.05746v1)|**[link](https://github.com/yifanlu0227/chatsim)**|
@@ -65,8 +69,4 @@
 |**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075v1](http://arxiv.org/abs/2401.18075v1)|null|
 |**2024-01-31**|**ReplaceAnything3D:Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields**|Edward Bartrum et.al.|[2401.17895v1](http://arxiv.org/abs/2401.17895v1)|null|
 |**2024-01-31**|**Segment Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857v2](http://arxiv.org/abs/2401.17857v2)|null|
-|**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121v1](http://arxiv.org/abs/2401.17121v1)|**[link](https://github.com/mercerai/paev3d)**|
-|**2024-01-29**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v2](http://arxiv.org/abs/2401.16416v2)|null|
-|**2024-01-29**|**SuNeRF: 3D reconstruction of the solar EUV corona using Neural Radiance Fields**|Robert Jarolim et.al.|[2401.16388v1](http://arxiv.org/abs/2401.16388v1)|null|
-|**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144v1](http://arxiv.org/abs/2401.16144v1)|null|
 
