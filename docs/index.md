@@ -29,7 +29,7 @@ layout: default
 |**2023-12-01**|**Object 6D pose estimation meets zero-shot learning**|Andrea Caraffa et.al.|[2312.00947v1](http://arxiv.org/abs/2312.00947v1)|null|
 |**2023-12-01**|**Open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2312.00690v2](http://arxiv.org/abs/2312.00690v2)|null|
 |**2023-11-30**|**FoundPose: Unseen Object Pose Estimation with Foundation Features**|Evin Pınar Örnek et.al.|[2311.18809v1](http://arxiv.org/abs/2311.18809v1)|null|
-|**2023-11-29**|**A Stochastic-Geometrical Framework for Object Pose Estimation based on Mixture Models Avoiding the Correspondence Problem**|Wolfgang Hoegele et.al.|[2311.18107v1](http://arxiv.org/abs/2311.18107v1)|null|
+|**2023-11-29**|**A Stochastic-Geometrical Framework for Object Pose Estimation based on Mixture Models Avoiding the Correspondence Problem**|Wolfgang Hoegele et.al.|[2311.18107v2](http://arxiv.org/abs/2311.18107v2)|null|
 |**2023-11-28**|**HandyPriors: Physically Consistent Perception of Hand-Object Interactions with Differentiable Priors**|Shutong Zhang et.al.|[2311.16552v3](http://arxiv.org/abs/2311.16552v3)|null|
 |**2023-11-27**|**Uncertainty Quantification of Set-Membership Estimation in Control and Perception: Revisiting the Minimum Enclosing Ellipsoid**|Yukai Tang et.al.|[2311.15962v2](http://arxiv.org/abs/2311.15962v2)|null|
 |**2023-11-27**|**SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation**|Jiehong Lin et.al.|[2311.15707v1](http://arxiv.org/abs/2311.15707v1)|**[link](https://github.com/jiehonglin/sam-6d)**|
@@ -68,7 +68,7 @@ layout: default
 |**2024-02-02**|**Robust Inverse Graphics via Probabilistic Inference**|Tuan Anh Le et.al.|[2402.01915v1](http://arxiv.org/abs/2402.01915v1)|null|
 |**2024-02-02**|**HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**|Paweł Batorski et.al.|[2402.01524v1](http://arxiv.org/abs/2402.01524v1)|**[link](https://github.com/gmum/hyperplanes)**|
 |**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi et.al.|[2402.01485v1](http://arxiv.org/abs/2402.01485v1)|null|
-|**2024-02-02**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459v2](http://arxiv.org/abs/2402.01459v2)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
+|**2024-02-02**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459v3](http://arxiv.org/abs/2402.01459v3)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
 |**2024-02-02**|**Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization**|Zhiyu Zhang et.al.|[2402.01380v1](http://arxiv.org/abs/2402.01380v1)|null|
 |**2024-02-02**|**Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance**|Yaokun Li et.al.|[2402.01217v2](http://arxiv.org/abs/2402.01217v2)|null|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864v1](http://arxiv.org/abs/2402.00864v1)|**[link](https://github.com/dongjiahua/vica-nerf)**|
