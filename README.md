@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields**|Haozhe Qi et.al.|[2402.17062v1](http://arxiv.org/abs/2402.17062v1)|**[link](https://github.com/amathislab/hoisdf)**|
 |**2024-02-26**|**DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**|Yizhe Wu et.al.|[2402.16308v1](http://arxiv.org/abs/2402.16308v1)|null|
 |**2024-02-24**|**CLIPose: Category-Level Object Pose Estimation with Pre-trained Vision-Language Knowledge**|Xiao Lin et.al.|[2402.15726v1](http://arxiv.org/abs/2402.15726v1)|null|
 |**2024-02-09**|**Improving 2D-3D Dense Correspondences with Diffusion Models for 6D Object Pose Estimation**|Peter Hönig et.al.|[2402.06436v1](http://arxiv.org/abs/2402.06436v1)|null|
@@ -33,12 +34,18 @@
 |**2023-11-23**|**GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence**|Van Nguyen Nguyen et.al.|[2311.14155v1](http://arxiv.org/abs/2311.14155v1)|**[link](https://github.com/nv-nguyen/gigapose)**|
 |**2023-11-23**|**GS-Pose: Category-Level Object Pose Estimation via Geometric and Semantic Correspondence**|Pengyuan Wang et.al.|[2311.13777v1](http://arxiv.org/abs/2311.13777v1)|null|
 |**2023-11-21**|**HiPose: Hierarchical Binary Surface Encoding and Correspondence Pruning for RGB-D 6DoF Object Pose Estimation**|Yongliang Lin et.al.|[2311.12588v1](http://arxiv.org/abs/2311.12588v1)|null|
-|**2023-11-18**|**SecondPose: SE(3)-Consistent Dual-Stream Feature Fusion for Category-Level Pose Estimation**|Yamei Chen et.al.|[2311.11125v2](http://arxiv.org/abs/2311.11125v2)|**[link](https://github.com/NOrangeeroli/SecondPose)**|
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768v1](http://arxiv.org/abs/2402.17768v1)|null|
+|**2024-02-27**|**VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction**|Jiaqi Lin et.al.|[2402.17427v1](http://arxiv.org/abs/2402.17427v1)|null|
+|**2024-02-27**|**Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**|Zicheng Zhang et.al.|[2402.17364v1](http://arxiv.org/abs/2402.17364v1)|**[link](https://github.com/zhangzc21/dyntet)**|
+|**2024-02-27**|**DivAvatar: Diverse 3D Avatar Generation with a Single Prompt**|Weijing Tao et.al.|[2402.17292v1](http://arxiv.org/abs/2402.17292v1)|null|
+|**2024-02-27**|**CharNeRF: 3D Character Generation from Concept Art**|Eddy Chu et.al.|[2402.17115v1](http://arxiv.org/abs/2402.17115v1)|null|
+|**2024-02-26**|**Disentangled 3D Scene Generation with Layout Learning**|Dave Epstein et.al.|[2402.16936v1](http://arxiv.org/abs/2402.16936v1)|null|
+|**2024-02-26**|**Resolution-Agnostic Neural Compression for High-Fidelity Portrait Video Conferencing via Implicit Radiance Fields**|Yifei Li et.al.|[2402.16599v1](http://arxiv.org/abs/2402.16599v1)|null|
 |**2024-02-26**|**CMC: Few-shot Novel View Synthesis via Cross-view Multiplane Consistency**|Hanxin Zhu et.al.|[2402.16407v1](http://arxiv.org/abs/2402.16407v1)|null|
 |**2024-02-26**|**SPC-NeRF: Spatial Predictive Compression for Voxel Based Radiance Field**|Zetian Song et.al.|[2402.16366v1](http://arxiv.org/abs/2402.16366v1)|null|
 |**2024-02-26**|**DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**|Yizhe Wu et.al.|[2402.16308v1](http://arxiv.org/abs/2402.16308v1)|null|
@@ -62,11 +69,4 @@
 |**2024-02-15**|**Evaluating NeRFs for 3D Plant Geometry Reconstruction in Field Conditions**|Muhammad Arbab Arshad et.al.|[2402.10344v1](http://arxiv.org/abs/2402.10344v1)|null|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128v1](http://arxiv.org/abs/2402.10128v1)|**[link](https://github.com/ajhamdi/ges-splatting)**|
 |**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325v1](http://arxiv.org/abs/2402.09325v1)|**[link](https://github.com/biter0088/pc-nerf)**|
-|**2024-02-13**|**Preconditioners for the Stochastic Training of Implicit Neural Representations**|Shin-Fang Chng et.al.|[2402.08784v1](http://arxiv.org/abs/2402.08784v1)|null|
-|**2024-02-13**|**NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**|Michael Fischer et.al.|[2402.08622v1](http://arxiv.org/abs/2402.08622v1)|null|
-|**2024-02-13**|**H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields**|Minyoung Park et.al.|[2402.08138v1](http://arxiv.org/abs/2402.08138v1)|null|
-|**2024-02-12**|**DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation**|Chenchang Li et.al.|[2402.07648v1](http://arxiv.org/abs/2402.07648v1)|null|
-|**2024-02-11**|**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**|Leandro A. Passos et.al.|[2402.07310v1](http://arxiv.org/abs/2402.07310v1)|**[link](https://github.com/leandropassosjr/bionerf)**|
-|**2024-02-11**|**3D Gaussian as a New Vision Era: A Survey**|Ben Fei et.al.|[2402.07181v1](http://arxiv.org/abs/2402.07181v1)|null|
-|**2024-02-09**|**Neural Rendering based Urban Scene Reconstruction for Autonomous Driving**|Shihao Shen et.al.|[2402.06826v1](http://arxiv.org/abs/2402.06826v1)|null|
 
