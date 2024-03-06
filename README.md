@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-03**|**MatchU: Matching Unseen Objects for 6D Pose Estimation from RGB-D Images**|Junwen Huang et.al.|[2403.01517v1](http://arxiv.org/abs/2403.01517v1)|null|
 |**2024-02-26**|**HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields**|Haozhe Qi et.al.|[2402.17062v1](http://arxiv.org/abs/2402.17062v1)|**[link](https://github.com/amathislab/hoisdf)**|
 |**2024-02-26**|**DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**|Yizhe Wu et.al.|[2402.16308v1](http://arxiv.org/abs/2402.16308v1)|null|
 |**2024-02-24**|**CLIPose: Category-Level Object Pose Estimation with Pre-trained Vision-Language Knowledge**|Xiao Lin et.al.|[2402.15726v1](http://arxiv.org/abs/2402.15726v1)|null|
@@ -33,12 +34,14 @@
 |**2023-11-27**|**SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation**|Jiehong Lin et.al.|[2311.15707v1](http://arxiv.org/abs/2311.15707v1)|**[link](https://github.com/jiehonglin/sam-6d)**|
 |**2023-11-23**|**GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence**|Van Nguyen Nguyen et.al.|[2311.14155v1](http://arxiv.org/abs/2311.14155v1)|**[link](https://github.com/nv-nguyen/gigapose)**|
 |**2023-11-23**|**GS-Pose: Category-Level Object Pose Estimation via Geometric and Semantic Correspondence**|Pengyuan Wang et.al.|[2311.13777v1](http://arxiv.org/abs/2311.13777v1)|null|
-|**2023-11-21**|**HiPose: Hierarchical Binary Surface Encoding and Correspondence Pruning for RGB-D 6DoF Object Pose Estimation**|Yongliang Lin et.al.|[2311.12588v1](http://arxiv.org/abs/2311.12588v1)|null|
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751v1](http://arxiv.org/abs/2403.02751v1)|null|
+|**2024-03-04**|**DaReNeRF: Direction-aware Representation for Dynamic Scenes**|Ange Lou et.al.|[2403.02265v1](http://arxiv.org/abs/2403.02265v1)|null|
+|**2024-03-04**|**Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views**|Shuai Guo et.al.|[2403.02063v1](http://arxiv.org/abs/2403.02063v1)|null|
 |**2024-03-02**|**NeRF-VPT: Learning Novel View Representations with Neural Radiance Fields via View Prompt Tuning**|Linsheng Chen et.al.|[2403.01325v1](http://arxiv.org/abs/2403.01325v1)|**[link](https://github.com/freedomcls/nerf-vpt)**|
 |**2024-03-02**|**Neural radiance fields-based holography [Invited]**|Minsung Kang et.al.|[2403.01137v1](http://arxiv.org/abs/2403.01137v1)|null|
 |**2024-03-02**|**Neural Field Classifiers via Target Encoding and Classification Loss**|Xindi Yang et.al.|[2403.01058v1](http://arxiv.org/abs/2403.01058v1)|null|
@@ -66,7 +69,4 @@
 |**2024-02-21**|**SealD-NeRF: Interactive Pixel-Level Editing for Dynamic Scenes by Neural Radiance Fields**|Zhentao Huang et.al.|[2402.13510v1](http://arxiv.org/abs/2402.13510v1)|null|
 |**2024-02-20**|**How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey**|Fabio Tosi et.al.|[2402.13255v1](http://arxiv.org/abs/2402.13255v1)|null|
 |**2024-02-20**|**Improving Robustness for Joint Optimization of Camera Poses and Decomposed Low-Rank Tensorial Radiance Fields**|Bo-Yu Cheng et.al.|[2402.13252v1](http://arxiv.org/abs/2402.13252v1)|**[link](https://github.com/nemo1999/joint-tensorf)**|
-|**2024-02-20**|**NeRF Solves Undersampled MRI Reconstruction**|Tae Jun Jang et.al.|[2402.13226v2](http://arxiv.org/abs/2402.13226v2)|null|
-|**2024-02-20**|**OccFlowNet: Towards Self-supervised Occupancy Estimation via Differentiable Rendering and Occupancy Flow**|Simon Boeder et.al.|[2402.12792v1](http://arxiv.org/abs/2402.12792v1)|null|
-|**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377v1](http://arxiv.org/abs/2402.12377v1)|null|
 
