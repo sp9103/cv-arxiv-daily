@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.10
+## Updated on 2024.03.11
 
 ## 6DOF Object Pose
 
@@ -43,9 +43,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-07**|**Finding Waldo: Towards Efficient Exploration of NeRF Scene Space**|Evangelos Skartados et.al.|[2403.04508v1](http://arxiv.org/abs/2403.04508v1)|null|
+|**2024-03-07**|**Finding Waldo: Towards Efficient Exploration of NeRF Scene Spaces**|Evangelos Skartados et.al.|[2403.04508v2](http://arxiv.org/abs/2403.04508v2)|null|
 |**2024-03-07**|**Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis**|Yuanhao Cai et.al.|[2403.04116v1](http://arxiv.org/abs/2403.04116v1)|**[link](https://github.com/caiyuanhao1998/x-gaussian)**|
-|**2024-03-07**|**DNAct: Diffusion Guided Multi-Task 3D Policy Learning**|Ge Yan et.al.|[2403.04115v1](http://arxiv.org/abs/2403.04115v1)|null|
+|**2024-03-07**|**DNAct: Diffusion Guided Multi-Task 3D Policy Learning**|Ge Yan et.al.|[2403.04115v2](http://arxiv.org/abs/2403.04115v2)|null|
 |**2024-03-07**|**Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs**|Nikhil Mishra et.al.|[2403.04114v1](http://arxiv.org/abs/2403.04114v1)|**[link](https://github.com/nikhilmishra000/cov-nerf)**|
 |**2024-03-06**|**DART: Implicit Doppler Tomography for Radar Novel View Synthesis**|Tianshu Huang et.al.|[2403.03896v1](http://arxiv.org/abs/2403.03896v1)|null|
 |**2024-03-06**|**GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**|Zi-Ting Chou et.al.|[2403.03608v1](http://arxiv.org/abs/2403.03608v1)|null|
