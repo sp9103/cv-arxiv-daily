@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Uncertainty Quantification with Deep Ensembles for 6D Object Pose Estimation**|Kira Wursthorn et.al.|[2403.07741v1](http://arxiv.org/abs/2403.07741v1)|null|
+|**2024-03-12**|**Category-Agnostic Pose Estimation for Point Clouds**|Bowen Liu et.al.|[2403.07437v1](http://arxiv.org/abs/2403.07437v1)|null|
 |**2024-03-03**|**MatchU: Matching Unseen Objects for 6D Pose Estimation from RGB-D Images**|Junwen Huang et.al.|[2403.01517v1](http://arxiv.org/abs/2403.01517v1)|null|
 |**2024-02-26**|**HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields**|Haozhe Qi et.al.|[2402.17062v1](http://arxiv.org/abs/2402.17062v1)|**[link](https://github.com/amathislab/hoisdf)**|
 |**2024-02-26**|**DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**|Yizhe Wu et.al.|[2402.16308v1](http://arxiv.org/abs/2402.16308v1)|null|
@@ -36,13 +38,12 @@ layout: default
 |**2023-11-28**|**HandyPriors: Physically Consistent Perception of Hand-Object Interactions with Differentiable Priors**|Shutong Zhang et.al.|[2311.16552v3](http://arxiv.org/abs/2311.16552v3)|null|
 |**2023-11-27**|**Uncertainty Quantification of Set-Membership Estimation in Control and Perception: Revisiting the Minimum Enclosing Ellipsoid**|Yukai Tang et.al.|[2311.15962v2](http://arxiv.org/abs/2311.15962v2)|null|
 |**2023-11-27**|**SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation**|Jiehong Lin et.al.|[2311.15707v2](http://arxiv.org/abs/2311.15707v2)|**[link](https://github.com/jiehonglin/sam-6d)**|
-|**2023-11-23**|**GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence**|Van Nguyen Nguyen et.al.|[2311.14155v1](http://arxiv.org/abs/2311.14155v1)|**[link](https://github.com/nv-nguyen/gigapose)**|
-|**2023-11-23**|**GS-Pose: Category-Level Object Pose Estimation via Geometric and Semantic Correspondence**|Pengyuan Wang et.al.|[2311.13777v1](http://arxiv.org/abs/2311.13777v1)|null|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**SMURF: Continuous Dynamics for Motion-Deblurring Radiance Fields**|Jungho Lee et.al.|[2403.07547v1](http://arxiv.org/abs/2403.07547v1)|**[link](https://github.com/jho-yonsei/smurf)**|
 |**2024-03-11**|**DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization**|Jiahe Li et.al.|[2403.06912v1](http://arxiv.org/abs/2403.06912v1)|**[link](https://github.com/fictionarry/dngaussian)**|
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877v1](http://arxiv.org/abs/2403.06877v1)|null|
 |**2024-03-11**|**Vosh: Voxel-Mesh Hybrid Representation for Real-Time View Synthesis**|Chenhao Zhang et.al.|[2403.06505v1](http://arxiv.org/abs/2403.06505v1)|null|
@@ -72,5 +73,4 @@ layout: default
 |**2024-02-27**|**VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction**|Jiaqi Lin et.al.|[2402.17427v1](http://arxiv.org/abs/2402.17427v1)|null|
 |**2024-02-27**|**Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**|Zicheng Zhang et.al.|[2402.17364v1](http://arxiv.org/abs/2402.17364v1)|**[link](https://github.com/zhangzc21/dyntet)**|
 |**2024-02-27**|**DivAvatar: Diverse 3D Avatar Generation with a Single Prompt**|Weijing Tao et.al.|[2402.17292v1](http://arxiv.org/abs/2402.17292v1)|null|
-|**2024-02-27**|**CharNeRF: 3D Character Generation from Concept Art**|Eddy Chu et.al.|[2402.17115v1](http://arxiv.org/abs/2402.17115v1)|null|
 
