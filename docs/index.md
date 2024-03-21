@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**DVMNet: Computing Relative Pose for Unseen Objects Beyond Hypotheses**|Chen Zhao et.al.|[2403.13683v1](http://arxiv.org/abs/2403.13683v1)|null|
 |**2024-03-18**|**HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data**|Mengqi Zhang et.al.|[2403.12011v1](http://arxiv.org/abs/2403.12011v1)|null|
 |**2024-03-18**|**GenFlow: Generalizable Recurrent Flow for 6D Pose Refinement of Novel Objects**|Sungphill Moon et.al.|[2403.11510v1](http://arxiv.org/abs/2403.11510v1)|null|
 |**2024-03-16**|**Robotic Task Success Evaluation Under Multi-modal Non-Parametric Object Pose Uncertainty**|Lakshadeep Naik et.al.|[2403.10874v1](http://arxiv.org/abs/2403.10874v1)|null|
@@ -37,12 +38,17 @@ layout: default
 |**2023-12-13**|**FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects**|Bowen Wen et.al.|[2312.08344v1](http://arxiv.org/abs/2312.08344v1)|**[link](https://github.com/NVlabs/FoundationPose)**|
 |**2023-12-13**|**Efficient Multi-Object Pose Estimation using Multi-Resolution Deformable Attention and Query Aggregation**|Arul Selvam Periyasamy et.al.|[2312.08268v1](http://arxiv.org/abs/2312.08268v1)|null|
 |**2023-12-13**|**Three-Filters-to-Normal+: Revisiting Discontinuity Discrimination in Depth-to-Normal Translation**|Jingwei Yang et.al.|[2312.07964v1](http://arxiv.org/abs/2312.07964v1)|null|
-|**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593v1](http://arxiv.org/abs/2312.02593v1)|**[link](https://github.com/kulunuos/6dapose)**|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS**|Michael Niemeyer et.al.|[2403.13806v1](http://arxiv.org/abs/2403.13806v1)|null|
+|**2024-03-20**|**MULAN-WC: Multi-Robot Localization Uncertainty-aware Active NeRF with Wireless Coordination**|Weiying Wang et.al.|[2403.13348v1](http://arxiv.org/abs/2403.13348v1)|null|
+|**2024-03-20**|**Learning Novel View Synthesis from Heterogeneous Low-light Captures**|Quan Zheng et.al.|[2403.13337v1](http://arxiv.org/abs/2403.13337v1)|null|
+|**2024-03-19**|**Depth-guided NeRF Training via Earth Mover's Distance**|Anita Rau et.al.|[2403.13206v1](http://arxiv.org/abs/2403.13206v1)|null|
+|**2024-03-19**|**DecentNeRFs: Decentralized Neural Radiance Fields from Crowdsourced Images**|Zaid Tasneem et.al.|[2403.13199v1](http://arxiv.org/abs/2403.13199v1)|null|
+|**2024-03-19**|**SceneScript: Reconstructing Scenes With An Autoregressive Structured Language Model**|Armen Avetisyan et.al.|[2403.13064v1](http://arxiv.org/abs/2403.13064v1)|null|
 |**2024-03-19**|**Global-guided Focal Neural Radiance Field for Large-scale Scene Rendering**|Mingqi Shao et.al.|[2403.12839v1](http://arxiv.org/abs/2403.12839v1)|null|
 |**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800v1](http://arxiv.org/abs/2403.12800v1)|null|
 |**2024-03-19**|**IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model**|Matteo Bortolon et.al.|[2403.12682v1](http://arxiv.org/abs/2403.12682v1)|null|
@@ -52,7 +58,7 @@ layout: default
 |**2024-03-18**|**GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors**|LI Yang et.al.|[2403.11899v1](http://arxiv.org/abs/2403.11899v1)|null|
 |**2024-03-18**|**Exploring Multi-modal Neural Scene Representations With Applications on Thermal Imaging**|Mert Özer et.al.|[2403.11865v1](http://arxiv.org/abs/2403.11865v1)|null|
 |**2024-03-18**|**BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**|Lingzhe Zhao et.al.|[2403.11831v2](http://arxiv.org/abs/2403.11831v2)|**[link](https://github.com/WU-CVGL/BAD-Gaussians)**|
-|**2024-03-18**|**Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery**|Yuqi Zhang et.al.|[2403.11812v1](http://arxiv.org/abs/2403.11812v1)|null|
+|**2024-03-18**|**Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery**|Yuqi Zhang et.al.|[2403.11812v1](http://arxiv.org/abs/2403.11812v1)|**[link](https://github.com/zyqz97/aerial_lifting)**|
 |**2024-03-18**|**OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation**|Haochen Jiang et.al.|[2403.11796v1](http://arxiv.org/abs/2403.11796v1)|null|
 |**2024-03-18**|**DVN-SLAM: Dynamic Visual Neural SLAM Based on Local-Global Encoding**|Wenhua Wu et.al.|[2403.11776v1](http://arxiv.org/abs/2403.11776v1)|null|
 |**2024-03-18**|**Exploring 3D-aware Latent Spaces for Efficiently Learning Numerous Scenes**|Antoine Schnepf et.al.|[2403.11678v1](http://arxiv.org/abs/2403.11678v1)|null|
@@ -66,11 +72,5 @@ layout: default
 |**2024-03-16**|**Fast Sparse View Guided NeRF Update for Object Reconfigurations**|Ziqi Lu et.al.|[2403.11024v1](http://arxiv.org/abs/2403.11024v1)|null|
 |**2024-03-16**|**HourglassNeRF: Casting an Hourglass as a Bundle of Rays for Few-shot Neural Rendering**|Seunghyeon Seo et.al.|[2403.10906v1](http://arxiv.org/abs/2403.10906v1)|null|
 |**2024-03-16**|**MSI-NeRF: Linking Omni-Depth with View Synthesis through Multi-Sphere Image aided Generalizable Neural Radiance Field**|Dongyu Yan et.al.|[2403.10840v1](http://arxiv.org/abs/2403.10840v1)|null|
-|**2024-03-16**|**H3-Mapping: Quasi-Heterogeneous Feature Grids for Real-time Dense Mapping Using Hierarchical Hybrid Representation**|Chenxing Jiang et.al.|[2403.10821v1](http://arxiv.org/abs/2403.10821v1)|null|
-|**2024-03-16**|**DPPE: Dense Pose Estimation in a Plenoxels Environment using Gradient Approximation**|Christopher Kolios et.al.|[2403.10773v1](http://arxiv.org/abs/2403.10773v1)|null|
-|**2024-03-15**|**FeatUp: A Model-Agnostic Framework for Features at Any Resolution**|Stephanie Fu et.al.|[2403.10516v1](http://arxiv.org/abs/2403.10516v1)|**[link](https://github.com/mhamilton723/FeatUp)**|
-|**2024-03-15**|**Lifelong LERF: Local 3D Semantic Inventory Monitoring Using FogROS2**|Adam Rashid et.al.|[2403.10494v1](http://arxiv.org/abs/2403.10494v1)|null|
-|**2024-03-15**|**Thermal-NeRF: Neural Radiance Fields from an Infrared Camera**|Tianxiang Ye et.al.|[2403.10340v1](http://arxiv.org/abs/2403.10340v1)|null|
-|**2024-03-15**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297v2](http://arxiv.org/abs/2403.10297v2)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
-|**2024-03-15**|**SemanticHuman-HD: High-Resolution Semantic Disentangled 3D Human Generation**|Peng Zheng et.al.|[2403.10166v1](http://arxiv.org/abs/2403.10166v1)|null|
+|**2024-03-16**|**H3-Mapping: Quasi-Heterogeneous Feature Grids for Real-time Dense Mapping Using Hierarchical Hybrid Representation**|Chenxing Jiang et.al.|[2403.10821v1](http://arxiv.org/abs/2403.10821v1)|**[link](https://github.com/sysu-star/h3-mapping)**|
 
