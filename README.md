@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-24**|**KITchen: A Real-World Benchmark and Dataset for 6D Object Pose Estimation in Kitchen Environments**|Abdelrahman Younes et.al.|[2403.16238v1](http://arxiv.org/abs/2403.16238v1)|null|
 |**2024-03-22**|**DITTO: Demonstration Imitation by Trajectory Transformation**|Nick Heppert et.al.|[2403.15203v1](http://arxiv.org/abs/2403.15203v1)|null|
 |**2024-03-21**|**Visibility-Aware Keypoint Localization for 6DoF Object Pose Estimation**|Ruyi Lian et.al.|[2403.14559v1](http://arxiv.org/abs/2403.14559v1)|null|
 |**2024-03-20**|**DVMNet: Computing Relative Pose for Unseen Objects Beyond Hypotheses**|Chen Zhao et.al.|[2403.13683v1](http://arxiv.org/abs/2403.13683v1)|**[link](https://github.com/sailor-z/dvmnet)**|
@@ -33,12 +34,25 @@
 |**2024-01-07**|**RHOBIN Challenge: Reconstruction of Human Object Interaction**|Xianghui Xie et.al.|[2401.04143v1](http://arxiv.org/abs/2401.04143v1)|null|
 |**2024-01-04**|**Fit-NGP: Fitting Object Models to Neural Graphics Primitives**|Marwan Taher et.al.|[2401.02357v1](http://arxiv.org/abs/2401.02357v1)|null|
 |**2023-12-29**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029v3](http://arxiv.org/abs/2401.00029v3)|null|
-|**2023-12-13**|**FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects**|Bowen Wen et.al.|[2312.08344v1](http://arxiv.org/abs/2312.08344v1)|**[link](https://github.com/NVlabs/FoundationPose)**|
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Spike-NeRF: Neural Radiance Field Based On Spike Camera**|Yijia Guo et.al.|[2403.16410v1](http://arxiv.org/abs/2403.16410v1)|null|
+|**2024-03-24**|**Inverse Rendering of Glossy Objects via the Neural Plenoptic Function and Radiance Fields**|Haoyuan Wang et.al.|[2403.16224v1](http://arxiv.org/abs/2403.16224v1)|null|
+|**2024-03-24**|**Entity-NeRF: Detecting and Removing Moving Entities in Urban Scenes**|Takashi Otonari et.al.|[2403.16141v1](http://arxiv.org/abs/2403.16141v1)|null|
+|**2024-03-24**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095v1](http://arxiv.org/abs/2403.16095v1)|null|
+|**2024-03-24**|**Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap**|Carl Lindström et.al.|[2403.16092v1](http://arxiv.org/abs/2403.16092v1)|null|
+|**2024-03-24**|**PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**|Xiaoyun Zheng et.al.|[2403.16080v1](http://arxiv.org/abs/2403.16080v1)|**[link](https://github.com/zhengxyun/PKU-DyMVHumans)**|
+|**2024-03-24**|**Semantic Is Enough: Only Semantic Information For NeRF Reconstruction**|Ruibo Wang et.al.|[2403.16043v1](http://arxiv.org/abs/2403.16043v1)|null|
+|**2024-03-24**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|unhong Zhao et.al.|[2403.15981v1](http://arxiv.org/abs/2403.15981v1)|null|
+|**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791v1](http://arxiv.org/abs/2403.15791v1)|null|
+|**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705v1](http://arxiv.org/abs/2403.15705v1)|null|
+|**2024-03-23**|**Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections**|Dongbin Zhang et.al.|[2403.15704v1](http://arxiv.org/abs/2403.15704v1)|null|
+|**2024-03-23**|**SceneX:Procedural Controllable Large-scale Scene Generation via Large-language Models**|Mengqi Zhou et.al.|[2403.15698v1](http://arxiv.org/abs/2403.15698v1)|null|
+|**2024-03-22**|**Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting**|Jun Guo et.al.|[2403.15624v1](http://arxiv.org/abs/2403.15624v1)|null|
+|**2024-03-22**|**Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting**|Zheng Zhang et.al.|[2403.15530v1](http://arxiv.org/abs/2403.15530v1)|null|
 |**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272v1](http://arxiv.org/abs/2403.15272v1)|null|
 |**2024-03-21**|**Hyperspectral Neural Radiance Fields**|Gerry Chen et.al.|[2403.14839v1](http://arxiv.org/abs/2403.14839v1)|null|
 |**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619v1](http://arxiv.org/abs/2403.14619v1)|null|
@@ -55,18 +69,4 @@
 |**2024-03-19**|**SceneScript: Reconstructing Scenes With An Autoregressive Structured Language Model**|Armen Avetisyan et.al.|[2403.13064v1](http://arxiv.org/abs/2403.13064v1)|null|
 |**2024-03-19**|**Global-guided Focal Neural Radiance Field for Large-scale Scene Rendering**|Mingqi Shao et.al.|[2403.12839v1](http://arxiv.org/abs/2403.12839v1)|null|
 |**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800v1](http://arxiv.org/abs/2403.12800v1)|null|
-|**2024-03-19**|**IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model**|Matteo Bortolon et.al.|[2403.12682v1](http://arxiv.org/abs/2403.12682v1)|null|
-|**2024-03-18**|**FLex: Joint Pose and Dynamic Radiance Fields Optimization for Stereo Endoscopic Videos**|Florian Philipp Stilz et.al.|[2403.12198v1](http://arxiv.org/abs/2403.12198v1)|null|
-|**2024-03-18**|**ThermoNeRF: Multimodal Neural Radiance Fields for Thermal Novel View Synthesis**|Mariam Hassan et.al.|[2403.12154v1](http://arxiv.org/abs/2403.12154v1)|**[link](https://github.com/schindlerepfl/thermo-nerf)**|
-|**2024-03-18**|**RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF**|Sibi Catley-Chandar et.al.|[2403.11909v1](http://arxiv.org/abs/2403.11909v1)|null|
-|**2024-03-18**|**GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors**|LI Yang et.al.|[2403.11899v1](http://arxiv.org/abs/2403.11899v1)|null|
-|**2024-03-18**|**Exploring Multi-modal Neural Scene Representations With Applications on Thermal Imaging**|Mert Özer et.al.|[2403.11865v1](http://arxiv.org/abs/2403.11865v1)|null|
-|**2024-03-18**|**BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**|Lingzhe Zhao et.al.|[2403.11831v2](http://arxiv.org/abs/2403.11831v2)|**[link](https://github.com/WU-CVGL/BAD-Gaussians)**|
-|**2024-03-18**|**Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery**|Yuqi Zhang et.al.|[2403.11812v1](http://arxiv.org/abs/2403.11812v1)|**[link](https://github.com/zyqz97/aerial_lifting)**|
-|**2024-03-18**|**OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation**|Haochen Jiang et.al.|[2403.11796v1](http://arxiv.org/abs/2403.11796v1)|null|
-|**2024-03-18**|**DVN-SLAM: Dynamic Visual Neural SLAM Based on Local-Global Encoding**|Wenhua Wu et.al.|[2403.11776v1](http://arxiv.org/abs/2403.11776v1)|null|
-|**2024-03-18**|**Exploring 3D-aware Latent Spaces for Efficiently Learning Numerous Scenes**|Antoine Schnepf et.al.|[2403.11678v1](http://arxiv.org/abs/2403.11678v1)|null|
-|**2024-03-18**|**UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures for Human Avatar Modeling**|Yujiao Jiang et.al.|[2403.11589v1](http://arxiv.org/abs/2403.11589v1)|null|
-|**2024-03-18**|**Just Add $100 More: Augmenting NeRF-based Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem**|Mincheol Chang et.al.|[2403.11573v2](http://arxiv.org/abs/2403.11573v2)|null|
-|**2024-03-18**|**Beyond Uncertainty: Risk-Aware Active View Acquisition for Safe Robot Navigation and 3D Scene Understanding with FisherRF**|Guangyi Liu et.al.|[2403.11396v1](http://arxiv.org/abs/2403.11396v1)|null|
 
