@@ -39,6 +39,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**|Kerui Ren et.al.|[2403.17898v1](http://arxiv.org/abs/2403.17898v1)|null|
+|**2024-03-26**|**2D Gaussian Splatting for Geometrically Accurate Radiance Fields**|Binbin Huang et.al.|[2403.17888v1](http://arxiv.org/abs/2403.17888v1)|null|
+|**2024-03-26**|**Learning with Unreliability: Fast Few-shot Voxel Radiance Fields with Relative Geometric Consistency**|Yingjie Xu et.al.|[2403.17638v1](http://arxiv.org/abs/2403.17638v1)|null|
+|**2024-03-26**|**Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs**|Kai Yuan et.al.|[2403.17607v1](http://arxiv.org/abs/2403.17607v1)|**[link](https://github.com/intel/tiny-dpcpp-nn)**|
+|**2024-03-26**|**NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation**|Jiahao Chen et.al.|[2403.17537v1](http://arxiv.org/abs/2403.17537v1)|null|
+|**2024-03-25**|**VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation**|Yang Chen et.al.|[2403.17001v1](http://arxiv.org/abs/2403.17001v1)|null|
+|**2024-03-25**|**CVT-xRF: Contrastive In-Voxel Transformer for 3D Consistent Radiance Fields from Sparse Inputs**|Yingji Zhong et.al.|[2403.16885v1](http://arxiv.org/abs/2403.16885v1)|null|
+|**2024-03-25**|**INPC: Implicit Neural Point Clouds for Radiance Field Rendering**|Florian Hahlbohm et.al.|[2403.16862v1](http://arxiv.org/abs/2403.16862v1)|null|
 |**2024-03-25**|**Spike-NeRF: Neural Radiance Field Based On Spike Camera**|Yijia Guo et.al.|[2403.16410v1](http://arxiv.org/abs/2403.16410v1)|null|
 |**2024-03-24**|**Inverse Rendering of Glossy Objects via the Neural Plenoptic Function and Radiance Fields**|Haoyuan Wang et.al.|[2403.16224v1](http://arxiv.org/abs/2403.16224v1)|null|
 |**2024-03-24**|**Entity-NeRF: Detecting and Removing Moving Entities in Urban Scenes**|Takashi Otonari et.al.|[2403.16141v1](http://arxiv.org/abs/2403.16141v1)|null|
@@ -61,12 +69,4 @@
 |**2024-03-21**|**InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity**|Jiabin Liang et.al.|[2403.14376v1](http://arxiv.org/abs/2403.14376v1)|null|
 |**2024-03-21**|**Isotropic Gaussian Splatting for Real-Time Radiance Field Rendering**|Yuanhao Gong et.al.|[2403.14244v1](http://arxiv.org/abs/2403.14244v1)|null|
 |**2024-03-21**|**Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions**|Jiacong Xu et.al.|[2403.14053v1](http://arxiv.org/abs/2403.14053v1)|null|
-|**2024-03-20**|**RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS**|Michael Niemeyer et.al.|[2403.13806v1](http://arxiv.org/abs/2403.13806v1)|null|
-|**2024-03-20**|**MULAN-WC: Multi-Robot Localization Uncertainty-aware Active NeRF with Wireless Coordination**|Weiying Wang et.al.|[2403.13348v1](http://arxiv.org/abs/2403.13348v1)|null|
-|**2024-03-20**|**Learning Novel View Synthesis from Heterogeneous Low-light Captures**|Quan Zheng et.al.|[2403.13337v1](http://arxiv.org/abs/2403.13337v1)|null|
-|**2024-03-19**|**Depth-guided NeRF Training via Earth Mover's Distance**|Anita Rau et.al.|[2403.13206v1](http://arxiv.org/abs/2403.13206v1)|null|
-|**2024-03-19**|**DecentNeRFs: Decentralized Neural Radiance Fields from Crowdsourced Images**|Zaid Tasneem et.al.|[2403.13199v1](http://arxiv.org/abs/2403.13199v1)|null|
-|**2024-03-19**|**SceneScript: Reconstructing Scenes With An Autoregressive Structured Language Model**|Armen Avetisyan et.al.|[2403.13064v1](http://arxiv.org/abs/2403.13064v1)|null|
-|**2024-03-19**|**Global-guided Focal Neural Radiance Field for Large-scale Scene Rendering**|Mingqi Shao et.al.|[2403.12839v1](http://arxiv.org/abs/2403.12839v1)|null|
-|**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800v1](http://arxiv.org/abs/2403.12800v1)|null|
 
