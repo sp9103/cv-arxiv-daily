@@ -39,6 +39,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Robust Gaussian Splatting**|François Darmon et.al.|[2404.04211v1](http://arxiv.org/abs/2404.04211v1)|null|
+|**2024-04-04**|**SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer**|Zijie Wu et.al.|[2404.03736v1](http://arxiv.org/abs/2404.03736v1)|null|
 |**2024-04-04**|**Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning**|Rui Li et.al.|[2404.03658v1](http://arxiv.org/abs/2404.03658v1)|**[link](https://github.com/ruili3/Know-Your-Neighbors)**|
 |**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654v1](http://arxiv.org/abs/2404.03654v1)|null|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650v1](http://arxiv.org/abs/2404.03650v1)|null|
@@ -58,7 +60,7 @@
 |**2024-04-01**|**StructLDM: Structured Latent Diffusion for 3D Human Generation**|Tao Hu et.al.|[2404.01241v2](http://arxiv.org/abs/2404.01241v2)|null|
 |**2024-04-01**|**Mirror-3DGS: Incorporating Mirror Reflections into 3D Gaussian Splatting**|Jiarui Meng et.al.|[2404.01168v1](http://arxiv.org/abs/2404.01168v1)|null|
 |**2024-04-01**|**SGCNeRF: Few-Shot Neural Rendering via Sparse Geometric Consistency Guidance**|Yuru Xiao et.al.|[2404.00992v1](http://arxiv.org/abs/2404.00992v1)|null|
-|**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987v1](http://arxiv.org/abs/2404.00987v1)|null|
+|**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987v1](http://arxiv.org/abs/2404.00987v1)|**[link](https://github.com/zhaorw02/FlexiDreamer)**|
 |**2024-04-01**|**MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements**|Lisong C. Sun et.al.|[2404.00923v1](http://arxiv.org/abs/2404.00923v1)|null|
 |**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891v1](http://arxiv.org/abs/2404.00891v1)|null|
 |**2024-04-01**|**DPA-Net: Structured 3D Abstraction from Sparse Views via Differentiable Primitive Assembly**|Fenggen Yu et.al.|[2404.00875v2](http://arxiv.org/abs/2404.00875v2)|null|
@@ -67,6 +69,4 @@
 |**2024-03-31**|**Neural Radiance Field-based Visual Rendering: A Comprehensive Review**|Mingyuan Yao et.al.|[2404.00714v1](http://arxiv.org/abs/2404.00714v1)|null|
 |**2024-03-31**|**OmniLocalRF: Omnidirectional Local Radiance Fields from Dynamic Videos**|Dongyoung Choi et.al.|[2404.00676v1](http://arxiv.org/abs/2404.00676v1)|null|
 |**2024-03-31**|**Knowledge NeRF: Few-shot Novel View Synthesis for Dynamic Articulated Objects**|Wenxiao Cai et.al.|[2404.00674v1](http://arxiv.org/abs/2404.00674v1)|**[link](https://github.com/russrobin/knowledge_nerf)**|
-|**2024-03-30**|**MaGRITTe: Manipulative and Generative 3D Realization from Image, Topview and Text**|Takayuki Hara et.al.|[2404.00345v1](http://arxiv.org/abs/2404.00345v1)|null|
-|**2024-03-29**|**Multi-Level Neural Scene Graphs for Dynamic Urban Environments**|Tobias Fischer et.al.|[2404.00168v1](http://arxiv.org/abs/2404.00168v1)|null|
 
