@@ -1,4 +1,4 @@
-## Updated on 2024.04.08
+## Updated on 2024.04.09
 
 ## 6DOF Object Pose
 
@@ -68,5 +68,5 @@
 |**2024-03-31**|**An Active Perception Game for Robust Autonomous Exploration**|Siming He et.al.|[2404.00769v1](http://arxiv.org/abs/2404.00769v1)|null|
 |**2024-03-31**|**Neural Radiance Field-based Visual Rendering: A Comprehensive Review**|Mingyuan Yao et.al.|[2404.00714v1](http://arxiv.org/abs/2404.00714v1)|null|
 |**2024-03-31**|**OmniLocalRF: Omnidirectional Local Radiance Fields from Dynamic Videos**|Dongyoung Choi et.al.|[2404.00676v1](http://arxiv.org/abs/2404.00676v1)|null|
-|**2024-03-31**|**Knowledge NeRF: Few-shot Novel View Synthesis for Dynamic Articulated Objects**|Wenxiao Cai et.al.|[2404.00674v1](http://arxiv.org/abs/2404.00674v1)|**[link](https://github.com/russrobin/knowledge_nerf)**|
+|**2024-03-31**|**Knowledge NeRF: Few-shot Novel View Synthesis for Dynamic Articulated Objects**|Wenxiao Cai et.al.|[2404.00674v2](http://arxiv.org/abs/2404.00674v2)|**[link](https://github.com/russrobin/knowledge_nerf)**|
 
