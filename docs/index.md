@@ -43,6 +43,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**DreamCraft: Text-Guided Generation of Functional 3D Environments in Minecraft**|Sam Earle et.al.|[2404.15538v1](http://arxiv.org/abs/2404.15538v1)|null|
 |**2024-04-23**|**TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting**|Jiahe Li et.al.|[2404.15264v1](http://arxiv.org/abs/2404.15264v1)|null|
 |**2024-04-23**|**CoARF: Controllable 3D Artistic Style Transfer for Radiance Fields**|Deheng Zhang et.al.|[2404.14967v1](http://arxiv.org/abs/2404.14967v1)|null|
 |**2024-04-22**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037v1](http://arxiv.org/abs/2404.14037v1)|null|
@@ -53,13 +54,13 @@ layout: default
 |**2024-04-21**|**GScream: Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal**|Yuxin Wang et.al.|[2404.13679v1](http://arxiv.org/abs/2404.13679v1)|null|
 |**2024-04-21**|**Generalizable Novel-View Synthesis using a Stereo Camera**|Haechan Lee et.al.|[2404.13541v1](http://arxiv.org/abs/2404.13541v1)|null|
 |**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437v1](http://arxiv.org/abs/2404.13437v1)|null|
-|**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li et.al.|[2404.13346v1](http://arxiv.org/abs/2404.13346v1)|null|
+|**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li et.al.|[2404.13346v1](http://arxiv.org/abs/2404.13346v1)|**[link](https://github.com/lightingooo/ec-slam)**|
 |**2024-04-19**|**FlyNeRF: NeRF-Based Aerial Mapping for High-Quality 3D Scene Reconstruction**|Maria Dronova et.al.|[2404.12970v1](http://arxiv.org/abs/2404.12970v1)|null|
 |**2024-04-18**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547v2](http://arxiv.org/abs/2404.12547v2)|null|
 |**2024-04-18**|**MeshLRM: Large Reconstruction Model for High-Quality Mesh**|Xinyue Wei et.al.|[2404.12385v1](http://arxiv.org/abs/2404.12385v1)|null|
 |**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897v1](http://arxiv.org/abs/2404.11897v1)|null|
 |**2024-04-18**|**Cicero: Addressing Algorithmic and Architectural Bottlenecks in Neural Rendering by Radiance Warping and Memory Optimizations**|Yu Feng et.al.|[2404.11852v1](http://arxiv.org/abs/2404.11852v1)|null|
-|**2024-04-17**|**Factorized Motion Fields for Fast Sparse Input Dynamic View Synthesis**|Nagabhushan Somraj et.al.|[2404.11669v2](http://arxiv.org/abs/2404.11669v2)|null|
+|**2024-04-17**|**Factorized Motion Fields for Fast Sparse Input Dynamic View Synthesis**|Nagabhushan Somraj et.al.|[2404.11669v3](http://arxiv.org/abs/2404.11669v3)|null|
 |**2024-04-17**|**SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**|Vincent Cartillier et.al.|[2404.11419v1](http://arxiv.org/abs/2404.11419v1)|null|
 |**2024-04-17**|**RainyScape: Unsupervised Rainy Scene Reconstruction using Decoupled Neural Rendering**|Xianqiang Lyu et.al.|[2404.11401v1](http://arxiv.org/abs/2404.11401v1)|null|
 |**2024-04-17**|**REACTO: Reconstructing Articulated Objects from a Single Video**|Chaoyue Song et.al.|[2404.11151v1](http://arxiv.org/abs/2404.11151v1)|null|
@@ -72,5 +73,4 @@ layout: default
 |**2024-04-15**|**Taming Latent Diffusion Model for Neural Radiance Field Inpainting**|Chieh Hubert Lin et.al.|[2404.09995v1](http://arxiv.org/abs/2404.09995v1)|null|
 |**2024-04-15**|**Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video**|Hongchi Xia et.al.|[2404.09833v1](http://arxiv.org/abs/2404.09833v1)|null|
 |**2024-04-15**|**ViFu: Multiple 360$^\circ$ Objects Reconstruction with Clean Background via Visible Part Fusion**|Tianhan Xu et.al.|[2404.09426v1](http://arxiv.org/abs/2404.09426v1)|null|
-|**2024-04-15**|**DeferredGS: Decoupled and Editable Gaussian Splatting with Deferred Shading**|Tong Wu et.al.|[2404.09412v1](http://arxiv.org/abs/2404.09412v1)|null|
 
