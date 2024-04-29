@@ -39,6 +39,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528v1](http://arxiv.org/abs/2404.17528v1)|null|
 |**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429v1](http://arxiv.org/abs/2404.16429v1)|null|
 |**2024-04-24**|**NeRF-XL: Scaling NeRFs with Multiple GPUs**|Ruilong Li et.al.|[2404.16221v1](http://arxiv.org/abs/2404.16221v1)|null|
 |**2024-04-24**|**ESR-NeRF: Emissive Source Reconstruction Using LDR Multi-view Images**|Jinseo Jeong et.al.|[2404.15707v1](http://arxiv.org/abs/2404.15707v1)|null|
@@ -68,5 +69,4 @@
 |**2024-04-16**|**Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences**|Seungwook Kim et.al.|[2404.10603v1](http://arxiv.org/abs/2404.10603v1)|null|
 |**2024-04-16**|**1st Place Solution for ICCV 2023 OmniObject3D Challenge: Sparse-View Reconstruction**|Hang Du et.al.|[2404.10441v1](http://arxiv.org/abs/2404.10441v1)|null|
 |**2024-04-16**|**SRGS: Super-Resolution 3D Gaussian Splatting**|Xiang Feng et.al.|[2404.10318v1](http://arxiv.org/abs/2404.10318v1)|null|
-|**2024-04-16**|**Plug-and-Play Acceleration of Occupancy Grid-based NeRF Rendering using VDB Grid and Hierarchical Ray Traversal**|Yoshio Kato et.al.|[2404.10272v1](http://arxiv.org/abs/2404.10272v1)|**[link](https://github.com/yosshi999/faster-occgrid)**|
 
