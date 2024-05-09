@@ -39,6 +39,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**${M^2D}$NeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields**|Ning Wang et.al.|[2405.05010v1](http://arxiv.org/abs/2405.05010v1)|null|
 |**2024-05-07**|**Tactile-Augmented Radiance Fields**|Yiming Dou et.al.|[2405.04534v1](http://arxiv.org/abs/2405.04534v1)|null|
 |**2024-05-07**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416v2](http://arxiv.org/abs/2405.04416v2)|null|
 |**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345v1](http://arxiv.org/abs/2405.04345v1)|null|
@@ -68,5 +69,4 @@
 |**2024-04-27**|**DPER: Diffusion Prior Driven Neural Representation for Limited Angle and Sparse View CT Reconstruction**|Chenhe Du et.al.|[2404.17890v1](http://arxiv.org/abs/2404.17890v1)|null|
 |**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528v1](http://arxiv.org/abs/2404.17528v1)|**[link](https://github.com/tqtqliu/gefu)**|
 |**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429v1](http://arxiv.org/abs/2404.16429v1)|null|
-|**2024-04-24**|**NeRF-XL: Scaling NeRFs with Multiple GPUs**|Ruilong Li et.al.|[2404.16221v1](http://arxiv.org/abs/2404.16221v1)|null|
 
