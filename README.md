@@ -39,6 +39,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800v1](http://arxiv.org/abs/2405.05800v1)|null|
+|**2024-05-09**|**NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior**|Gihoon Kim et.al.|[2405.05749v1](http://arxiv.org/abs/2405.05749v1)|null|
+|**2024-05-09**|**NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap**|Mingrui Li et.al.|[2405.05702v1](http://arxiv.org/abs/2405.05702v1)|null|
+|**2024-05-09**|**RPBG: Towards Robust Neural Point-based Graphics in the Wild**|Qingtian Zhu et.al.|[2405.05663v1](http://arxiv.org/abs/2405.05663v1)|null|
+|**2024-05-09**|**Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview**|Yuhang Ming et.al.|[2405.05526v1](http://arxiv.org/abs/2405.05526v1)|null|
+|**2024-05-08**|**GDGS: Gradient Domain Gaussian Splatting for Sparse Representation of Radiance Fields**|Yuanhao Gong et.al.|[2405.05446v1](http://arxiv.org/abs/2405.05446v1)|null|
 |**2024-05-08**|**${M^2D}$NeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields**|Ning Wang et.al.|[2405.05010v1](http://arxiv.org/abs/2405.05010v1)|null|
 |**2024-05-07**|**Tactile-Augmented Radiance Fields**|Yiming Dou et.al.|[2405.04534v1](http://arxiv.org/abs/2405.04534v1)|null|
 |**2024-05-07**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416v2](http://arxiv.org/abs/2405.04416v2)|null|
@@ -63,10 +69,4 @@
 |**2024-04-29**|**GSTalker: Real-time Audio-Driven Talking Face Generation via Deformable Gaussian Splatting**|Bo Chen et.al.|[2404.19040v1](http://arxiv.org/abs/2404.19040v1)|null|
 |**2024-04-29**|**Embedded Representation Learning Network for Animating Styled Video Portrait**|Tianyong Wang et.al.|[2404.19038v1](http://arxiv.org/abs/2404.19038v1)|null|
 |**2024-04-29**|**Simple-RF: Regularizing Sparse Input Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2404.19015v1](http://arxiv.org/abs/2404.19015v1)|null|
-|**2024-04-29**|**DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing**|Minghao Chen et.al.|[2404.18929v1](http://arxiv.org/abs/2404.18929v1)|null|
-|**2024-04-29**|**3D Gaussian Splatting with Deferred Reflection**|Keyang Ye et.al.|[2404.18454v1](http://arxiv.org/abs/2404.18454v1)|null|
-|**2024-04-28**|**S3-SLAM: Sparse Tri-plane Encoding for Neural Implicit SLAM**|Zhiyao Zhang et.al.|[2404.18284v1](http://arxiv.org/abs/2404.18284v1)|null|
-|**2024-04-27**|**DPER: Diffusion Prior Driven Neural Representation for Limited Angle and Sparse View CT Reconstruction**|Chenhe Du et.al.|[2404.17890v1](http://arxiv.org/abs/2404.17890v1)|null|
-|**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528v1](http://arxiv.org/abs/2404.17528v1)|**[link](https://github.com/tqtqliu/gefu)**|
-|**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429v1](http://arxiv.org/abs/2404.16429v1)|null|
 
