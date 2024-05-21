@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2024-05-17**|**Resolving Symmetry Ambiguity in Correspondence-based Methods for Instance-level Object Pose Estimation**|Yongliang Lin et.al.|[2405.10557v1](http://arxiv.org/abs/2405.10557v1)|null|
 |**2024-05-14**|**RDPN6D: Residual-based Dense Point-wise Network for 6Dof Object Pose Estimation Based on RGB-D Images**|Zong-Wei Hong et.al.|[2405.08483v1](http://arxiv.org/abs/2405.08483v1)|**[link](https://github.com/ai-application-and-integration-lab/rdpn6d)**|
-|**2024-05-13**|**Deep Learning-Based Object Pose Estimation: A Comprehensive Survey**|Jian Liu et.al.|[2405.07801v1](http://arxiv.org/abs/2405.07801v1)|**[link](https://github.com/cnjianliu/awesome-object-pose-estimation)**|
+|**2024-05-13**|**Deep Learning-Based Object Pose Estimation: A Comprehensive Survey**|Jian Liu et.al.|[2405.07801v2](http://arxiv.org/abs/2405.07801v2)|**[link](https://github.com/cnjianliu/awesome-object-pose-estimation)**|
 |**2024-05-02**|**IntervenGen: Interventional Data Generation for Robust and Data-Efficient Robot Imitation Learning**|Ryan Hoque et.al.|[2405.01472v1](http://arxiv.org/abs/2405.01472v1)|null|
 |**2024-04-25**|**COBRA - COnfidence score Based on shape Regression Analysis for method-independent quality assessment of object pose estimation from single images**|Panagiotis Sapoutzoglou et.al.|[2404.16471v2](http://arxiv.org/abs/2404.16471v2)|**[link](https://github.com/pansap99/cobra)**|
 |**2024-04-17**|**GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinement**|Linfang Zheng et.al.|[2404.11139v1](http://arxiv.org/abs/2404.11139v1)|null|
