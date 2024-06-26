@@ -39,6 +39,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**|Qi Ma et.al.|[2406.17438v1](http://arxiv.org/abs/2406.17438v1)|null|
+|**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345v1](http://arxiv.org/abs/2406.17345v1)|null|
 |**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850v1](http://arxiv.org/abs/2406.16850v1)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
 |**2024-06-24**|**Articulate your NeRF: Unsupervised articulated object modeling via conditional view synthesis**|Jianning Deng et.al.|[2406.16623v1](http://arxiv.org/abs/2406.16623v1)|null|
 |**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289v1](http://arxiv.org/abs/2406.16289v1)|null|
@@ -67,6 +69,4 @@
 |**2024-06-17**|**Projecting Radiance Fields to Mesh Surfaces**|Adrian Xuan Wei Lim et.al.|[2406.11570v1](http://arxiv.org/abs/2406.11570v1)|null|
 |**2024-06-17**|**NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation**|Niu Guanchen et.al.|[2406.11259v1](http://arxiv.org/abs/2406.11259v1)|null|
 |**2024-06-16**|**Learning Relighting and Intrinsic Decomposition in Neural Radiance Fields**|Yixiong Yang et.al.|[2406.11077v1](http://arxiv.org/abs/2406.11077v1)|null|
-|**2024-06-15**|**fNeRF: High Quality Radiance Fields from Practical Cameras**|Yi Hua et.al.|[2406.10633v1](http://arxiv.org/abs/2406.10633v1)|null|
-|**2024-06-15**|**NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows**|Zhenggang Tang et.al.|[2406.10543v1](http://arxiv.org/abs/2406.10543v1)|**[link](https://github.com/nerfdeformer/nerfdeformer)**|
 
