@@ -39,6 +39,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Neural Geometry Processing via Spherical Neural Surfaces**|Romy Williamson et.al.|[2407.07755v1](http://arxiv.org/abs/2407.07755v1)|null|
+|**2024-07-10**|**Protecting NeRFs' Copyright via Plug-And-Play Watermarking Base Model**|Qi Song et.al.|[2407.07735v1](http://arxiv.org/abs/2407.07735v1)|null|
+|**2024-07-10**|**Drantal-NeRF: Diffusion-Based Restoration for Anti-aliasing Neural Radiance Field**|Ganlin Yang et.al.|[2407.07461v1](http://arxiv.org/abs/2407.07461v1)|null|
+|**2024-07-09**|**Reference-based Controllable Scene Stylization with Gaussian Splatting**|Yiqun Mei et.al.|[2407.07220v1](http://arxiv.org/abs/2407.07220v1)|null|
 |**2024-07-09**|**3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes**|Nicolas Moenne-Loccoz et.al.|[2407.07090v2](http://arxiv.org/abs/2407.07090v2)|null|
 |**2024-07-09**|**Sparse-DeRF: Deblurred Neural Radiance Fields from Sparse View**|Dogyoon Lee et.al.|[2407.06613v1](http://arxiv.org/abs/2407.06613v1)|null|
 |**2024-07-08**|**RRM: Relightable assets using Radiance guided Material extraction**|Diego Gomez et.al.|[2407.06397v1](http://arxiv.org/abs/2407.06397v1)|null|
@@ -65,8 +69,4 @@
 |**2024-06-27**|**Shorter SPECT Scans Using Self-supervised Coordinate Learning to Synthesize Skipped Projection Views**|Zongyu Li et.al.|[2406.18840v1](http://arxiv.org/abs/2406.18840v1)|null|
 |**2024-06-26**|**Trimming the Fat: Efficient Compression of 3D Gaussian Splats through Pruning**|Muhammad Salman Ali et.al.|[2406.18214v1](http://arxiv.org/abs/2406.18214v1)|null|
 |**2024-06-26**|**GS-Octree: Octree-based 3D Gaussian Splatting for Robust Object-level 3D Reconstruction Under Strong Lighting**|Jiaze Li et.al.|[2406.18199v1](http://arxiv.org/abs/2406.18199v1)|null|
-|**2024-06-25**|**Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**|Qi Ma et.al.|[2406.17438v1](http://arxiv.org/abs/2406.17438v1)|**[link](https://github.com/qimaqi/Implicit-Zoo)**|
-|**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345v1](http://arxiv.org/abs/2406.17345v1)|null|
-|**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850v1](http://arxiv.org/abs/2406.16850v1)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
-|**2024-06-24**|**Articulate your NeRF: Unsupervised articulated object modeling via conditional view synthesis**|Jianning Deng et.al.|[2406.16623v1](http://arxiv.org/abs/2406.16623v1)|null|
 
