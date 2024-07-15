@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**KGpose: Keypoint-Graph Driven End-to-End Multi-Object 6D Pose Estimation via Point-Wise Pose Voting**|Andrew Jeong et.al.|[2407.08909v1](http://arxiv.org/abs/2407.08909v1)|null|
 |**2024-07-10**|**RoCap: A Robotic Data Collection Pipeline for the Pose Estimation of Appearance-Changing Objects**|Jiahao Nick Li et.al.|[2407.08081v1](http://arxiv.org/abs/2407.08081v1)|null|
 |**2024-06-24**|**High-resolution open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2406.16384v2](http://arxiv.org/abs/2406.16384v2)|null|
 |**2024-06-19**|**NeRF-Feat: 6D Object Pose Estimation using Feature Rendering**|Shishir Reddy Vutukur et.al.|[2406.13796v1](http://arxiv.org/abs/2406.13796v1)|null|
@@ -37,12 +38,15 @@ layout: default
 |**2024-03-12**|**Uncertainty Quantification with Deep Ensembles for 6D Object Pose Estimation**|Kira Wursthorn et.al.|[2403.07741v2](http://arxiv.org/abs/2403.07741v2)|null|
 |**2024-03-12**|**Category-Agnostic Pose Estimation for Point Clouds**|Bowen Liu et.al.|[2403.07437v1](http://arxiv.org/abs/2403.07437v1)|null|
 |**2024-03-03**|**MatchU: Matching Unseen Objects for 6D Pose Estimation from RGB-D Images**|Junwen Huang et.al.|[2403.01517v2](http://arxiv.org/abs/2403.01517v2)|null|
-|**2024-02-26**|**HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields**|Haozhe Qi et.al.|[2402.17062v1](http://arxiv.org/abs/2402.17062v1)|**[link](https://github.com/amathislab/hoisdf)**|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**StyleSplat: 3D Object Style Transfer with Gaussian Splatting**|Sahil Jain et.al.|[2407.09473v1](http://arxiv.org/abs/2407.09473v1)|null|
+|**2024-07-12**|**Radiance Fields from Photons**|Sacha Jungerman et.al.|[2407.09386v1](http://arxiv.org/abs/2407.09386v1)|null|
+|**2024-07-12**|**HPC: Hierarchical Progressive Coding Framework for Volumetric Video**|Zihan Zheng et.al.|[2407.09026v1](http://arxiv.org/abs/2407.09026v1)|null|
+|**2024-07-11**|**Feasibility of Neural Radiance Fields for Crime Scene Video Reconstruction**|Shariq Nadeem Malik et.al.|[2407.08795v1](http://arxiv.org/abs/2407.08795v1)|null|
 |**2024-07-11**|**WildGaussians: 3D Gaussian Splatting in the Wild**|Jonas Kulhanek et.al.|[2407.08447v1](http://arxiv.org/abs/2407.08447v1)|null|
 |**2024-07-11**|**MeshAvatar: Learning High-quality Triangular Human Avatars from Multi-view Videos**|Yushuo Chen et.al.|[2407.08414v1](http://arxiv.org/abs/2407.08414v1)|**[link](https://github.com/shad0wta9/meshavatar)**|
 |**2024-07-11**|**Explicit_NeRF_QA: A Quality Assessment Database for Explicit NeRF Model Compression**|Yuke Xing et.al.|[2407.08165v1](http://arxiv.org/abs/2407.08165v1)|null|
@@ -69,8 +73,4 @@ layout: default
 |**2024-07-01**|**Active Human Pose Estimation via an Autonomous UAV Agent**|Jingxi Chen et.al.|[2407.01811v1](http://arxiv.org/abs/2407.01811v1)|null|
 |**2024-07-01**|**fVDB: A Deep-Learning Framework for Sparse, Large-Scale, and High-Performance Spatial Intelligence**|Francis Williams et.al.|[2407.01781v1](http://arxiv.org/abs/2407.01781v1)|null|
 |**2024-07-01**|**DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction**|Yujin Ham et.al.|[2407.01761v1](http://arxiv.org/abs/2407.01761v1)|null|
-|**2024-07-01**|**The Continuous Tensor Abstraction: Where Indices are Real**|Jaeyeon Won et.al.|[2407.01742v1](http://arxiv.org/abs/2407.01742v1)|null|
-|**2024-07-01**|**RoDyn-SLAM: Robust Dynamic Dense RGB-D SLAM with Neural Radiance Fields**|Haochen Jiang et.al.|[2407.01303v1](http://arxiv.org/abs/2407.01303v1)|**[link](https://github.com/fudan-zvg/rodyn-slam)**|
-|**2024-07-01**|**Fast and Efficient: Mask Neural Fields for 3D Scene Segmentation**|Zihan Gao et.al.|[2407.01220v1](http://arxiv.org/abs/2407.01220v1)|null|
-|**2024-06-29**|**Intrinsic PAPR for Point-level 3D Scene Albedo and Shading Editing**|Alireza Moazeni et.al.|[2407.00500v1](http://arxiv.org/abs/2407.00500v1)|null|
 
