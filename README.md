@@ -22,6 +22,7 @@
 |**2024-03-28**|**Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**|Xiao Lin et.al.|[2403.19527v1](http://arxiv.org/abs/2403.19527v1)|**[link](https://github.com/leeiieeo/ag-pose)**|
 |**2024-03-27**|**Object Pose Estimation via the Aggregation of Diffusion Features**|Tianfu Wang et.al.|[2403.18791v2](http://arxiv.org/abs/2403.18791v2)|**[link](https://github.com/tianfu18/diff-feats-pose)**|
 |**2024-03-24**|**KITchen: A Real-World Benchmark and Dataset for 6D Object Pose Estimation in Kitchen Environments**|Abdelrahman Younes et.al.|[2403.16238v1](http://arxiv.org/abs/2403.16238v1)|null|
+|**2024-03-23**|**SUP-NeRF: A Streamlined Unification of Pose Estimation and NeRF for Monocular 3D Object Reconstruction**|Yuliang Guo et.al.|[2403.15705v2](http://arxiv.org/abs/2403.15705v2)|null|
 |**2024-03-22**|**DITTO: Demonstration Imitation by Trajectory Transformation**|Nick Heppert et.al.|[2403.15203v1](http://arxiv.org/abs/2403.15203v1)|null|
 |**2024-03-21**|**Visibility-Aware Keypoint Localization for 6DoF Object Pose Estimation**|Ruyi Lian et.al.|[2403.14559v1](http://arxiv.org/abs/2403.14559v1)|null|
 |**2024-03-20**|**DVMNet: Computing Relative Pose for Unseen Objects Beyond Hypotheses**|Chen Zhao et.al.|[2403.13683v1](http://arxiv.org/abs/2403.13683v1)|**[link](https://github.com/sailor-z/dvmnet)**|
@@ -33,12 +34,20 @@
 |**2024-03-14**|**MOTPose: Multi-object 6D Pose Estimation for Dynamic Video Sequences using Attention-based Temporal Fusion**|Arul Selvam Periyasamy et.al.|[2403.09309v1](http://arxiv.org/abs/2403.09309v1)|null|
 |**2024-03-12**|**Uncertainty Quantification with Deep Ensembles for 6D Object Pose Estimation**|Kira Wursthorn et.al.|[2403.07741v2](http://arxiv.org/abs/2403.07741v2)|null|
 |**2024-03-12**|**Category-Agnostic Pose Estimation for Point Clouds**|Bowen Liu et.al.|[2403.07437v1](http://arxiv.org/abs/2403.07437v1)|null|
-|**2024-03-03**|**MatchU: Matching Unseen Objects for 6D Pose Estimation from RGB-D Images**|Junwen Huang et.al.|[2403.01517v2](http://arxiv.org/abs/2403.01517v2)|null|
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**AirNeRF: 3D Reconstruction of Human with Drone and NeRF for Future Communication Systems**|Alexey Kotcov et.al.|[2407.10865v1](http://arxiv.org/abs/2407.10865v1)|null|
+|**2024-07-15**|**Domain Generalization for 6D Pose Estimation Through NeRF-based Image Synthesis**|Antoine Legrand et.al.|[2407.10762v1](http://arxiv.org/abs/2407.10762v1)|null|
+|**2024-07-15**|**Interactive Rendering of Relightable and Animatable Gaussian Avatars**|Youyi Zhan et.al.|[2407.10707v1](http://arxiv.org/abs/2407.10707v1)|null|
+|**2024-07-15**|**IE-NeRF: Inpainting Enhanced Neural Radiance Fields in the Wild**|Shuaixian Wang et.al.|[2407.10695v1](http://arxiv.org/abs/2407.10695v1)|null|
+|**2024-07-15**|**NGP-RT: Fusing Multi-Level Hash Features with Lightweight Attention for Real-Time Novel View Synthesis**|Yubin Hu et.al.|[2407.10482v1](http://arxiv.org/abs/2407.10482v1)|null|
+|**2024-07-15**|**Boost Your NeRF: A Model-Agnostic Mixture of Experts Framework for High Quality and Efficient Rendering**|Francesco Di Sario et.al.|[2407.10389v1](http://arxiv.org/abs/2407.10389v1)|null|
+|**2024-07-14**|**RS-NeRF: Neural Radiance Fields from Rolling Shutter Images**|Muyao Niu et.al.|[2407.10267v1](http://arxiv.org/abs/2407.10267v1)|**[link](https://github.com/myniuuu/rs-nerf)**|
+|**2024-07-14**|**SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion**|Jiyuan Zhang et.al.|[2407.10062v1](http://arxiv.org/abs/2407.10062v1)|null|
+|**2024-07-12**|**Physics-Informed Learning of Characteristic Trajectories for Smoke Reconstruction**|Yiming Wang et.al.|[2407.09679v1](http://arxiv.org/abs/2407.09679v1)|null|
 |**2024-07-12**|**StyleSplat: 3D Object Style Transfer with Gaussian Splatting**|Sahil Jain et.al.|[2407.09473v1](http://arxiv.org/abs/2407.09473v1)|null|
 |**2024-07-12**|**Radiance Fields from Photons**|Sacha Jungerman et.al.|[2407.09386v1](http://arxiv.org/abs/2407.09386v1)|null|
 |**2024-07-12**|**HPC: Hierarchical Progressive Coding Framework for Volumetric Video**|Zihan Zheng et.al.|[2407.09026v1](http://arxiv.org/abs/2407.09026v1)|null|
@@ -60,13 +69,4 @@
 |**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597v1](http://arxiv.org/abs/2407.05597v1)|null|
 |**2024-07-08**|**Dynamic Neural Radiance Field From Defocused Monocular Video**|Xianrui Luo et.al.|[2407.05586v1](http://arxiv.org/abs/2407.05586v1)|null|
 |**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254v1](http://arxiv.org/abs/2407.05254v1)|null|
-|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023v1](http://arxiv.org/abs/2407.05023v1)|null|
-|**2024-07-05**|**LaRa: Efficient Large-Baseline Radiance Fields**|Anpei Chen et.al.|[2407.04699v1](http://arxiv.org/abs/2407.04699v1)|null|
-|**2024-07-04**|**CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images**|Junghe Lee et.al.|[2407.03923v1](http://arxiv.org/abs/2407.03923v1)|null|
-|**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668v1](http://arxiv.org/abs/2407.02668v1)|null|
-|**2024-07-02**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174v2](http://arxiv.org/abs/2407.02174v2)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
-|**2024-07-02**|**Image-GS: Content-Adaptive Image Representation via 2D Gaussians**|Yunxiang Zhang et.al.|[2407.01866v1](http://arxiv.org/abs/2407.01866v1)|null|
-|**2024-07-01**|**Active Human Pose Estimation via an Autonomous UAV Agent**|Jingxi Chen et.al.|[2407.01811v1](http://arxiv.org/abs/2407.01811v1)|null|
-|**2024-07-01**|**fVDB: A Deep-Learning Framework for Sparse, Large-Scale, and High-Performance Spatial Intelligence**|Francis Williams et.al.|[2407.01781v1](http://arxiv.org/abs/2407.01781v1)|null|
-|**2024-07-01**|**DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction**|Yujin Ham et.al.|[2407.01761v1](http://arxiv.org/abs/2407.01761v1)|null|
 
