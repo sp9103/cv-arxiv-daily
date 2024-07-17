@@ -43,6 +43,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**|Jaehyeok Kim et.al.|[2407.11962v1](http://arxiv.org/abs/2407.11962v1)|null|
+|**2024-07-16**|**IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields**|Wenxiang Jiang et.al.|[2407.11921v1](http://arxiv.org/abs/2407.11921v1)|null|
+|**2024-07-16**|**DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation**|Jiwook Kim et.al.|[2407.11394v1](http://arxiv.org/abs/2407.11394v1)|**[link](https://github.com/kaist-cvml-lab/DreamCatalyst)**|
+|**2024-07-16**|**I$^2$-SLAM: Inverting Imaging Process for Robust Photorealistic Dense SLAM**|Gwangtak Bae et.al.|[2407.11347v1](http://arxiv.org/abs/2407.11347v1)|null|
+|**2024-07-16**|**Ev-GS: Event-based Gaussian splatting for Efficient and Accurate Radiance Field Rendering**|Jingqian Wu et.al.|[2407.11343v1](http://arxiv.org/abs/2407.11343v1)|null|
+|**2024-07-15**|**Evaluating geometric accuracy of NeRF reconstructions compared to SLAM method**|Adam Korycki et.al.|[2407.11238v1](http://arxiv.org/abs/2407.11238v1)|null|
+|**2024-07-15**|**Exploring the Potentials and Challenges of Deep Generative Models in Product Design Conception**|Phillip Mueller et.al.|[2407.11104v1](http://arxiv.org/abs/2407.11104v1)|null|
 |**2024-07-15**|**AirNeRF: 3D Reconstruction of Human with Drone and NeRF for Future Communication Systems**|Alexey Kotcov et.al.|[2407.10865v1](http://arxiv.org/abs/2407.10865v1)|null|
 |**2024-07-15**|**Domain Generalization for 6D Pose Estimation Through NeRF-based Image Synthesis**|Antoine Legrand et.al.|[2407.10762v1](http://arxiv.org/abs/2407.10762v1)|null|
 |**2024-07-15**|**Interactive Rendering of Relightable and Animatable Gaussian Avatars**|Youyi Zhan et.al.|[2407.10707v1](http://arxiv.org/abs/2407.10707v1)|null|
@@ -66,11 +73,4 @@ layout: default
 |**2024-07-10**|**Drantal-NeRF: Diffusion-Based Restoration for Anti-aliasing Neural Radiance Field**|Ganlin Yang et.al.|[2407.07461v1](http://arxiv.org/abs/2407.07461v1)|null|
 |**2024-07-09**|**Reference-based Controllable Scene Stylization with Gaussian Splatting**|Yiqun Mei et.al.|[2407.07220v1](http://arxiv.org/abs/2407.07220v1)|null|
 |**2024-07-09**|**3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes**|Nicolas Moenne-Loccoz et.al.|[2407.07090v2](http://arxiv.org/abs/2407.07090v2)|null|
-|**2024-07-09**|**Sparse-DeRF: Deblurred Neural Radiance Fields from Sparse View**|Dogyoon Lee et.al.|[2407.06613v1](http://arxiv.org/abs/2407.06613v1)|null|
-|**2024-07-08**|**RRM: Relightable assets using Radiance guided Material extraction**|Diego Gomez et.al.|[2407.06397v1](http://arxiv.org/abs/2407.06397v1)|null|
-|**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150v1](http://arxiv.org/abs/2407.06150v1)|null|
-|**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666v1](http://arxiv.org/abs/2407.05666v1)|null|
-|**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597v1](http://arxiv.org/abs/2407.05597v1)|null|
-|**2024-07-08**|**Dynamic Neural Radiance Field From Defocused Monocular Video**|Xianrui Luo et.al.|[2407.05586v1](http://arxiv.org/abs/2407.05586v1)|null|
-|**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254v1](http://arxiv.org/abs/2407.05254v1)|null|
 
