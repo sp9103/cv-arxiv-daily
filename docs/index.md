@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera**|Zibin Liu et.al.|[2408.03225v1](http://arxiv.org/abs/2408.03225v1)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117v1](http://arxiv.org/abs/2408.00117v1)|null|
 |**2024-07-16**|**NeuSurfEmb: A Complete Pipeline for Dense Correspondence-based 6D Object Pose Estimation without CAD Models**|Francesco Milano et.al.|[2407.12207v1](http://arxiv.org/abs/2407.12207v1)|**[link](https://github.com/ethz-asl/neusurfemb)**|
 |**2024-07-12**|**KGpose: Keypoint-Graph Driven End-to-End Multi-Object 6D Pose Estimation via Point-Wise Pose Voting**|Andrew Jeong et.al.|[2407.08909v1](http://arxiv.org/abs/2407.08909v1)|null|
@@ -37,12 +38,13 @@ layout: default
 |**2024-03-16**|**Robotic Task Success Evaluation Under Multi-modal Non-Parametric Object Pose Uncertainty**|Lakshadeep Naik et.al.|[2403.10874v1](http://arxiv.org/abs/2403.10874v1)|null|
 |**2024-03-15**|**GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation**|Dingding Cai et.al.|[2403.10683v1](http://arxiv.org/abs/2403.10683v1)|null|
 |**2024-03-14**|**BOP Challenge 2023 on Detection, Segmentation and Pose Estimation of Seen and Unseen Rigid Objects**|Tomas Hodan et.al.|[2403.09799v2](http://arxiv.org/abs/2403.09799v2)|null|
-|**2024-03-14**|**MOTPose: Multi-object 6D Pose Estimation for Dynamic Video Sequences using Attention-based Temporal Fusion**|Arul Selvam Periyasamy et.al.|[2403.09309v1](http://arxiv.org/abs/2403.09309v1)|null|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Efficient NeRF Optimization -- Not All Samples Remain Equally Hard**|Juuso Korhonen et.al.|[2408.03193v1](http://arxiv.org/abs/2408.03193v1)|null|
+|**2024-08-06**|**MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images**|Tengfei Wang et.al.|[2408.03060v1](http://arxiv.org/abs/2408.03060v1)|null|
 |**2024-08-04**|**View-consistent Object Removal in Radiance Fields**|Yiren Lu et.al.|[2408.02100v1](http://arxiv.org/abs/2408.02100v1)|null|
 |**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053v1](http://arxiv.org/abs/2408.02053v1)|null|
 |**2024-08-03**|**FBINeRF: Feature-Based Integrated Recurrent Network for Pinhole and Fisheye Neural Radiance Fields**|Yifan Wu et.al.|[2408.01878v1](http://arxiv.org/abs/2408.01878v1)|null|
@@ -71,6 +73,4 @@ layout: default
 |**2024-07-19**|**Regularizing Dynamic Radiance Fields with Kinematic Fields**|Woobin Im et.al.|[2407.14059v1](http://arxiv.org/abs/2407.14059v1)|null|
 |**2024-07-19**|**DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays**|Zongyuan Yang et.al.|[2407.14053v1](http://arxiv.org/abs/2407.14053v1)|null|
 |**2024-07-19**|**Semantic Communications for 3D Human Face Transmission with Neural Radiance Fields**|Guanlin Wu et.al.|[2407.13992v1](http://arxiv.org/abs/2407.13992v1)|null|
-|**2024-07-18**|**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**|Yuchen Weng et.al.|[2407.13520v1](http://arxiv.org/abs/2407.13520v1)|null|
-|**2024-07-18**|**GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields**|Xiufeng Huang et.al.|[2407.13390v1](http://arxiv.org/abs/2407.13390v1)|null|
 
