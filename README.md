@@ -39,6 +39,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Progressive Radiance Distillation for Inverse Rendering with Gaussian Splatting**|Keyang Ye et.al.|[2408.07595v1](http://arxiv.org/abs/2408.07595v1)|null|
+|**2024-08-14**|**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**|Hyunjee Lee et.al.|[2408.07416v1](http://arxiv.org/abs/2408.07416v1)|null|
 |**2024-08-13**|**SlotLifter: Slot-guided Feature Lifting for Learning Object-centric Radiance Fields**|Yu Liu et.al.|[2408.06697v1](http://arxiv.org/abs/2408.06697v1)|null|
 |**2024-08-13**|**Potamoi: Accelerating Neural Rendering via a Unified Streaming Architecture**|Yu Feng et.al.|[2408.06608v1](http://arxiv.org/abs/2408.06608v1)|null|
 |**2024-08-13**|**ActiveNeRF: Learning Accurate 3D Geometry by Active Pattern Projection**|Jianyu Tao et.al.|[2408.06592v1](http://arxiv.org/abs/2408.06592v1)|**[link](https://github.com/hcp16/active_nerf)**|
@@ -67,6 +69,4 @@
 |**2024-08-03**|**iControl3D: An Interactive System for Controllable 3D Scene Generation**|Xingyi Li et.al.|[2408.01678v1](http://arxiv.org/abs/2408.01678v1)|**[link](https://github.com/xingyi-li/icontrol3d)**|
 |**2024-08-02**|**NeRFoot: Robot-Footprint Estimation for Image-Based Visual Servoing**|Daoxin Zhong et.al.|[2408.01251v1](http://arxiv.org/abs/2408.01251v1)|null|
 |**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860v2](http://arxiv.org/abs/2408.00860v2)|null|
-|**2024-07-31**|**StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization**|Kaiyuan Tang et.al.|[2408.00150v1](http://arxiv.org/abs/2408.00150v1)|null|
-|**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908v1](http://arxiv.org/abs/2407.20908v1)|**[link](https://github.com/zyp123494/dynavol)**|
 
