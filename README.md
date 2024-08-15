@@ -1,4 +1,4 @@
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 
 ## 6DOF Object Pose
 
@@ -33,7 +33,7 @@
 |**2024-03-18**|**HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data**|Mengqi Zhang et.al.|[2403.12011v1](http://arxiv.org/abs/2403.12011v1)|null|
 |**2024-03-18**|**GenFlow: Generalizable Recurrent Flow for 6D Pose Refinement of Novel Objects**|Sungphill Moon et.al.|[2403.11510v1](http://arxiv.org/abs/2403.11510v1)|null|
 |**2024-03-16**|**Robotic Task Success Evaluation Under Multi-modal Non-Parametric Object Pose Uncertainty**|Lakshadeep Naik et.al.|[2403.10874v1](http://arxiv.org/abs/2403.10874v1)|null|
-|**2024-03-15**|**GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation**|Dingding Cai et.al.|[2403.10683v1](http://arxiv.org/abs/2403.10683v1)|null|
+|**2024-03-15**|**GS-Pose: Generalizable Segmentation-based 6D Object Pose Estimation with 3D Gaussian Splatting**|Dingding Cai et.al.|[2403.10683v2](http://arxiv.org/abs/2403.10683v2)|null|
 
 ## NeRF
 
