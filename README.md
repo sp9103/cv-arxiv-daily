@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Comparative Evaluation of 3D Reconstruction Methods for Object Pose Estimation**|Varun Burde et.al.|[2408.08234v1](http://arxiv.org/abs/2408.08234v1)|**[link](https://github.com/varunburde/reconstruction_pose_benchmark)**|
 |**2024-08-11**|**SABER-6D: Shape Representation Based Implicit Object Pose Estimation**|Shishir Reddy Vutukur et.al.|[2408.05867v1](http://arxiv.org/abs/2408.05867v1)|null|
 |**2024-08-06**|**Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera**|Zibin Liu et.al.|[2408.03225v1](http://arxiv.org/abs/2408.03225v1)|**[link](https://github.com/zibin6/lopet)**|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117v1](http://arxiv.org/abs/2408.00117v1)|null|
@@ -33,12 +34,12 @@
 |**2024-03-18**|**HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data**|Mengqi Zhang et.al.|[2403.12011v1](http://arxiv.org/abs/2403.12011v1)|null|
 |**2024-03-18**|**GenFlow: Generalizable Recurrent Flow for 6D Pose Refinement of Novel Objects**|Sungphill Moon et.al.|[2403.11510v1](http://arxiv.org/abs/2403.11510v1)|null|
 |**2024-03-16**|**Robotic Task Success Evaluation Under Multi-modal Non-Parametric Object Pose Uncertainty**|Lakshadeep Naik et.al.|[2403.10874v1](http://arxiv.org/abs/2403.10874v1)|null|
-|**2024-03-15**|**GS-Pose: Generalizable Segmentation-based 6D Object Pose Estimation with 3D Gaussian Splatting**|Dingding Cai et.al.|[2403.10683v2](http://arxiv.org/abs/2403.10683v2)|null|
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206v1](http://arxiv.org/abs/2408.08206v1)|null|
 |**2024-08-14**|**Progressive Radiance Distillation for Inverse Rendering with Gaussian Splatting**|Keyang Ye et.al.|[2408.07595v1](http://arxiv.org/abs/2408.07595v1)|null|
 |**2024-08-14**|**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**|Hyunjee Lee et.al.|[2408.07416v1](http://arxiv.org/abs/2408.07416v1)|null|
 |**2024-08-13**|**SlotLifter: Slot-guided Feature Lifting for Learning Object-centric Radiance Fields**|Yu Liu et.al.|[2408.06697v1](http://arxiv.org/abs/2408.06697v1)|null|
@@ -68,5 +69,4 @@
 |**2024-08-03**|**E$^3$NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840v1](http://arxiv.org/abs/2408.01840v1)|null|
 |**2024-08-03**|**iControl3D: An Interactive System for Controllable 3D Scene Generation**|Xingyi Li et.al.|[2408.01678v1](http://arxiv.org/abs/2408.01678v1)|**[link](https://github.com/xingyi-li/icontrol3d)**|
 |**2024-08-02**|**NeRFoot: Robot-Footprint Estimation for Image-Based Visual Servoing**|Daoxin Zhong et.al.|[2408.01251v1](http://arxiv.org/abs/2408.01251v1)|null|
-|**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860v2](http://arxiv.org/abs/2408.00860v2)|null|
 
