@@ -39,6 +39,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**VF-NeRF: Learning Neural Vector Fields for Indoor Scene Reconstruction**|Albert Gassol Puigjaner et.al.|[2408.08766v1](http://arxiv.org/abs/2408.08766v1)|**[link](https://github.com/albertgassol1/vf-nerf)**|
 |**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206v1](http://arxiv.org/abs/2408.08206v1)|null|
 |**2024-08-14**|**Progressive Radiance Distillation for Inverse Rendering with Gaussian Splatting**|Keyang Ye et.al.|[2408.07595v1](http://arxiv.org/abs/2408.07595v1)|null|
 |**2024-08-14**|**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**|Hyunjee Lee et.al.|[2408.07416v1](http://arxiv.org/abs/2408.07416v1)|null|
@@ -68,5 +69,4 @@
 |**2024-08-03**|**FBINeRF: Feature-Based Integrated Recurrent Network for Pinhole and Fisheye Neural Radiance Fields**|Yifan Wu et.al.|[2408.01878v1](http://arxiv.org/abs/2408.01878v1)|null|
 |**2024-08-03**|**E$^3$NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840v1](http://arxiv.org/abs/2408.01840v1)|null|
 |**2024-08-03**|**iControl3D: An Interactive System for Controllable 3D Scene Generation**|Xingyi Li et.al.|[2408.01678v1](http://arxiv.org/abs/2408.01678v1)|**[link](https://github.com/xingyi-li/icontrol3d)**|
-|**2024-08-02**|**NeRFoot: Robot-Footprint Estimation for Image-Based Visual Servoing**|Daoxin Zhong et.al.|[2408.01251v1](http://arxiv.org/abs/2408.01251v1)|null|
 
