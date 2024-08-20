@@ -43,6 +43,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**$R^2$-Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**|Haoyang Wang et.al.|[2408.10135v1](http://arxiv.org/abs/2408.10135v1)|null|
+|**2024-08-19**|**DiscoNeRF: Class-Agnostic Object Field for 3D Object Discovery**|Corentin Dumery et.al.|[2408.09928v1](http://arxiv.org/abs/2408.09928v1)|null|
+|**2024-08-19**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663v1](http://arxiv.org/abs/2408.09663v1)|null|
+|**2024-08-18**|**S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis**|Dongze Li et.al.|[2408.09347v1](http://arxiv.org/abs/2408.09347v1)|null|
+|**2024-08-17**|**SSNeRF: Sparse View Semi-supervised Neural Radiance Fields with Augmentation**|Xiao Cao et.al.|[2408.09144v1](http://arxiv.org/abs/2408.09144v1)|null|
+|**2024-08-17**|**Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting**|Sheng Ye et.al.|[2408.09130v1](http://arxiv.org/abs/2408.09130v1)|null|
+|**2024-08-17**|**HybridOcc: NeRF Enhanced Transformer-based Multi-Camera 3D Occupancy Prediction**|Xiao Zhao et.al.|[2408.09104v1](http://arxiv.org/abs/2408.09104v1)|null|
 |**2024-08-16**|**VF-NeRF: Learning Neural Vector Fields for Indoor Scene Reconstruction**|Albert Gassol Puigjaner et.al.|[2408.08766v1](http://arxiv.org/abs/2408.08766v1)|**[link](https://github.com/albertgassol1/vf-nerf)**|
 |**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206v1](http://arxiv.org/abs/2408.08206v1)|null|
 |**2024-08-14**|**Progressive Radiance Distillation for Inverse Rendering with Gaussian Splatting**|Keyang Ye et.al.|[2408.07595v1](http://arxiv.org/abs/2408.07595v1)|null|
@@ -65,12 +72,5 @@ layout: default
 |**2024-08-07**|**Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields**|Joo Chan Lee et.al.|[2408.03822v1](http://arxiv.org/abs/2408.03822v1)|null|
 |**2024-08-07**|**3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting**|Zhe Jun Tang et.al.|[2408.03753v1](http://arxiv.org/abs/2408.03753v1)|**[link](https://github.com/TangZJ/3iGS)**|
 |**2024-08-07**|**Goal-oriented Semantic Communication for the Metaverse Application**|Zhe Wang et.al.|[2408.03646v1](http://arxiv.org/abs/2408.03646v1)|null|
-|**2024-08-06**|**RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis**|Hugo Blanc et.al.|[2408.03356v1](http://arxiv.org/abs/2408.03356v1)|null|
 |**2024-08-06**|**Efficient NeRF Optimization -- Not All Samples Remain Equally Hard**|Juuso Korhonen et.al.|[2408.03193v1](http://arxiv.org/abs/2408.03193v1)|null|
-|**2024-08-06**|**MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images**|Tengfei Wang et.al.|[2408.03060v1](http://arxiv.org/abs/2408.03060v1)|null|
-|**2024-08-04**|**View-consistent Object Removal in Radiance Fields**|Yiren Lu et.al.|[2408.02100v1](http://arxiv.org/abs/2408.02100v1)|null|
-|**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053v1](http://arxiv.org/abs/2408.02053v1)|null|
-|**2024-08-03**|**FBINeRF: Feature-Based Integrated Recurrent Network for Pinhole and Fisheye Neural Radiance Fields**|Yifan Wu et.al.|[2408.01878v1](http://arxiv.org/abs/2408.01878v1)|null|
-|**2024-08-03**|**E$^3$NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840v1](http://arxiv.org/abs/2408.01840v1)|null|
-|**2024-08-03**|**iControl3D: An Interactive System for Controllable 3D Scene Generation**|Xingyi Li et.al.|[2408.01678v1](http://arxiv.org/abs/2408.01678v1)|**[link](https://github.com/xingyi-li/icontrol3d)**|
 
