@@ -43,6 +43,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235v1](http://arxiv.org/abs/2408.15235v1)|null|
+|**2024-08-27**|**GeoTransfer : Generalizable Few-Shot Multi-View Reconstruction via Transfer Learning**|Shubhendu Jena et.al.|[2408.14724v1](http://arxiv.org/abs/2408.14724v1)|null|
 |**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v1](http://arxiv.org/abs/2408.14035v1)|**[link](https://github.com/hku-mars/fast-livo2)**|
 |**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770v1](http://arxiv.org/abs/2408.13770v1)|null|
 |**2024-08-24**|**G3DST: Generalizing 3D Style Transfer with Neural Radiance Fields across Scenes and Styles**|Adil Meric et.al.|[2408.13508v1](http://arxiv.org/abs/2408.13508v1)|null|
@@ -71,6 +73,4 @@ layout: default
 |**2024-08-12**|**Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering**|Jiameng Li et.al.|[2408.06286v1](http://arxiv.org/abs/2408.06286v1)|**[link](https://github.com/renaissanceee/mipmap-gs)**|
 |**2024-08-12**|**3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**|Jaydeep Rade et.al.|[2408.06244v1](http://arxiv.org/abs/2408.06244v1)|null|
 |**2024-08-12**|**FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**|Lukas Meyer et.al.|[2408.06190v1](http://arxiv.org/abs/2408.06190v1)|**[link](https://github.com/meyerls/fruitnerf)**|
-|**2024-08-10**|**Radiance Field Learners As UAV First-Person Viewers**|Liqi Yan et.al.|[2408.05533v1](http://arxiv.org/abs/2408.05533v1)|null|
-|**2024-08-10**|**Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE**|Yiying Yang et.al.|[2408.05477v2](http://arxiv.org/abs/2408.05477v2)|null|
 
