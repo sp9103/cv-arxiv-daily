@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**OP-Align: Object-level and Part-level Alignment for Self-supervised Category-level Articulated Object Pose Estimation**|Yuchen Che et.al.|[2408.16547v1](http://arxiv.org/abs/2408.16547v1)|null|
 |**2024-08-19**|**RUMI: Rummaging Using Mutual Information**|Sheng Zhong et.al.|[2408.10450v1](http://arxiv.org/abs/2408.10450v1)|null|
 |**2024-08-15**|**Comparative Evaluation of 3D Reconstruction Methods for Object Pose Estimation**|Varun Burde et.al.|[2408.08234v1](http://arxiv.org/abs/2408.08234v1)|**[link](https://github.com/varunburde/reconstruction_pose_benchmark)**|
 |**2024-08-11**|**SABER-6D: Shape Representation Based Implicit Object Pose Estimation**|Shishir Reddy Vutukur et.al.|[2408.05867v1](http://arxiv.org/abs/2408.05867v1)|null|
@@ -37,12 +38,15 @@ layout: default
 |**2024-03-21**|**Visibility-Aware Keypoint Localization for 6DoF Object Pose Estimation**|Ruyi Lian et.al.|[2403.14559v1](http://arxiv.org/abs/2403.14559v1)|null|
 |**2024-03-20**|**DVMNet: Computing Relative Pose for Unseen Objects Beyond Hypotheses**|Chen Zhao et.al.|[2403.13683v1](http://arxiv.org/abs/2403.13683v1)|**[link](https://github.com/sailor-z/dvmnet)**|
 |**2024-03-18**|**HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data**|Mengqi Zhang et.al.|[2403.12011v1](http://arxiv.org/abs/2403.12011v1)|null|
-|**2024-03-18**|**GenFlow: Generalizable Recurrent Flow for 6D Pose Refinement of Novel Objects**|Sungphill Moon et.al.|[2403.11510v1](http://arxiv.org/abs/2403.11510v1)|null|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**OmniRe: Omni Urban Scene Reconstruction**|Ziyu Chen et.al.|[2408.16760v1](http://arxiv.org/abs/2408.16760v1)|null|
+|**2024-08-29**|**Generic Objects as Pose Probes for Few-Shot View Synthesis**|Zhirui Gao et.al.|[2408.16690v1](http://arxiv.org/abs/2408.16690v1)|null|
+|**2024-08-29**|**Spurfies: Sparse Surface Reconstruction using Local Geometry Priors**|Kevin Raj et.al.|[2408.16544v1](http://arxiv.org/abs/2408.16544v1)|null|
+|**2024-08-29**|**NeRF-CA: Dynamic Reconstruction of X-ray Coronary Angiography with Extremely Sparse-views**|Kirsten W. H. Maas et.al.|[2408.16355v1](http://arxiv.org/abs/2408.16355v1)|**[link](https://github.com/kirstenmaas/nerf-ca)**|
 |**2024-08-28**|**Towards Realistic Example-based Modeling via 3D Gaussian Stitching**|Xinyu Gao et.al.|[2408.15708v1](http://arxiv.org/abs/2408.15708v1)|null|
 |**2024-08-28**|**G-Style: Stylized Gaussian Splatting**|Áron Samuel Kovács et.al.|[2408.15695v1](http://arxiv.org/abs/2408.15695v1)|null|
 |**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235v1](http://arxiv.org/abs/2408.15235v1)|null|
@@ -69,8 +73,4 @@ layout: default
 |**2024-08-14**|**Progressive Radiance Distillation for Inverse Rendering with Gaussian Splatting**|Keyang Ye et.al.|[2408.07595v1](http://arxiv.org/abs/2408.07595v1)|null|
 |**2024-08-14**|**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**|Hyunjee Lee et.al.|[2408.07416v2](http://arxiv.org/abs/2408.07416v2)|null|
 |**2024-08-13**|**SlotLifter: Slot-guided Feature Lifting for Learning Object-centric Radiance Fields**|Yu Liu et.al.|[2408.06697v1](http://arxiv.org/abs/2408.06697v1)|null|
-|**2024-08-13**|**Potamoi: Accelerating Neural Rendering via a Unified Streaming Architecture**|Yu Feng et.al.|[2408.06608v1](http://arxiv.org/abs/2408.06608v1)|null|
-|**2024-08-13**|**ActiveNeRF: Learning Accurate 3D Geometry by Active Pattern Projection**|Jianyu Tao et.al.|[2408.06592v1](http://arxiv.org/abs/2408.06592v1)|**[link](https://github.com/hcp16/active_nerf)**|
-|**2024-08-13**|**HDRGS: High Dynamic Range Gaussian Splatting**|Jiahao Wu et.al.|[2408.06543v1](http://arxiv.org/abs/2408.06543v1)|**[link](https://github.com/wujh2001/hdrgs)**|
-|**2024-08-12**|**Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering**|Jiameng Li et.al.|[2408.06286v1](http://arxiv.org/abs/2408.06286v1)|**[link](https://github.com/renaissanceee/mipmap-gs)**|
 
