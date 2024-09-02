@@ -8,7 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-29**|**OP-Align: Object-level and Part-level Alignment for Self-supervised Category-level Articulated Object Pose Estimation**|Yuchen Che et.al.|[2408.16547v1](http://arxiv.org/abs/2408.16547v1)|null|
+|**2024-08-29**|**OP-Align: Object-level and Part-level Alignment for Self-supervised Category-level Articulated Object Pose Estimation**|Yuchen Che et.al.|[2408.16547v1](http://arxiv.org/abs/2408.16547v1)|**[link](https://github.com/yc-che/op-align)**|
 |**2024-08-19**|**RUMI: Rummaging Using Mutual Information**|Sheng Zhong et.al.|[2408.10450v1](http://arxiv.org/abs/2408.10450v1)|null|
 |**2024-08-15**|**Comparative Evaluation of 3D Reconstruction Methods for Object Pose Estimation**|Varun Burde et.al.|[2408.08234v1](http://arxiv.org/abs/2408.08234v1)|**[link](https://github.com/varunburde/reconstruction_pose_benchmark)**|
 |**2024-08-11**|**SABER-6D: Shape Representation Based Implicit Object Pose Estimation**|Shishir Reddy Vutukur et.al.|[2408.05867v1](http://arxiv.org/abs/2408.05867v1)|null|
@@ -43,6 +43,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**ConDense: Consistent 2D/3D Pre-training for Dense and Sparse Features from Multi-View Images**|Xiaoshuai Zhang et.al.|[2408.17027v1](http://arxiv.org/abs/2408.17027v1)|null|
+|**2024-08-29**|**GameIR: A Large-Scale Synthesized Ground-Truth Dataset for Image Restoration over Gaming Content**|Lebin Zhou et.al.|[2408.16866v1](http://arxiv.org/abs/2408.16866v1)|null|
 |**2024-08-29**|**OmniRe: Omni Urban Scene Reconstruction**|Ziyu Chen et.al.|[2408.16760v1](http://arxiv.org/abs/2408.16760v1)|null|
 |**2024-08-29**|**Generic Objects as Pose Probes for Few-Shot View Synthesis**|Zhirui Gao et.al.|[2408.16690v1](http://arxiv.org/abs/2408.16690v1)|null|
 |**2024-08-29**|**Spurfies: Sparse Surface Reconstruction using Local Geometry Priors**|Kevin Raj et.al.|[2408.16544v1](http://arxiv.org/abs/2408.16544v1)|null|
@@ -60,7 +62,6 @@ layout: default
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085v1](http://arxiv.org/abs/2408.11085v1)|null|
 |**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789v1](http://arxiv.org/abs/2408.10789v1)|null|
 |**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739v1](http://arxiv.org/abs/2408.10739v1)|null|
-|**2024-08-13**|**NeRF-US: Removing Ultrasound Imaging Artifacts from Neural Radiance Fields in the Wild**|Rishit Dagli et.al.|[2408.10258v2](http://arxiv.org/abs/2408.10258v2)|null|
 |**2024-08-19**|**$R^2$-Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**|Haoyang Wang et.al.|[2408.10135v1](http://arxiv.org/abs/2408.10135v1)|null|
 |**2024-08-19**|**DiscoNeRF: Class-Agnostic Object Field for 3D Object Discovery**|Corentin Dumery et.al.|[2408.09928v1](http://arxiv.org/abs/2408.09928v1)|null|
 |**2024-08-19**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663v2](http://arxiv.org/abs/2408.09663v2)|null|
@@ -72,5 +73,4 @@ layout: default
 |**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206v1](http://arxiv.org/abs/2408.08206v1)|null|
 |**2024-08-14**|**Progressive Radiance Distillation for Inverse Rendering with Gaussian Splatting**|Keyang Ye et.al.|[2408.07595v1](http://arxiv.org/abs/2408.07595v1)|null|
 |**2024-08-14**|**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**|Hyunjee Lee et.al.|[2408.07416v2](http://arxiv.org/abs/2408.07416v2)|null|
-|**2024-08-13**|**SlotLifter: Slot-guided Feature Lifting for Learning Object-centric Radiance Fields**|Yu Liu et.al.|[2408.06697v1](http://arxiv.org/abs/2408.06697v1)|null|
 
