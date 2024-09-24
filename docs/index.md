@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.23
+## Updated on 2024.09.24
 
 ## 6DOF Object Pose
 
@@ -31,7 +31,7 @@ layout: default
 |**2024-05-14**|**RDPN6D: Residual-based Dense Point-wise Network for 6Dof Object Pose Estimation Based on RGB-D Images**|Zong-Wei Hong et.al.|[2405.08483v1](http://arxiv.org/abs/2405.08483v1)|**[link](https://github.com/ai-application-and-integration-lab/rdpn6d)**|
 |**2024-05-13**|**Deep Learning-Based Object Pose Estimation: A Comprehensive Survey**|Jian Liu et.al.|[2405.07801v3](http://arxiv.org/abs/2405.07801v3)|**[link](https://github.com/cnjianliu/awesome-object-pose-estimation)**|
 |**2024-05-02**|**IntervenGen: Interventional Data Generation for Robust and Data-Efficient Robot Imitation Learning**|Ryan Hoque et.al.|[2405.01472v1](http://arxiv.org/abs/2405.01472v1)|null|
-|**2024-04-25**|**COBRA -- COnfidence score Based on shape Regression Analysis for method-independent quality assessment of object pose estimation from single images**|Panagiotis Sapoutzoglou et.al.|[2404.16471v3](http://arxiv.org/abs/2404.16471v3)|**[link](https://github.com/pansap99/cobra)**|
+|**2024-04-25**|**COBRA -- COnfidence score Based on shape Regression Analysis for method-independent quality assessment of object pose estimation from single images**|Panagiotis Sapoutzoglou et.al.|[2404.16471v4](http://arxiv.org/abs/2404.16471v4)|**[link](https://github.com/pansap99/cobra)**|
 |**2024-04-17**|**GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinement**|Linfang Zheng et.al.|[2404.11139v1](http://arxiv.org/abs/2404.11139v1)|null|
 |**2024-04-08**|**Learning a Category-level Object Pose Estimator without Pose Annotations**|Fengrui Tian et.al.|[2404.05626v1](http://arxiv.org/abs/2404.05626v1)|null|
 |**2024-03-28**|**Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**|Xiao Lin et.al.|[2403.19527v1](http://arxiv.org/abs/2403.19527v1)|**[link](https://github.com/leeiieeo/ag-pose)**|
@@ -47,7 +47,7 @@ layout: default
 |**2024-09-18**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014v1](http://arxiv.org/abs/2409.12014v1)|**[link](https://github.com/lulinzhang/brdf-nerf)**|
 |**2024-09-18**|**Intraoperative Registration by Cross-Modal Inverse Neural Rendering**|Maximilian Fehrentz et.al.|[2409.11983v1](http://arxiv.org/abs/2409.11983v1)|null|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356v1](http://arxiv.org/abs/2409.11356v1)|null|
-|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925v1](http://arxiv.org/abs/2409.10925v1)|null|
+|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925v2](http://arxiv.org/abs/2409.10925v2)|null|
 |**2024-09-16**|**Baking Relightable NeRF for Real-time Direct/Indirect Illumination Rendering**|Euntae Choi et.al.|[2409.10327v1](http://arxiv.org/abs/2409.10327v1)|null|
 |**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041v1](http://arxiv.org/abs/2409.10041v1)|**[link](https://github.com/sntubix/denser)**|
 |**2024-09-15**|**SAFER-Splat: A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps**|Timothy Chen et.al.|[2409.09868v1](http://arxiv.org/abs/2409.09868v1)|null|
