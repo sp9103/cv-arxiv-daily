@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 
 ## 6DOF Object Pose
 
@@ -56,7 +56,7 @@ layout: default
 |**2024-09-24**|**Disentangled Generation and Aggregation for Robust Radiance Fields**|Shihe Shen et.al.|[2409.15715v1](http://arxiv.org/abs/2409.15715v1)|null|
 |**2024-09-24**|**Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB**|Jae Yong Lee et.al.|[2409.15689v1](http://arxiv.org/abs/2409.15689v1)|null|
 |**2024-09-23**|**AgriNeRF: Neural Radiance Fields for Agriculture in Challenging Lighting Conditions**|Samarth Chopra et.al.|[2409.15487v1](http://arxiv.org/abs/2409.15487v1)|null|
-|**2024-09-23**|**SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**|Jinze Yu et.al.|[2409.15176v1](http://arxiv.org/abs/2409.15176v1)|**[link](https://github.com/520jz/spikegs)**|
+|**2024-09-23**|**SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**|Jinze Yu et.al.|[2409.15176v2](http://arxiv.org/abs/2409.15176v2)|**[link](https://github.com/520jz/spikegs)**|
 |**2024-09-23**|**FusionRF: High-Fidelity Satellite Neural Radiance Fields from Multispectral and Panchromatic Acquisitions**|Michael Sprintson et.al.|[2409.15132v1](http://arxiv.org/abs/2409.15132v1)|null|
 |**2024-09-22**|**MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views**|Wangze Xu et.al.|[2409.14316v1](http://arxiv.org/abs/2409.14316v1)|null|
 |**2024-09-21**|**Dynamic 2D Gaussians: Geometrically accurate radiance fields for dynamic objects**|Shuai Zhang et.al.|[2409.14072v1](http://arxiv.org/abs/2409.14072v1)|**[link](https://github.com/hustvl/Dynamic-2DGS)**|
