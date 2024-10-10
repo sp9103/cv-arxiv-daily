@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-08**|**AIVIO: Closed-loop, Object-relative Navigation of UAVs with AI-aided Visual Inertial Odometry**|Thomas Jantos et.al.|[2410.05996v1](http://arxiv.org/abs/2410.05996v1)|null|
 |**2024-09-26**|**Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation**|Mengchen Zhang et.al.|[2409.18261v2](http://arxiv.org/abs/2409.18261v2)|**[link](https://github.com/3dtopia/omni6d)**|
 |**2024-09-25**|**FAFA: Frequency-Aware Flow-Aided Self-Supervision for Underwater Object Pose Estimation**|Jingyi Tang et.al.|[2409.16600v1](http://arxiv.org/abs/2409.16600v1)|null|
 |**2024-09-24**|**LaPose: Laplacian Mixture Shape Modeling for RGB-Based Category-Level Object Pose Estimation**|Ruida Zhang et.al.|[2409.15727v1](http://arxiv.org/abs/2409.15727v1)|null|
@@ -37,12 +38,17 @@ layout: default
 |**2024-05-13**|**Deep Learning-Based Object Pose Estimation: A Comprehensive Survey**|Jian Liu et.al.|[2405.07801v3](http://arxiv.org/abs/2405.07801v3)|**[link](https://github.com/cnjianliu/awesome-object-pose-estimation)**|
 |**2024-05-02**|**IntervenGen: Interventional Data Generation for Robust and Data-Efficient Robot Imitation Learning**|Ryan Hoque et.al.|[2405.01472v1](http://arxiv.org/abs/2405.01472v1)|null|
 |**2024-04-25**|**COBRA -- COnfidence score Based on shape Regression Analysis for method-independent quality assessment of object pose estimation from single images**|Panagiotis Sapoutzoglou et.al.|[2404.16471v4](http://arxiv.org/abs/2404.16471v4)|**[link](https://github.com/pansap99/cobra)**|
-|**2024-04-17**|**GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinement**|Linfang Zheng et.al.|[2404.11139v1](http://arxiv.org/abs/2404.11139v1)|null|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**|Zhiqi Li et.al.|[2410.06756v1](http://arxiv.org/abs/2410.06756v1)|null|
+|**2024-10-09**|**MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes**|Zhenhui Ye et.al.|[2410.06734v1](http://arxiv.org/abs/2410.06734v1)|null|
+|**2024-10-09**|**3D Representation Methods: A Survey**|Zhengren Wang et.al.|[2410.06475v1](http://arxiv.org/abs/2410.06475v1)|null|
+|**2024-10-08**|**Comparative Analysis of Novel View Synthesis and Photogrammetry for 3D Forest Stand Reconstruction and extraction of individual tree parameters**|Guoji Tian et.al.|[2410.05772v1](http://arxiv.org/abs/2410.05772v1)|null|
+|**2024-10-07**|**Toward General Object-level Mapping from Sparse Views with 3D Diffusion Priors**|Ziwei Liao et.al.|[2410.05514v1](http://arxiv.org/abs/2410.05514v1)|**[link](https://github.com/trailab/generalobjectmapping)**|
+|**2024-10-07**|**PH-Dropout: Prctical Epistemic Uncertainty Quantification for View Synthesis**|Chuanhao Sun et.al.|[2410.05468v1](http://arxiv.org/abs/2410.05468v1)|null|
 |**2024-10-07**|**LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**|Qifeng Chen et.al.|[2410.05111v1](http://arxiv.org/abs/2410.05111v1)|null|
 |**2024-10-07**|**GARField: Addressing the visual Sim-to-Real gap in garment manipulation with mesh-attached radiance fields**|Donatien Delehelle et.al.|[2410.05038v1](http://arxiv.org/abs/2410.05038v1)|null|
 |**2024-10-07**|**6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering**|Zhongpai Gao et.al.|[2410.04974v1](http://arxiv.org/abs/2410.04974v1)|null|
@@ -51,7 +57,7 @@ layout: default
 |**2024-10-06**|**Deformable NeRF using Recursively Subdivided Tetrahedra**|Zherui Qiu et.al.|[2410.04402v1](http://arxiv.org/abs/2410.04402v1)|null|
 |**2024-10-05**|**Hybrid NeRF-Stereo Vision: Pioneering Depth Estimation and 3D Reconstruction in Endoscopy**|Pengcheng Chen et.al.|[2410.04041v1](http://arxiv.org/abs/2410.04041v1)|null|
 |**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103v1](http://arxiv.org/abs/2410.02103v1)|null|
-|**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804v2](http://arxiv.org/abs/2410.01804v2)|null|
+|**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804v3](http://arxiv.org/abs/2410.01804v3)|null|
 |**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647v1](http://arxiv.org/abs/2410.01647v1)|**[link](https://github.com/yangcaoai/3dgs-det)**|
 |**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614v1](http://arxiv.org/abs/2410.01614v1)|null|
 |**2024-10-02**|**GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians**|Shuyi Jiang et.al.|[2410.01535v2](http://arxiv.org/abs/2410.01535v2)|null|
@@ -63,14 +69,8 @@ layout: default
 |**2024-09-30**|**RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning**|Yuxuan Wu et.al.|[2409.20291v1](http://arxiv.org/abs/2409.20291v1)|null|
 |**2024-09-30**|**Distributed NeRF Learning for Collaborative Multi-Robot Perception**|Hongrui Zhao et.al.|[2409.20289v1](http://arxiv.org/abs/2409.20289v1)|null|
 |**2024-09-30**|**Active Neural Mapping at Scale**|Zijia Kuang et.al.|[2409.20276v1](http://arxiv.org/abs/2409.20276v1)|null|
-|**2024-09-30**|**RISE-SDF: a Relightable Information-Shared Signed Distance Field for Glossy Object Inverse Rendering**|Deheng Zhang et.al.|[2409.20140v1](http://arxiv.org/abs/2409.20140v1)|null|
-|**2024-09-30**|**OPONeRF: One-Point-One NeRF for Robust Neural Rendering**|Yu Zheng et.al.|[2409.20043v1](http://arxiv.org/abs/2409.20043v1)|null|
+|**2024-09-30**|**RISE-SDF: a Relightable Information-Shared Signed Distance Field for Glossy Object Inverse Rendering**|Deheng Zhang et.al.|[2409.20140v2](http://arxiv.org/abs/2409.20140v2)|null|
+|**2024-09-30**|**OPONeRF: One-Point-One NeRF for Robust Neural Rendering**|Yu Zheng et.al.|[2409.20043v1](http://arxiv.org/abs/2409.20043v1)|**[link](https://github.com/yzheng97/OPONeRF)**|
 |**2024-09-29**|**RNG: Relightable Neural Gaussians**|Jiahui Fan et.al.|[2409.19702v2](http://arxiv.org/abs/2409.19702v2)|null|
 |**2024-09-28**|**G3R: Gradient Guided Generalizable Reconstruction**|Yun Chen et.al.|[2409.19405v1](http://arxiv.org/abs/2409.19405v1)|null|
-|**2024-09-26**|**LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**|Huan Wang et.al.|[2409.18057v1](http://arxiv.org/abs/2409.18057v1)|**[link](https://github.com/mingsun-tse/lightavatar-tensorflow)**|
-|**2024-09-26**|**Deblur e-NeRF: NeRF from Motion-Blurred Events under High-speed or Low-light Conditions**|Weng Fei Low et.al.|[2409.17988v1](http://arxiv.org/abs/2409.17988v1)|null|
-|**2024-09-26**|**Neural Light Spheres for Implicit Image Stitching and View Synthesis**|Ilya Chugunov et.al.|[2409.17924v2](http://arxiv.org/abs/2409.17924v2)|**[link](https://github.com/ilya-muromets/pani)**|
-|**2024-09-26**|**Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry**|Qi Zhang et.al.|[2409.17729v1](http://arxiv.org/abs/2409.17729v1)|null|
-|**2024-09-26**|**TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene**|Sandika Biswas et.al.|[2409.17459v1](http://arxiv.org/abs/2409.17459v1)|null|
-|**2024-09-25**|**SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model**|Daniel Yang et.al.|[2409.17345v1](http://arxiv.org/abs/2409.17345v1)|null|
 
