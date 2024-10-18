@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**Object Pose Estimation Using Implicit Representation For Transparent Objects**|Varun Burde et.al.|[2410.13465v1](http://arxiv.org/abs/2410.13465v1)|null|
 |**2024-10-12**|**Enhancing Single Image to 3D Generation using Gaussian Splatting and Hybrid Diffusion Priors**|Hritam Basak et.al.|[2410.09467v1](http://arxiv.org/abs/2410.09467v1)|null|
 |**2024-10-08**|**AIVIO: Closed-loop, Object-relative Navigation of UAVs with AI-aided Visual Inertial Odometry**|Thomas Jantos et.al.|[2410.05996v1](http://arxiv.org/abs/2410.05996v1)|null|
 |**2024-09-26**|**Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation**|Mengchen Zhang et.al.|[2409.18261v2](http://arxiv.org/abs/2409.18261v2)|**[link](https://github.com/3dtopia/omni6d)**|
@@ -33,12 +34,16 @@
 |**2024-05-17**|**Resolving Symmetry Ambiguity in Correspondence-based Methods for Instance-level Object Pose Estimation**|Yongliang Lin et.al.|[2405.10557v1](http://arxiv.org/abs/2405.10557v1)|null|
 |**2024-05-14**|**RDPN6D: Residual-based Dense Point-wise Network for 6Dof Object Pose Estimation Based on RGB-D Images**|Zong-Wei Hong et.al.|[2405.08483v1](http://arxiv.org/abs/2405.08483v1)|**[link](https://github.com/ai-application-and-integration-lab/rdpn6d)**|
 |**2024-05-13**|**Deep Learning-Based Object Pose Estimation: A Comprehensive Survey**|Jian Liu et.al.|[2405.07801v3](http://arxiv.org/abs/2405.07801v3)|**[link](https://github.com/cnjianliu/awesome-object-pose-estimation)**|
-|**2024-05-02**|**IntervenGen: Interventional Data Generation for Robust and Data-Efficient Robot Imitation Learning**|Ryan Hoque et.al.|[2405.01472v1](http://arxiv.org/abs/2405.01472v1)|null|
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**|Jiahao Lu et.al.|[2410.13607v1](http://arxiv.org/abs/2410.13607v1)|null|
+|**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571v1](http://arxiv.org/abs/2410.13571v1)|null|
+|**2024-10-17**|**L3DG: Latent 3D Gaussian Diffusion**|Barbara Roessle et.al.|[2410.13530v1](http://arxiv.org/abs/2410.13530v1)|null|
+|**2024-10-17**|**Object Pose Estimation Using Implicit Representation For Transparent Objects**|Varun Burde et.al.|[2410.13465v1](http://arxiv.org/abs/2410.13465v1)|null|
+|**2024-10-17**|**GlossyGS: Inverse Rendering of Glossy Objects with 3D Gaussian Splatting**|Shuichang Lai et.al.|[2410.13349v1](http://arxiv.org/abs/2410.13349v1)|null|
 |**2024-10-16**|**Triplet: Triangle Patchlet for Mesh-Based Inverse Rendering and Scene Parameters Approximation**|Jiajie Yang et.al.|[2410.12414v1](http://arxiv.org/abs/2410.12414v1)|null|
 |**2024-10-16**|**3D Gaussian Splatting in Robotics: A Survey**|Siting Zhu et.al.|[2410.12262v1](http://arxiv.org/abs/2410.12262v1)|null|
 |**2024-10-16**|**EG-HumanNeRF: Efficient Generalizable Human NeRF Utilizing Human Prior for Sparse View**|Zhaorong Wang et.al.|[2410.12242v1](http://arxiv.org/abs/2410.12242v1)|null|
@@ -64,9 +69,4 @@
 |**2024-10-07**|**Toward General Object-level Mapping from Sparse Views with 3D Diffusion Priors**|Ziwei Liao et.al.|[2410.05514v1](http://arxiv.org/abs/2410.05514v1)|**[link](https://github.com/trailab/generalobjectmapping)**|
 |**2024-10-07**|**PH-Dropout: Practical Epistemic Uncertainty Quantification for View Synthesis**|Chuanhao Sun et.al.|[2410.05468v2](http://arxiv.org/abs/2410.05468v2)|**[link](https://github.com/thanostriantafyllou3/ph-dropout)**|
 |**2024-10-07**|**LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**|Qifeng Chen et.al.|[2410.05111v1](http://arxiv.org/abs/2410.05111v1)|null|
-|**2024-10-07**|**GARField: Addressing the visual Sim-to-Real gap in garment manipulation with mesh-attached radiance fields**|Donatien Delehelle et.al.|[2410.05038v1](http://arxiv.org/abs/2410.05038v1)|null|
-|**2024-10-07**|**6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering**|Zhongpai Gao et.al.|[2410.04974v2](http://arxiv.org/abs/2410.04974v2)|null|
-|**2024-10-07**|**TeX-NeRF: Neural Radiance Fields from Pseudo-TeX Vision**|Chonghao Zhong et.al.|[2410.04873v1](http://arxiv.org/abs/2410.04873v1)|null|
-|**2024-10-06**|**In-Place Panoptic Radiance Field Segmentation with Perceptual Prior for 3D Scene Understanding**|Shenghao Li et.al.|[2410.04529v1](http://arxiv.org/abs/2410.04529v1)|null|
-|**2024-10-06**|**Deformable NeRF using Recursively Subdivided Tetrahedra**|Zherui Qiu et.al.|[2410.04402v1](http://arxiv.org/abs/2410.04402v1)|null|
 
