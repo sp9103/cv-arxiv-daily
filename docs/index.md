@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 
 ## 6DOF Object Pose
 
@@ -48,7 +48,7 @@ layout: default
 |**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995v1](http://arxiv.org/abs/2410.16995v1)|null|
 |**2024-10-21**|**Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**|Malte Prinzler et.al.|[2410.16395v1](http://arxiv.org/abs/2410.16395v1)|null|
 |**2024-10-21**|**FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors**|Chin-Yang Lin et.al.|[2410.16271v1](http://arxiv.org/abs/2410.16271v1)|null|
-|**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392v1](http://arxiv.org/abs/2410.15392v1)|null|
+|**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392v2](http://arxiv.org/abs/2410.15392v2)|null|
 |**2024-10-19**|**Neural Radiance Field Image Refinement through End-to-End Sampling Point Optimization**|Kazuhiro Ohta et.al.|[2410.14958v1](http://arxiv.org/abs/2410.14958v1)|null|
 |**2024-10-18**|**Learning autonomous driving from aerial imagery**|Varun Murali et.al.|[2410.14177v1](http://arxiv.org/abs/2410.14177v1)|null|
 |**2024-10-18**|**DaRePlane: Direction-aware Representations for Dynamic Scene Reconstruction**|Ange Lou et.al.|[2410.14169v1](http://arxiv.org/abs/2410.14169v1)|null|
