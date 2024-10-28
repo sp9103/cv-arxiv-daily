@@ -39,6 +39,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Content-Aware Radiance Fields: Aligning Model Complexity with Scene Intricacy Through Learned Bitwidth Quantization**|Weihang Liu et.al.|[2410.19483v1](http://arxiv.org/abs/2410.19483v1)|**[link](https://github.com/weihangliu2024/content_aware_nerf)**|
+|**2024-10-25**|**Evaluation of strategies for efficient rate-distortion NeRF streaming**|Pedro Martin et.al.|[2410.19459v1](http://arxiv.org/abs/2410.19459v1)|null|
 |**2024-10-24**|**Large Spatial Model: End-to-end Unposed Images to Semantic 3D**|Zhiwen Fan et.al.|[2410.18956v1](http://arxiv.org/abs/2410.18956v1)|null|
 |**2024-10-24**|**Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**|Liang Han et.al.|[2410.18822v1](http://arxiv.org/abs/2410.18822v1)|null|
 |**2024-10-24**|**Real-time 3D-aware Portrait Video Relighting**|Ziqi Cai et.al.|[2410.18355v1](http://arxiv.org/abs/2410.18355v1)|**[link](https://github.com/GhostCai/PortraitRelighting)**|
@@ -67,6 +69,4 @@
 |**2024-10-16**|**EG-HumanNeRF: Efficient Generalizable Human NeRF Utilizing Human Prior for Sparse View**|Zhaorong Wang et.al.|[2410.12242v1](http://arxiv.org/abs/2410.12242v1)|null|
 |**2024-10-15**|**MCGS: Multiview Consistency Enhancement for Sparse-View 3D Gaussian Radiance Fields**|Yuru Xiao et.al.|[2410.11394v1](http://arxiv.org/abs/2410.11394v1)|null|
 |**2024-10-15**|**Scalable Indoor Novel-View Synthesis using Drone-Captured 360 Imagery with 3D Gaussian Splatting**|Yuanbo Chen et.al.|[2410.11285v1](http://arxiv.org/abs/2410.11285v1)|null|
-|**2024-10-15**|**TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**|Zhiwei Lin et.al.|[2410.11228v1](http://arxiv.org/abs/2410.11228v1)|**[link](https://github.com/vdigpku/teocc)**|
-|**2024-10-14**|**Few-shot Novel View Synthesis using Depth Aware 3D Gaussian Splatting**|Raja Kumar et.al.|[2410.11080v1](http://arxiv.org/abs/2410.11080v1)|**[link](https://github.com/raja-kumar/depth-aware-3dgs)**|
 
