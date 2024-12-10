@@ -39,6 +39,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view Event Cameras**|Viktor Rudnev et.al.|[2412.06770v1](http://arxiv.org/abs/2412.06770v1)|null|
+|**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424v1](http://arxiv.org/abs/2412.06424v1)|null|
+|**2024-12-09**|**Splatter-360: Generalizable 360$^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**|Zheng Chen et.al.|[2412.06250v1](http://arxiv.org/abs/2412.06250v1)|**[link](https://github.com/thucz/splatter360)**|
+|**2024-12-07**|**WATER-GS: Toward Copyright Protection for 3D Gaussian Splatting via Universal Watermarking**|Yuqi Tan et.al.|[2412.05695v1](http://arxiv.org/abs/2412.05695v1)|null|
+|**2024-12-03**|**$ρ$-NeRF: Leveraging Attenuation Priors in Neural Radiance Field for 3D Computed Tomography Reconstruction**|Li Zhou et.al.|[2412.05322v1](http://arxiv.org/abs/2412.05322v1)|null|
 |**2024-12-06**|**Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories**|Susung Hong et.al.|[2412.05279v1](http://arxiv.org/abs/2412.05279v1)|null|
 |**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256v1](http://arxiv.org/abs/2412.05256v1)|**[link](https://github.com/ai4ce/EUVS-Benchmark)**|
 |**2024-12-06**|**MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**|Peng Chen et.al.|[2412.04955v1](http://arxiv.org/abs/2412.04955v1)|**[link](https://github.com/chenvoid/mga)**|
@@ -64,9 +69,4 @@
 |**2024-11-27**|**SmileSplat: Generalizable Gaussian Splats for Unconstrained Sparse Images**|Yanyan Li et.al.|[2411.18072v1](http://arxiv.org/abs/2411.18072v1)|null|
 |**2024-11-26**|**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**|Yixiong Yang et.al.|[2411.17235v1](http://arxiv.org/abs/2411.17235v1)|**[link](https://github.com/liulisixin/mli-nerf)**|
 |**2024-11-26**|**Geometry Field Splatting with Gaussian Surfels**|Kaiwen Jiang et.al.|[2411.17067v1](http://arxiv.org/abs/2411.17067v1)|null|
-|**2024-11-25**|**The Radiance of Neural Fields: Democratizing Photorealistic and Dynamic Robotic Simulation**|Georgina Nuthall et.al.|[2411.16940v1](http://arxiv.org/abs/2411.16940v1)|null|
-|**2024-11-25**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[2411.16816v2](http://arxiv.org/abs/2411.16816v2)|**[link](https://github.com/carlinds/splatad)**|
-|**2024-11-25**|**GAST: Sequential Gaussian Avatars with Hierarchical Spatio-temporal Context**|Wangze Xu et.al.|[2411.16768v1](http://arxiv.org/abs/2411.16768v1)|null|
-|**2024-11-25**|**Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**|Ziyu Zhang et.al.|[2411.16392v1](http://arxiv.org/abs/2411.16392v1)|null|
-|**2024-11-25**|**U2NeRF: Unsupervised Underwater Image Restoration and Neural Radiance Fields**|Vinayak Gupta et.al.|[2411.16172v1](http://arxiv.org/abs/2411.16172v1)|null|
 
