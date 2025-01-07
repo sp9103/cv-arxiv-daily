@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Universal Features Guided Zero-Shot Category-Level Object Pose Estimation**|Wentian Qu et.al.|[2501.02831v1](http://arxiv.org/abs/2501.02831v1)|null|
+|**2024-12-31**|**A Novel Convolution and Attention Mechanism-based Model for 6D Object Pose Estimation**|Alexander Du et.al.|[2501.01993v1](http://arxiv.org/abs/2501.01993v1)|null|
 |**2024-12-30**|**ReFlow6D: Refraction-Guided Transparent Object 6D Pose Estimation via Intermediate Representation Learning**|Hrishikesh Gupta et.al.|[2412.20830v1](http://arxiv.org/abs/2412.20830v1)|**[link](https://github.com/stoicgilgamesh/matting_rendering)**|
 |**2024-12-18**|**Level-Set Parameters: Novel Representation for 3D Shape Analysis**|Huan Lei et.al.|[2412.13502v1](http://arxiv.org/abs/2412.13502v1)|null|
 |**2024-12-16**|**Category Level 6D Object Pose Estimation from a Single RGB Image using Diffusion**|Adam Bethell et.al.|[2412.11420v1](http://arxiv.org/abs/2412.11420v1)|null|
@@ -36,16 +38,15 @@ layout: default
 |**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413v1](http://arxiv.org/abs/2409.05413v1)|null|
 |**2024-09-04**|**Object Gaussian for Monocular 6D Pose Estimation from Sparse Views**|Luqing Luo et.al.|[2409.02581v1](http://arxiv.org/abs/2409.02581v1)|null|
 |**2024-08-29**|**OP-Align: Object-level and Part-level Alignment for Self-supervised Category-level Articulated Object Pose Estimation**|Yuchen Che et.al.|[2408.16547v1](http://arxiv.org/abs/2408.16547v1)|**[link](https://github.com/yc-che/op-align)**|
-|**2024-08-19**|**RUMI: Rummaging Using Mutual Information**|Sheng Zhong et.al.|[2408.10450v1](http://arxiv.org/abs/2408.10450v1)|null|
-|**2024-08-15**|**Comparative Evaluation of 3D Reconstruction Methods for Object Pose Estimation**|Varun Burde et.al.|[2408.08234v1](http://arxiv.org/abs/2408.08234v1)|**[link](https://github.com/varunburde/reconstruction_pose_benchmark)**|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807v1](http://arxiv.org/abs/2501.02807v1)|null|
 |**2024-12-29**|**Bringing Objects to Life: 4D generation from 3D objects**|Ohad Rahamim et.al.|[2412.20422v1](http://arxiv.org/abs/2412.20422v1)|null|
 |**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483v1](http://arxiv.org/abs/2412.19483v1)|null|
-|**2024-12-26**|**BeSplat -- Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370v1](http://arxiv.org/abs/2412.19370v1)|null|
+|**2024-12-26**|**BeSplat: Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370v2](http://arxiv.org/abs/2412.19370v2)|null|
 |**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149v1](http://arxiv.org/abs/2412.19149v1)|**[link](https://github.com/liguohao96/egg3d)**|
 |**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130v1](http://arxiv.org/abs/2412.19130v1)|null|
 |**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089v1](http://arxiv.org/abs/2412.19089v1)|null|
@@ -72,5 +73,4 @@ layout: default
 |**2024-12-16**|**GS-ProCams: Gaussian Splatting-based Projector-Camera Systems**|Qingyue Deng et.al.|[2412.11762v1](http://arxiv.org/abs/2412.11762v1)|null|
 |**2024-12-16**|**SweepEvGS: Event-Based 3D Gaussian Splatting for Macro and Micro Radiance Field Rendering from a Single Sweep**|Jingqian Wu et.al.|[2412.11579v1](http://arxiv.org/abs/2412.11579v1)|null|
 |**2024-12-16**|**Sequence Matters: Harnessing Video Models in 3D Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525v3](http://arxiv.org/abs/2412.11525v3)|null|
-|**2024-12-16**|**VRVVC: Variable-Rate NeRF-Based Volumetric Video Compression**|Qiang Hu et.al.|[2412.11362v1](http://arxiv.org/abs/2412.11362v1)|null|
 
