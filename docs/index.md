@@ -43,6 +43,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-22**|**Neural Radiance Fields for the Real World: A Survey**|Wenhui Xiao et.al.|[2501.13104v1](http://arxiv.org/abs/2501.13104v1)|null|
+|**2025-01-22**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637v1](http://arxiv.org/abs/2501.12637v1)|null|
 |**2025-01-21**|**DNRSelect: Active Best View Selection for Deferred Neural Rendering**|Dongli Wu et.al.|[2501.12150v1](http://arxiv.org/abs/2501.12150v1)|null|
 |**2025-01-21**|**Fast Underwater Scene Reconstruction using Multi-View Stereo and Physical Imaging**|Shuyi Hu et.al.|[2501.11884v1](http://arxiv.org/abs/2501.11884v1)|null|
 |**2025-01-19**|**RDG-GS: Relative Depth Guidance with Gaussian Splatting for Real-time Sparse-View 3D Rendering**|Chenlu Zhan et.al.|[2501.11102v1](http://arxiv.org/abs/2501.11102v1)|null|
@@ -71,6 +73,4 @@ layout: default
 |**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483v1](http://arxiv.org/abs/2412.19483v1)|null|
 |**2024-12-26**|**BeSplat: Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370v2](http://arxiv.org/abs/2412.19370v2)|null|
 |**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149v1](http://arxiv.org/abs/2412.19149v1)|**[link](https://github.com/liguohao96/egg3d)**|
-|**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130v1](http://arxiv.org/abs/2412.19130v1)|null|
-|**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089v1](http://arxiv.org/abs/2412.19089v1)|null|
 
