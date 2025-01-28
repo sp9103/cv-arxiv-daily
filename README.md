@@ -39,6 +39,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312v1](http://arxiv.org/abs/2501.16312v1)|null|
 |**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646v1](http://arxiv.org/abs/2501.14646v1)|null|
 |**2025-01-22**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971v1](http://arxiv.org/abs/2501.13971v1)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
 |**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402v1](http://arxiv.org/abs/2501.13402v1)|null|
@@ -68,5 +69,4 @@
 |**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605v1](http://arxiv.org/abs/2501.03605v1)|**[link](https://github.com/zxk1212/concealgs)**|
 |**2025-01-07**|**TexHOI: Reconstructing Textures of 3D Unknown Objects in Monocular Hand-Object Interaction Scenes**|Alakh Aggarwal et.al.|[2501.03525v1](http://arxiv.org/abs/2501.03525v1)|**[link](https://github.com/alakhag/texhoi)**|
 |**2025-01-06**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807v2](http://arxiv.org/abs/2501.02807v2)|null|
-|**2024-12-29**|**Bringing Objects to Life: 4D generation from 3D objects**|Ohad Rahamim et.al.|[2412.20422v1](http://arxiv.org/abs/2412.20422v1)|null|
 
