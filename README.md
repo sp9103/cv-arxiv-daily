@@ -39,6 +39,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression**|Feifei Li et.al.|[2502.04843v1](http://arxiv.org/abs/2502.04843v1)|null|
+|**2025-02-07**|**SC-OmniGS: Self-Calibrating Omnidirectional Gaussian Splatting**|Huajian Huang et.al.|[2502.04734v1](http://arxiv.org/abs/2502.04734v1)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657v1](http://arxiv.org/abs/2502.02657v1)|null|
 |**2025-02-04**|**MaintaAvatar: A Maintainable Avatar Based on Neural Radiance Fields by Continual Learning**|Shengbo Gu et.al.|[2502.02372v1](http://arxiv.org/abs/2502.02372v1)|null|
 |**2025-02-04**|**Geometric Neural Process Fields**|Wenzhe Yin et.al.|[2502.02338v1](http://arxiv.org/abs/2502.02338v1)|null|
@@ -67,6 +69,4 @@
 |**2025-01-15**|**Scalable and High-Quality Neural Implicit Representation for 3D Reconstruction**|Leyuan Yang et.al.|[2501.08577v1](http://arxiv.org/abs/2501.08577v1)|null|
 |**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286v1](http://arxiv.org/abs/2501.08286v1)|null|
 |**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072v1](http://arxiv.org/abs/2501.08072v1)|null|
-|**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015v2](http://arxiv.org/abs/2501.07015v2)|null|
-|**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927v2](http://arxiv.org/abs/2501.06927v2)|**[link](https://github.com/openinterx/culture3d)**|
 
