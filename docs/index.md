@@ -43,6 +43,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-09**|**PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map**|Yue Pan et.al.|[2502.05752v1](http://arxiv.org/abs/2502.05752v1)|null|
+|**2025-02-08**|**GWRF: A Generalizable Wireless Radiance Field for Wireless Signal Propagation Modeling**|Kang Yang et.al.|[2502.05708v1](http://arxiv.org/abs/2502.05708v1)|null|
+|**2025-02-05**|**VistaFlow: Photorealistic Volumetric Reconstruction with Dynamic Resolution Management via Q-Learning**|Jayram Palamadai et.al.|[2502.05222v1](http://arxiv.org/abs/2502.05222v1)|null|
 |**2025-02-07**|**PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression**|Feifei Li et.al.|[2502.04843v1](http://arxiv.org/abs/2502.04843v1)|null|
 |**2025-02-07**|**SC-OmniGS: Self-Calibrating Omnidirectional Gaussian Splatting**|Huajian Huang et.al.|[2502.04734v1](http://arxiv.org/abs/2502.04734v1)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657v1](http://arxiv.org/abs/2502.02657v1)|null|
@@ -70,7 +73,4 @@ layout: default
 |**2025-01-17**|**Surface-SOS: Self-Supervised Object Segmentation via Neural Surface Representation**|Xiaoyun Zheng et.al.|[2501.09947v1](http://arxiv.org/abs/2501.09947v1)|**[link](https://github.com/zhengxyun/surface-sos)**|
 |**2025-01-16**|**Normal-NeRF: Ambiguity-Robust Normal Estimation for Highly Reflective Scenes**|Ji Shi et.al.|[2501.09460v1](http://arxiv.org/abs/2501.09460v1)|**[link](https://github.com/sjj118/normal-nerf)**|
 |**2025-01-15**|**SLC$^2$-SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**|Yuhang Ming et.al.|[2501.08880v1](http://arxiv.org/abs/2501.08880v1)|null|
-|**2025-01-15**|**Scalable and High-Quality Neural Implicit Representation for 3D Reconstruction**|Leyuan Yang et.al.|[2501.08577v1](http://arxiv.org/abs/2501.08577v1)|null|
-|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286v1](http://arxiv.org/abs/2501.08286v1)|null|
-|**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072v1](http://arxiv.org/abs/2501.08072v1)|null|
 
