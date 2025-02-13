@@ -43,6 +43,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**Sat-DN: Implicit Surface Reconstruction from Multi-View Satellite Images with Depth and Normal Supervision**|Tianle Liu et.al.|[2502.08352v1](http://arxiv.org/abs/2502.08352v1)|null|
 |**2025-02-11**|**Flow Distillation Sampling: Regularizing 3D Gaussians with Pre-trained Matching Priors**|Lin-Zhuo Chen et.al.|[2502.07615v1](http://arxiv.org/abs/2502.07615v1)|null|
 |**2025-02-10**|**PrismAvatar: Real-time animated 3D neural head avatars on edge devices**|Prashant Raina et.al.|[2502.07030v1](http://arxiv.org/abs/2502.07030v1)|null|
 |**2025-02-10**|**Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC**|Siwei Meng et.al.|[2502.07007v1](http://arxiv.org/abs/2502.07007v1)|null|
@@ -72,5 +73,4 @@ layout: default
 |**2025-01-21**|**DNRSelect: Active Best View Selection for Deferred Neural Rendering**|Dongli Wu et.al.|[2501.12150v1](http://arxiv.org/abs/2501.12150v1)|null|
 |**2025-01-21**|**Fast Underwater Scene Reconstruction using Multi-View Stereo and Physical Imaging**|Shuyi Hu et.al.|[2501.11884v1](http://arxiv.org/abs/2501.11884v1)|null|
 |**2025-01-19**|**RDG-GS: Relative Depth Guidance with Gaussian Splatting for Real-time Sparse-View 3D Rendering**|Chenlu Zhan et.al.|[2501.11102v1](http://arxiv.org/abs/2501.11102v1)|null|
-|**2025-01-17**|**Surface-SOS: Self-Supervised Object Segmentation via Neural Surface Representation**|Xiaoyun Zheng et.al.|[2501.09947v1](http://arxiv.org/abs/2501.09947v1)|**[link](https://github.com/zhengxyun/surface-sos)**|
 
