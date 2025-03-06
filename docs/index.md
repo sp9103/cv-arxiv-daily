@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.05
+## Updated on 2025.03.06
 
 ## 6DOF Object Pose
 
@@ -55,7 +55,7 @@ layout: default
 |**2025-03-01**|**Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups**|Nicholas Pfaff et.al.|[2503.00370v1](http://arxiv.org/abs/2503.00370v1)|null|
 |**2025-02-26**|**Glad: A Streaming Scene Generator for Autonomous Driving**|Bin Xie et.al.|[2503.00045v1](http://arxiv.org/abs/2503.00045v1)|null|
 |**2025-02-28**|**EndoPBR: Material and Lighting Estimation for Photorealistic Surgical Simulations via Physically-based Rendering**|John J. Han et.al.|[2502.20669v1](http://arxiv.org/abs/2502.20669v1)|null|
-|**2025-02-27**|**InsTaG: Learning Personalized 3D Talking Head from Few-Second Video**|Jiahe Li et.al.|[2502.20387v1](http://arxiv.org/abs/2502.20387v1)|null|
+|**2025-02-27**|**InsTaG: Learning Personalized 3D Talking Head from Few-Second Video**|Jiahe Li et.al.|[2502.20387v1](http://arxiv.org/abs/2502.20387v1)|**[link](https://github.com/Fictionarry/InsTaG)**|
 |**2025-02-27**|**Identity-preserving Distillation Sampling by Fixed-Point Iterator**|SeonHwa Kim et.al.|[2502.19930v1](http://arxiv.org/abs/2502.19930v1)|null|
 |**2025-02-27**|**NeRFCom: Feature Transform Coding Meets Neural Radiance Field for Free-View 3D Scene Semantic Transmission**|Weijie Yue et.al.|[2502.19873v1](http://arxiv.org/abs/2502.19873v1)|null|
 |**2025-02-26**|**Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**|Muhammad Salman Ali et.al.|[2502.19457v1](http://arxiv.org/abs/2502.19457v1)|null|
