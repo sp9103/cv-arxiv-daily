@@ -1,4 +1,4 @@
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 
 ## 6DOF Object Pose
 
@@ -32,7 +32,7 @@
 |**2024-12-05**|**Targeted Hard Sample Synthesis Based on Estimated Pose and Occlusion Error for Improved Object Pose Estimation**|Alan Li et.al.|[2412.04279v2](http://arxiv.org/abs/2412.04279v2)|null|
 |**2024-12-02**|**6DOPE-GS: Online 6D Object Pose Estimation using Gaussian Splatting**|Yufeng Jin et.al.|[2412.01543v1](http://arxiv.org/abs/2412.01543v1)|null|
 |**2024-12-01**|**Particle-based 6D Object Pose Estimation from Point Clouds using Diffusion Models**|Christian Möller et.al.|[2412.00835v1](http://arxiv.org/abs/2412.00835v1)|**[link](https://github.com/zitronian/6dposediffusion)**|
-|**2024-11-29**|**Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling**|Qirui Wu et.al.|[2411.19492v1](http://arxiv.org/abs/2411.19492v1)|null|
+|**2024-11-29**|**Diorama: Unleashing Zero-shot Single-view 3D Indoor Scene Modeling**|Qirui Wu et.al.|[2411.19492v2](http://arxiv.org/abs/2411.19492v2)|null|
 |**2024-11-28**|**HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos**|Prithviraj Banerjee et.al.|[2411.19167v1](http://arxiv.org/abs/2411.19167v1)|null|
 
 ## NeRF
