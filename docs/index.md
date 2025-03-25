@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**Any6D: Model-free 6D Pose Estimation of Novel Objects**|Taeyeop Lee et.al.|[2503.18673v1](http://arxiv.org/abs/2503.18673v1)|null|
+|**2025-03-22**|**Co-op: Correspondence-based Novel Object Pose Estimation**|Sungphill Moon et.al.|[2503.17731v1](http://arxiv.org/abs/2503.17731v1)|null|
 |**2025-03-19**|**GIVEPose: Gradual Intra-class Variation Elimination for RGB-based Category-Level Object Pose Estimation**|Zinqin Huang et.al.|[2503.15110v2](http://arxiv.org/abs/2503.15110v2)|**[link](https://github.com/ziqin-h/givepose)**|
 |**2025-03-18**|**Learning Shape-Independent Transformation via Spherical Representations for Category-Level Object Pose Estimation**|Huan Ren et.al.|[2503.13926v2](http://arxiv.org/abs/2503.13926v2)|null|
 |**2025-03-17**|**UniHOPE: A Unified Approach for Hand-Only and Hand-Object Pose Estimation**|Yinqiao Wang et.al.|[2503.13303v1](http://arxiv.org/abs/2503.13303v1)|null|
@@ -36,13 +38,18 @@ layout: default
 |**2024-12-31**|**A Novel Convolution and Attention Mechanism-based Model for 6D Object Pose Estimation**|Alexander Du et.al.|[2501.01993v1](http://arxiv.org/abs/2501.01993v1)|null|
 |**2024-12-30**|**ReFlow6D: Refraction-Guided Transparent Object 6D Pose Estimation via Intermediate Representation Learning**|Hrishikesh Gupta et.al.|[2412.20830v1](http://arxiv.org/abs/2412.20830v1)|**[link](https://github.com/stoicgilgamesh/matting_rendering)**|
 |**2024-12-18**|**Level-Set Parameters: Novel Representation for 3D Shape Analysis**|Huan Lei et.al.|[2412.13502v1](http://arxiv.org/abs/2412.13502v1)|null|
-|**2024-12-16**|**Category Level 6D Object Pose Estimation from a Single RGB Image using Diffusion**|Adam Bethell et.al.|[2412.11420v1](http://arxiv.org/abs/2412.11420v1)|null|
-|**2024-12-05**|**Targeted Hard Sample Synthesis Based on Estimated Pose and Occlusion Error for Improved Object Pose Estimation**|Alan Li et.al.|[2412.04279v2](http://arxiv.org/abs/2412.04279v2)|null|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794v1](http://arxiv.org/abs/2503.18794v1)|null|
+|**2025-03-24**|**LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**|Xiaoyu Zhang et.al.|[2503.18513v1](http://arxiv.org/abs/2503.18513v1)|null|
+|**2025-03-24**|**NeRFPrior: Learning Neural Radiance Field as a Prior for Indoor Scene Reconstruction**|Wenyuan Zhang et.al.|[2503.18361v1](http://arxiv.org/abs/2503.18361v1)|null|
+|**2025-03-23**|**End-to-End Implicit Neural Representations for Classification**|Alexander Gielisse et.al.|[2503.18123v1](http://arxiv.org/abs/2503.18123v1)|null|
+|**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108v1](http://arxiv.org/abs/2503.18108v1)|null|
+|**2025-03-23**|**PanopticSplatting: End-to-End Panoptic Gaussian Splatting**|Yuxuan Xie et.al.|[2503.18073v1](http://arxiv.org/abs/2503.18073v1)|null|
+|**2025-03-21**|**Splat-LOAM: Gaussian Splatting LiDAR Odometry and Mapping**|Emanuele Giacomini et.al.|[2503.17491v1](http://arxiv.org/abs/2503.17491v1)|null|
 |**2025-03-21**|**FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields**|Kwan Yun et.al.|[2503.17095v1](http://arxiv.org/abs/2503.17095v1)|**[link](https://github.com/kwanyun/FFaceNeRF)**|
 |**2025-03-21**|**DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**|Jiadong Tang et.al.|[2503.16964v1](http://arxiv.org/abs/2503.16964v1)|null|
 |**2025-03-20**|**Digitally Prototype Your Eye Tracker: Simulating Hardware Performance using 3D Synthetic Data**|Esther Y. H. Lin et.al.|[2503.16742v1](http://arxiv.org/abs/2503.16742v1)|null|
@@ -66,11 +73,4 @@ layout: default
 |**2025-03-15**|**FA-BARF: Frequency Adapted Bundle-Adjusting Neural Radiance Fields**|Rui Qian et.al.|[2503.12086v1](http://arxiv.org/abs/2503.12086v1)|null|
 |**2025-03-15**|**3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction**|Peizhen Zheng et.al.|[2503.12001v2](http://arxiv.org/abs/2503.12001v2)|**[link](https://github.com/thinkxca/3dgs)**|
 |**2025-03-14**|**Industrial-Grade Sensor Simulation via Gaussian Splatting: A Modular Framework for Scalable Editing and Full-Stack Validation**|Xianming Zeng et.al.|[2503.11731v1](http://arxiv.org/abs/2503.11731v1)|null|
-|**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604v1](http://arxiv.org/abs/2503.10604v1)|null|
-|**2025-03-13**|**Flow-NeRF: Joint Learning of Geometry, Poses, and Dense Flow within Unified Neural Representations**|Xunzhi Zheng et.al.|[2503.10464v1](http://arxiv.org/abs/2503.10464v1)|null|
-|**2025-03-13**|**AI-assisted 3D Preservation and Reconstruction of Temple Arts**|Naai-Jung Shih et.al.|[2503.10031v1](http://arxiv.org/abs/2503.10031v1)|null|
-|**2025-03-11**|**FPGS: Feed-Forward Semantic-aware Photorealistic Style Transfer of Large-Scale Gaussian Splatting**|GeonU Kim et.al.|[2503.09635v1](http://arxiv.org/abs/2503.09635v1)|null|
-|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464v1](http://arxiv.org/abs/2503.09464v1)|null|
-|**2025-03-11**|**GAS-NeRF: Geometry-Aware Stylization of Dynamic Radiance Fields**|Nhat Phuong Anh Vu et.al.|[2503.08483v1](http://arxiv.org/abs/2503.08483v1)|null|
-|**2025-03-11**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317v3](http://arxiv.org/abs/2503.08317v3)|null|
 
