@@ -1,4 +1,4 @@
-## Updated on 2025.03.26
+## Updated on 2025.03.27
 
 ## 6DOF Object Pose
 
@@ -39,7 +39,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-25**|**A Survey on Event-driven 3D Reconstruction: Development under Different Categories**|Chuanzhi Xu et.al.|[2503.19753v1](http://arxiv.org/abs/2503.19753v1)|null|
+|**2025-03-25**|**A Survey on Event-driven 3D Reconstruction: Development under Different Categories**|Chuanzhi Xu et.al.|[2503.19753v2](http://arxiv.org/abs/2503.19753v2)|null|
 |**2025-03-25**|**MultimodalStudio: A Heterogeneous Sensor Dataset and Framework for Neural Rendering across Multiple Imaging Modalities**|Federico Lincetto et.al.|[2503.19673v1](http://arxiv.org/abs/2503.19673v1)|null|
 |**2025-03-25**|**SINR: Sparsity Driven Compressed Implicit Neural Representations**|Dhananjaya Jayasundara et.al.|[2503.19576v1](http://arxiv.org/abs/2503.19576v1)|null|
 |**2025-03-25**|**EmoHead: Emotional Talking Head via Manipulating Semantic Expression Parameters**|Xuli Shen et.al.|[2503.19416v1](http://arxiv.org/abs/2503.19416v1)|null|
