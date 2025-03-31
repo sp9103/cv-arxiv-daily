@@ -39,6 +39,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**ABC-GS: Alignment-Based Controllable Style Transfer for 3D Gaussian Splatting**|Wenjie Liu et.al.|[2503.22218v1](http://arxiv.org/abs/2503.22218v1)|null|
+|**2025-03-27**|**NeRF-based Point Cloud Reconstruction using a Stationary Camera for Agricultural Applications**|Kibon Ku et.al.|[2503.21958v1](http://arxiv.org/abs/2503.21958v1)|null|
+|**2025-03-27**|**Refined Geometry-guided Head Avatar Reconstruction from Monocular RGB Video**|Pilseo Park et.al.|[2503.21886v1](http://arxiv.org/abs/2503.21886v1)|null|
 |**2025-03-27**|**HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**|Ziren Gong et.al.|[2503.21778v1](http://arxiv.org/abs/2503.21778v1)|null|
 |**2025-03-27**|**RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting**|Qiyu Dai et.al.|[2503.21442v1](http://arxiv.org/abs/2503.21442v1)|null|
 |**2025-03-27**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364v2](http://arxiv.org/abs/2503.21364v2)|null|
@@ -66,7 +69,4 @@
 |**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908v1](http://arxiv.org/abs/2503.15908v1)|null|
 |**2025-03-19**|**SPNeRF: Open Vocabulary 3D Neural Scene Segmentation with Superpoints**|Weiwen Hu et.al.|[2503.15712v1](http://arxiv.org/abs/2503.15712v1)|null|
 |**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667v1](http://arxiv.org/abs/2503.15667v1)|**[link](https://github.com/freedomgu/diffportrait360)**|
-|**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211v1](http://arxiv.org/abs/2503.15211v1)|null|
-|**2025-03-19**|**MultiBARF: Integrating Imagery of Different Wavelength Regions by Using Neural Radiance Fields**|Kana Kurata et.al.|[2503.15070v1](http://arxiv.org/abs/2503.15070v1)|null|
-|**2025-03-19**|**3D Engine-ready Photorealistic Avatars via Dynamic Textures**|Yifan Wang et.al.|[2503.14943v1](http://arxiv.org/abs/2503.14943v1)|null|
 
