@@ -8,9 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**BoxDreamer: Dreaming Box Corners for Generalizable Object Pose Estimation**|Yuanhong Yu et.al.|[2504.07955v1](http://arxiv.org/abs/2504.07955v1)|null|
+|**2025-04-09**|**DLTPose: 6DoF Pose Estimation From Accurate Dense Surface Point Estimates**|Akash Jadhav et.al.|[2504.07335v1](http://arxiv.org/abs/2504.07335v1)|null|
 |**2025-04-09**|**GraspClutter6D: A Large-scale Real-world Dataset for Robust Perception and Grasping in Cluttered Scenes**|Seunghyeok Back et.al.|[2504.06866v1](http://arxiv.org/abs/2504.06866v1)|null|
 |**2025-04-03**|**BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation**|Van Nguyen Nguyen et.al.|[2504.02812v1](http://arxiv.org/abs/2504.02812v1)|null|
-|**2025-04-03**|**PicoPose: Progressive Pixel-to-Pixel Correspondence Learning for Novel Object Pose Estimation**|Lihua Liu et.al.|[2504.02617v1](http://arxiv.org/abs/2504.02617v1)|null|
+|**2025-04-03**|**PicoPose: Progressive Pixel-to-Pixel Correspondence Learning for Novel Object Pose Estimation**|Lihua Liu et.al.|[2504.02617v1](http://arxiv.org/abs/2504.02617v1)|**[link](https://github.com/foollh/picopose)**|
 |**2025-03-30**|**PhysPose: Refining 6D Object Poses with Physical Constraints**|Martin Malenický et.al.|[2503.23587v1](http://arxiv.org/abs/2503.23587v1)|null|
 |**2025-03-27**|**OccRobNet : Occlusion Robust Network for Accurate 3D Interacting Hand-Object Pose Estimation**|Mallika Garg et.al.|[2503.21723v1](http://arxiv.org/abs/2503.21723v1)|null|
 |**2025-03-25**|**Vanishing Depth: A Depth Adapter with Positional Depth Encoding for Generalized Image Encoders**|Paul Koch et.al.|[2503.19947v1](http://arxiv.org/abs/2503.19947v1)|**[link](https://github.com/KochPJ/vanishing-depth)**|
@@ -36,8 +38,6 @@ layout: default
 |**2025-02-17**|**Enhancing Transparent Object Pose Estimation: A Fusion of GDR-Net and Edge Detection**|Tessa Pulli et.al.|[2502.12027v1](http://arxiv.org/abs/2502.12027v1)|null|
 |**2025-02-14**|**HIPPo: Harnessing Image-to-3D Priors for Model-free Zero-shot 6D Pose Estimation**|Yibo Liu et.al.|[2502.10606v1](http://arxiv.org/abs/2502.10606v1)|null|
 |**2025-02-06**|**GCE-Pose: Global Context Enhancement for Category-level Object Pose Estimation**|Weihang Li et.al.|[2502.04293v1](http://arxiv.org/abs/2502.04293v1)|null|
-|**2025-02-04**|**Diff9D: Diffusion-Based Domain-Generalized Category-Level 9-DoF Object Pose Estimation**|Jian Liu et.al.|[2502.02525v1](http://arxiv.org/abs/2502.02525v1)|**[link](https://github.com/cnjianliu/diff9d)**|
-|**2025-02-03**|**CleanPose: Category-Level Object Pose Estimation via Causal Learning and Knowledge Distillation**|Xiao Lin et.al.|[2502.01312v1](http://arxiv.org/abs/2502.01312v1)|null|
 
 ## NeRF
 
