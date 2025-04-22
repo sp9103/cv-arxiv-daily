@@ -1,4 +1,4 @@
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 
 ## 6DOF Object Pose
 
@@ -45,7 +45,7 @@
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946v1](http://arxiv.org/abs/2504.11946v1)|null|
 |**2025-04-15**|**Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A systematic literature review**|Yuezhe Yang et.al.|[2504.11349v1](http://arxiv.org/abs/2504.11349v1)|**[link](https://github.com/bean-young/ai4med)**|
 |**2025-04-15**|**3D Gabor Splatting: Reconstruction of High-frequency Surface Texture using Gabor Noise**|Haato Watanabe et.al.|[2504.11003v1](http://arxiv.org/abs/2504.11003v1)|null|
-|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331v2](http://arxiv.org/abs/2504.10331v2)|null|
+|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331v3](http://arxiv.org/abs/2504.10331v3)|null|
 |**2025-04-14**|**Relative Illumination Fields: Learning Medium and Light Independent Underwater Scenes**|Mengkun She et.al.|[2504.10024v1](http://arxiv.org/abs/2504.10024v1)|null|
 |**2025-04-14**|**MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling**|Yunpeng Tan et.al.|[2504.09878v1](http://arxiv.org/abs/2504.09878v1)|null|
 |**2025-04-14**|**NeRF-Based Transparent Object Grasping Enhanced by Shape Priors**|Yi Han et.al.|[2504.09868v1](http://arxiv.org/abs/2504.09868v1)|null|
