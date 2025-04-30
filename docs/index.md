@@ -43,6 +43,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496v1](http://arxiv.org/abs/2504.20496v1)|null|
+|**2025-04-29**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379v1](http://arxiv.org/abs/2504.20379v1)|null|
+|**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378v1](http://arxiv.org/abs/2504.20378v1)|null|
 |**2025-04-28**|**LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields**|Zhengqin Li et.al.|[2504.20026v1](http://arxiv.org/abs/2504.20026v1)|null|
 |**2025-04-28**|**Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video**|Hoang Chuong Nguyen et.al.|[2504.19819v1](http://arxiv.org/abs/2504.19819v1)|null|
 |**2025-04-28**|**ShowMak3r: Compositional TV Show Reconstruction**|Sangmin Kim et.al.|[2504.19584v1](http://arxiv.org/abs/2504.19584v1)|null|
@@ -70,7 +73,4 @@ layout: default
 |**2025-04-14**|**MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling**|Yunpeng Tan et.al.|[2504.09878v1](http://arxiv.org/abs/2504.09878v1)|null|
 |**2025-04-14**|**NeRF-Based Transparent Object Grasping Enhanced by Shape Priors**|Yi Han et.al.|[2504.09868v1](http://arxiv.org/abs/2504.09868v1)|null|
 |**2025-04-12**|**Text To 3D Object Generation For Scalable Room Assembly**|Sonia Laguna et.al.|[2504.09328v1](http://arxiv.org/abs/2504.09328v1)|null|
-|**2025-04-11**|**HAL-NeRF: High Accuracy Localization Leveraging Neural Radiance Fields**|Asterios Reppas et.al.|[2504.08901v1](http://arxiv.org/abs/2504.08901v1)|null|
-|**2025-04-11**|**FMLGS: Fast Multilevel Language Embedded Gaussians for Part-level Interactive Agents**|Xin Tan et.al.|[2504.08581v1](http://arxiv.org/abs/2504.08581v1)|null|
-|**2025-04-11**|**Generative AI for Film Creation: A Survey of Recent Advances**|Ruihan Zhang et.al.|[2504.08296v1](http://arxiv.org/abs/2504.08296v1)|null|
 
