@@ -43,6 +43,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-04**|**Sparfels: Fast Reconstruction from Sparse Unposed Imagery**|Shubhendu Jena et.al.|[2505.02178v1](http://arxiv.org/abs/2505.02178v1)|null|
+|**2025-05-04**|**HandOcc: NeRF-based Hand Rendering with Occupancy Networks**|Maksym Ivashechkin et.al.|[2505.02079v1](http://arxiv.org/abs/2505.02079v1)|null|
+|**2025-05-04**|**Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**|Zhenxing Mi et.al.|[2505.02005v1](http://arxiv.org/abs/2505.02005v1)|null|
+|**2025-05-03**|**Visual enhancement and 3D representation for underwater scenes: a review**|Guoxi Huang et.al.|[2505.01869v1](http://arxiv.org/abs/2505.01869v1)|null|
+|**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799v1](http://arxiv.org/abs/2505.01799v1)|null|
+|**2025-05-03**|**Unified Steganography via Implicit Neural Representation**|Qi Song et.al.|[2505.01749v1](http://arxiv.org/abs/2505.01749v1)|null|
 |**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737v1](http://arxiv.org/abs/2505.00737v1)|null|
 |**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378v1](http://arxiv.org/abs/2505.00378v1)|null|
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067v1](http://arxiv.org/abs/2504.21067v1)|null|
@@ -55,7 +61,7 @@ layout: default
 |**2025-04-27**|**Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users**|Apurv Varshney et.al.|[2504.19345v1](http://arxiv.org/abs/2504.19345v1)|null|
 |**2025-04-27**|**IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165v2](http://arxiv.org/abs/2504.19165v2)|null|
 |**2025-04-26**|**TransparentGS: Fast Inverse Rendering of Transparent Objects with Gaussians**|Letian Huang et.al.|[2504.18768v2](http://arxiv.org/abs/2504.18768v2)|null|
-|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v2](http://arxiv.org/abs/2504.18468v2)|null|
+|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v3](http://arxiv.org/abs/2504.18468v3)|null|
 |**2025-04-23**|**Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning**|Mingxuan Cui et.al.|[2504.17815v1](http://arxiv.org/abs/2504.17815v1)|**[link](https://github.com/Aswhalefall/VISTA)**|
 |**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728v1](http://arxiv.org/abs/2504.17728v1)|null|
 |**2025-04-24**|**When Gaussian Meets Surfel: Ultra-fast High-fidelity Radiance Field Rendering**|Keyang Ye et.al.|[2504.17545v1](http://arxiv.org/abs/2504.17545v1)|null|
@@ -66,11 +72,5 @@ layout: default
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281v1](http://arxiv.org/abs/2504.15281v1)|null|
 |**2025-04-18**|**Scaling LLaNA: Advancing NeRF-Language Understanding Through Large-Scale Training**|Andrea Amaduzzi et.al.|[2504.13995v1](http://arxiv.org/abs/2504.13995v1)|null|
 |**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713v2](http://arxiv.org/abs/2504.13713v2)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
-|**2025-04-16**|**BEV-GS: Feed-forward Gaussian Splatting in Bird's-Eye-View for Road Reconstruction**|Wenhua Wu et.al.|[2504.13207v1](http://arxiv.org/abs/2504.13207v1)|null|
 |**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999v1](http://arxiv.org/abs/2504.12999v1)|null|
-|**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946v1](http://arxiv.org/abs/2504.11946v1)|null|
-|**2025-04-15**|**Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A systematic literature review**|Yuezhe Yang et.al.|[2504.11349v1](http://arxiv.org/abs/2504.11349v1)|**[link](https://github.com/bean-young/ai4med)**|
-|**2025-04-15**|**3D Gabor Splatting: Reconstruction of High-frequency Surface Texture using Gabor Noise**|Haato Watanabe et.al.|[2504.11003v1](http://arxiv.org/abs/2504.11003v1)|null|
-|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331v3](http://arxiv.org/abs/2504.10331v3)|null|
-|**2025-04-14**|**Relative Illumination Fields: Learning Medium and Light Independent Underwater Scenes**|Mengkun She et.al.|[2504.10024v1](http://arxiv.org/abs/2504.10024v1)|null|
 
