@@ -1,4 +1,4 @@
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 
 ## 6DOF Object Pose
 
@@ -56,7 +56,7 @@
 |**2025-05-26**|**K-Buffers: A Plug-in Method for Enhancing Neural Fields with Multiple Buffers**|Haofan Ren et.al.|[2505.19564v1](http://arxiv.org/abs/2505.19564v1)|**[link](https://github.com/renhaofan/k-buffers)**|
 |**2025-05-26**|**ADD-SLAM: Adaptive Dynamic Dense SLAM with Gaussian Splatting**|Wenhua Wu et.al.|[2505.19420v1](http://arxiv.org/abs/2505.19420v1)|null|
 |**2025-05-25**|**Triangle Splatting for Real-Time Radiance Field Rendering**|Jan Held et.al.|[2505.19175v1](http://arxiv.org/abs/2505.19175v1)|null|
-|**2025-05-23**|**CTRL-GS: Cascaded Temporal Residue Learning for 4D Gaussian Splatting**|Karly Hou et.al.|[2505.18306v1](http://arxiv.org/abs/2505.18306v1)|null|
+|**2025-05-23**|**CTRL-GS: Cascaded Temporal Residue Learning for 4D Gaussian Splatting**|Karly Hou et.al.|[2505.18306v2](http://arxiv.org/abs/2505.18306v2)|null|
 |**2025-05-22**|**Seeing through Satellite Images at Street Views**|Ming Qian et.al.|[2505.17001v1](http://arxiv.org/abs/2505.17001v1)|null|
 |**2025-05-22**|**UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**|Desiree Fisker et.al.|[2505.16912v1](http://arxiv.org/abs/2505.16912v1)|null|
 |**2025-05-22**|**SHaDe: Compact and Consistent Dynamic 3D Reconstruction via Tri-Plane Deformation and Latent Diffusion**|Asrar Alruwayqi et.al.|[2505.16535v1](http://arxiv.org/abs/2505.16535v1)|null|
