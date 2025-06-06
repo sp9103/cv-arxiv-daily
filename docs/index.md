@@ -43,6 +43,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Defurnishing with X-Ray Vision: Joint Removal of Furniture from Panoramas and Mesh**|Alan Dolhasz et.al.|[2506.05338v1](http://arxiv.org/abs/2506.05338v1)|null|
+|**2025-06-05**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317v1](http://arxiv.org/abs/2506.05317v1)|null|
+|**2025-06-05**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280v1](http://arxiv.org/abs/2506.05280v1)|null|
+|**2025-06-05**|**Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer**|Filip Slezak et.al.|[2506.04908v1](http://arxiv.org/abs/2506.04908v1)|null|
+|**2025-06-04**|**HuGeDiff: 3D Human Generation via Diffusion with Gaussian Splatting**|Maksym Ivashechkin et.al.|[2506.04351v1](http://arxiv.org/abs/2506.04351v1)|null|
 |**2025-06-02**|**RadarSplat: Radar Gaussian Splatting for High-Fidelity Data Synthesis and 3D Reconstruction of Autonomous Driving Scenes**|Pou-Chun Kung et.al.|[2506.01379v1](http://arxiv.org/abs/2506.01379v1)|null|
 |**2025-06-01**|**CountingFruit: Real-Time 3D Fruit Counting with Language-Guided Semantic Gaussian Splatting**|Fengze Li et.al.|[2506.01109v1](http://arxiv.org/abs/2506.01109v1)|null|
 |**2025-05-30**|**Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments**|Jiawei Hou et.al.|[2506.00083v1](http://arxiv.org/abs/2506.00083v1)|null|
@@ -68,9 +73,4 @@ layout: default
 |**2025-05-22**|**UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**|Desiree Fisker et.al.|[2505.16912v1](http://arxiv.org/abs/2505.16912v1)|null|
 |**2025-05-22**|**SHaDe: Compact and Consistent Dynamic 3D Reconstruction via Tri-Plane Deformation and Latent Diffusion**|Asrar Alruwayqi et.al.|[2505.16535v1](http://arxiv.org/abs/2505.16535v1)|null|
 |**2025-05-19**|**IPENS:Interactive Unsupervised Framework for Rapid Plant Phenotyping Extraction via NeRF-SAM2 Fusion**|Wentao Song et.al.|[2505.13633v1](http://arxiv.org/abs/2505.13633v1)|null|
-|**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875v1](http://arxiv.org/abs/2505.12875v1)|null|
-|**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384v1](http://arxiv.org/abs/2505.12384v1)|null|
-|**2025-05-16**|**Exploiting Radiance Fields for Grasp Generation on Novel Synthetic Views**|Abhishek Kashyap et.al.|[2505.11467v1](http://arxiv.org/abs/2505.11467v1)|null|
-|**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386v1](http://arxiv.org/abs/2505.11386v1)|null|
-|**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787v1](http://arxiv.org/abs/2505.10787v1)|**[link](https://github.com/scut-bip-lab/ea-3dgs)**|
 
