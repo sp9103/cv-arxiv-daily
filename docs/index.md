@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References**|Ming-Feng Li et.al.|[2506.07996v1](http://arxiv.org/abs/2506.07996v1)|null|
+|**2025-06-08**|**GoTrack: Generic 6DoF Object Pose Refinement and Tracking**|Van Nguyen Nguyen et.al.|[2506.07155v1](http://arxiv.org/abs/2506.07155v1)|null|
 |**2025-06-06**|**You Only Estimate Once: Unified, One-stage, Real-Time Category-level Articulated Object 6D Pose Estimation for Robotic Grasping**|Jingshun Huang et.al.|[2506.05719v1](http://arxiv.org/abs/2506.05719v1)|null|
 |**2025-05-31**|**XYZ-IBD: High-precision Bin-picking Dataset for Object 6D Pose Estimation Capturing Real-world Industrial Complexity**|Junwen Huang et.al.|[2506.00599v1](http://arxiv.org/abs/2506.00599v1)|null|
 |**2025-05-30**|**Category-Level 6D Object Pose Estimation in Agricultural Settings Using a Lattice-Deformation Framework and Diffusion-Augmented Synthetic Data**|Marios Glytsos et.al.|[2505.24636v1](http://arxiv.org/abs/2505.24636v1)|null|
@@ -36,13 +38,17 @@ layout: default
 |**2025-03-18**|**Learning Shape-Independent Transformation via Spherical Representations for Category-Level Object Pose Estimation**|Huan Ren et.al.|[2503.13926v2](http://arxiv.org/abs/2503.13926v2)|null|
 |**2025-03-17**|**UniHOPE: A Unified Approach for Hand-Only and Hand-Object Pose Estimation**|Yinqiao Wang et.al.|[2503.13303v1](http://arxiv.org/abs/2503.13303v1)|null|
 |**2025-03-17**|**Uncertainty-Aware Knowledge Distillation for Compact and Efficient 6DoF Pose Estimation**|Nassim Ali Ousalah et.al.|[2503.13053v1](http://arxiv.org/abs/2503.13053v1)|null|
-|**2025-03-10**|**Multi-Modal 3D Mesh Reconstruction from Images and Text**|Melvin Reka et.al.|[2503.07190v1](http://arxiv.org/abs/2503.07190v1)|null|
-|**2025-03-09**|**AxisPose: Model-Free Matching-Free Single-Shot 6D Object Pose Estimation via Axis Generation**|Yang Zou et.al.|[2503.06660v1](http://arxiv.org/abs/2503.06660v1)|null|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Squeeze3D: Your 3D Generation Model is Secretly an Extreme Neural Compressor**|Rishit Dagli et.al.|[2506.07932v1](http://arxiv.org/abs/2506.07932v1)|null|
+|**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917v1](http://arxiv.org/abs/2506.07917v1)|null|
+|**2025-06-09**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497v1](http://arxiv.org/abs/2506.07497v1)|null|
+|**2025-06-07**|**SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**|Sumit Sharma et.al.|[2506.06890v1](http://arxiv.org/abs/2506.06890v1)|null|
+|**2025-06-06**|**Splat and Replace: 3D Reconstruction with Repetitive Elements**|Nicolás Violante et.al.|[2506.06462v1](http://arxiv.org/abs/2506.06462v1)|null|
+|**2025-06-06**|**NeurNCD: Novel Class Discovery via Implicit Neural Representation**|Junming Wang et.al.|[2506.06412v1](http://arxiv.org/abs/2506.06412v1)|null|
 |**2025-06-06**|**Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**|Mingrui Li et.al.|[2506.05965v1](http://arxiv.org/abs/2506.05965v1)|null|
 |**2025-06-05**|**On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images**|Andreas Meuleman et.al.|[2506.05558v1](http://arxiv.org/abs/2506.05558v1)|null|
 |**2025-06-05**|**Layered Motion Fusion: Lifting Motion Segmentation to 3D in Egocentric Videos**|Vadim Tschernezki et.al.|[2506.05546v1](http://arxiv.org/abs/2506.05546v1)|null|
@@ -67,10 +73,4 @@ layout: default
 |**2025-05-26**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883v2](http://arxiv.org/abs/2505.19883v2)|null|
 |**2025-05-26**|**FruitNeRF++: A Generalized Multi-Fruit Counting Method Utilizing Contrastive Learning and Neural Radiance Fields**|Lukas Meyer et.al.|[2505.19863v1](http://arxiv.org/abs/2505.19863v1)|**[link](https://github.com/meyerls/fruitnerfpp)**|
 |**2025-05-26**|**GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**|You Wang et.al.|[2505.19813v1](http://arxiv.org/abs/2505.19813v1)|**[link](https://github.com/klmav-cuc/golf-nrt)**|
-|**2025-05-26**|**Depth-Guided Bundle Sampling for Efficient Generalizable Neural Radiance Field Reconstruction**|Li Fang et.al.|[2505.19793v1](http://arxiv.org/abs/2505.19793v1)|**[link](https://github.com/klmav-cuc/gdb-nerf)**|
-|**2025-05-26**|**K-Buffers: A Plug-in Method for Enhancing Neural Fields with Multiple Buffers**|Haofan Ren et.al.|[2505.19564v1](http://arxiv.org/abs/2505.19564v1)|**[link](https://github.com/renhaofan/k-buffers)**|
-|**2025-05-26**|**ADD-SLAM: Adaptive Dynamic Dense SLAM with Gaussian Splatting**|Wenhua Wu et.al.|[2505.19420v1](http://arxiv.org/abs/2505.19420v1)|null|
-|**2025-05-25**|**Triangle Splatting for Real-Time Radiance Field Rendering**|Jan Held et.al.|[2505.19175v1](http://arxiv.org/abs/2505.19175v1)|null|
-|**2025-05-23**|**CTRL-GS: Cascaded Temporal Residue Learning for 4D Gaussian Splatting**|Karly Hou et.al.|[2505.18306v2](http://arxiv.org/abs/2505.18306v2)|null|
-|**2025-05-22**|**Seeing through Satellite Images at Street Views**|Ming Qian et.al.|[2505.17001v1](http://arxiv.org/abs/2505.17001v1)|null|
 
