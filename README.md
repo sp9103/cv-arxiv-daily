@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**Occlusion-Aware 3D Hand-Object Pose Estimation with Masked AutoEncoders**|Hui Yang et.al.|[2506.10816v1](http://arxiv.org/abs/2506.10816v1)|null|
+|**2025-06-12**|**In-Hand Object Pose Estimation via Visual-Tactile Fusion**|Felix Nonnengießer et.al.|[2506.10787v1](http://arxiv.org/abs/2506.10787v1)|null|
 |**2025-06-09**|**UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References**|Ming-Feng Li et.al.|[2506.07996v1](http://arxiv.org/abs/2506.07996v1)|null|
 |**2025-06-08**|**GoTrack: Generic 6DoF Object Pose Refinement and Tracking**|Van Nguyen Nguyen et.al.|[2506.07155v1](http://arxiv.org/abs/2506.07155v1)|null|
 |**2025-06-06**|**You Only Estimate Once: Unified, One-stage, Real-Time Category-level Articulated Object 6D Pose Estimation for Robotic Grasping**|Jingshun Huang et.al.|[2506.05719v1](http://arxiv.org/abs/2506.05719v1)|null|
@@ -32,13 +34,12 @@
 |**2025-03-22**|**Co-op: Correspondence-based Novel Object Pose Estimation**|Sungphill Moon et.al.|[2503.17731v1](http://arxiv.org/abs/2503.17731v1)|null|
 |**2025-03-19**|**GIVEPose: Gradual Intra-class Variation Elimination for RGB-based Category-Level Object Pose Estimation**|Zinqin Huang et.al.|[2503.15110v2](http://arxiv.org/abs/2503.15110v2)|**[link](https://github.com/ziqin-h/givepose)**|
 |**2025-03-18**|**Learning Shape-Independent Transformation via Spherical Representations for Category-Level Object Pose Estimation**|Huan Ren et.al.|[2503.13926v2](http://arxiv.org/abs/2503.13926v2)|null|
-|**2025-03-17**|**UniHOPE: A Unified Approach for Hand-Only and Hand-Object Pose Estimation**|Yinqiao Wang et.al.|[2503.13303v1](http://arxiv.org/abs/2503.13303v1)|null|
-|**2025-03-17**|**Uncertainty-Aware Knowledge Distillation for Compact and Efficient 6DoF Pose Estimation**|Nassim Ali Ousalah et.al.|[2503.13053v1](http://arxiv.org/abs/2503.13053v1)|null|
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting**|Lintao Xiang et.al.|[2506.10335v1](http://arxiv.org/abs/2506.10335v1)|null|
 |**2025-06-11**|**The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge**|Haoru Wang et.al.|[2506.09885v1](http://arxiv.org/abs/2506.09885v1)|null|
 |**2025-06-11**|**Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS**|Tao Wang et.al.|[2506.09534v1](http://arxiv.org/abs/2506.09534v1)|null|
 |**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619v1](http://arxiv.org/abs/2506.08619v1)|null|
@@ -68,5 +69,4 @@
 |**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335v1](http://arxiv.org/abs/2505.21335v1)|null|
 |**2025-05-27**|**Wideband RF Radiance Field Modeling Using Frequency-embedded 3D Gaussian Splatting**|Zechen Li et.al.|[2505.20714v1](http://arxiv.org/abs/2505.20714v1)|**[link](https://github.com/sim-2-real/wideband3dgs)**|
 |**2025-05-26**|**Total-Editing: Head Avatar with Editable Appearance, Motion, and Lighting**|Yizhou Zhao et.al.|[2505.20582v1](http://arxiv.org/abs/2505.20582v1)|null|
-|**2025-05-26**|**Stochastic Preconditioning for Neural Field Optimization**|Selena Ling et.al.|[2505.20473v1](http://arxiv.org/abs/2505.20473v1)|null|
 
