@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 
 ## 6DOF Object Pose
 
@@ -22,7 +22,7 @@ layout: default
 |**2025-05-07**|**One2Any: One-Reference 6D Pose Estimation for Any Object**|Mengya Liu et.al.|[2505.04109v1](http://arxiv.org/abs/2505.04109v1)|null|
 |**2025-04-28**|**Category-Level and Open-Set Object Pose Estimation for Robotics**|Peter Hönig et.al.|[2504.19572v1](http://arxiv.org/abs/2504.19572v1)|null|
 |**2025-04-24**|**Object Pose Estimation by Camera Arm Control Based on the Next Viewpoint Estimation**|Tomoki Mizuno et.al.|[2504.17424v1](http://arxiv.org/abs/2504.17424v1)|null|
-|**2025-04-21**|**Instance-Adaptive Keypoint Learning with Local-to-Global Geometric Aggregation for Category-Level Object Pose Estimation**|Xiao Zhang et.al.|[2504.15134v2](http://arxiv.org/abs/2504.15134v2)|null|
+|**2025-04-21**|**Instance-Adaptive Keypoint Learning with Local-to-Global Geometric Aggregation for Category-Level Object Pose Estimation**|Xiao Zhang et.al.|[2504.15134v3](http://arxiv.org/abs/2504.15134v3)|null|
 |**2025-04-17**|**ViTa-Zero: Zero-shot Visuotactile Object 6D Pose Estimation**|Hongyu Li et.al.|[2504.13179v1](http://arxiv.org/abs/2504.13179v1)|null|
 |**2025-04-14**|**MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model**|Jian Liu et.al.|[2504.10433v1](http://arxiv.org/abs/2504.10433v1)|**[link](https://github.com/cnjianliu/monodiff9d)**|
 |**2025-04-12**|**SCFlow2: Plug-and-Play Object Pose Refiner with Shape-Constraint Scene Flow**|Qingyuan Wang et.al.|[2504.09160v1](http://arxiv.org/abs/2504.09160v1)|null|
@@ -46,7 +46,7 @@ layout: default
 |**2025-06-16**|**GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2506.14009v1](http://arxiv.org/abs/2506.14009v1)|null|
 |**2025-06-16**|**Multiview Geometric Regularization of Gaussian Splatting for Accurate Radiance Fields**|Jungeon Kim et.al.|[2506.13508v1](http://arxiv.org/abs/2506.13508v1)|null|
 |**2025-06-16**|**TextureSplat: Per-Primitive Texture Mapping for Reflective Gaussian Splatting**|Mae Younes et.al.|[2506.13348v1](http://arxiv.org/abs/2506.13348v1)|null|
-|**2025-06-15**|**Rasterizing Wireless Radiance Field via Deformable 2D Gaussian Splatting**|Mufan Liu et.al.|[2506.12787v1](http://arxiv.org/abs/2506.12787v1)|null|
+|**2025-06-15**|**Rasterizing Wireless Radiance Field via Deformable 2D Gaussian Splatting**|Mufan Liu et.al.|[2506.12787v2](http://arxiv.org/abs/2506.12787v2)|null|
 |**2025-06-15**|**Efficient multi-view training for 3D Gaussian Splatting**|Minhyuk Choi et.al.|[2506.12727v2](http://arxiv.org/abs/2506.12727v2)|null|
 |**2025-06-12**|**PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting**|Lintao Xiang et.al.|[2506.10335v1](http://arxiv.org/abs/2506.10335v1)|null|
 |**2025-06-11**|**The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge**|Haoru Wang et.al.|[2506.09885v1](http://arxiv.org/abs/2506.09885v1)|null|
