@@ -1,4 +1,4 @@
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 
 ## 6DOF Object Pose
 
@@ -60,7 +60,7 @@
 |**2025-06-06**|**NeurNCD: Novel Class Discovery via Implicit Neural Representation**|Junming Wang et.al.|[2506.06412v1](http://arxiv.org/abs/2506.06412v1)|null|
 |**2025-06-06**|**Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**|Mingrui Li et.al.|[2506.05965v1](http://arxiv.org/abs/2506.05965v1)|null|
 |**2025-06-05**|**On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images**|Andreas Meuleman et.al.|[2506.05558v1](http://arxiv.org/abs/2506.05558v1)|null|
-|**2025-06-05**|**Layered Motion Fusion: Lifting Motion Segmentation to 3D in Egocentric Videos**|Vadim Tschernezki et.al.|[2506.05546v1](http://arxiv.org/abs/2506.05546v1)|null|
+|**2025-06-05**|**Layered Motion Fusion: Lifting Motion Segmentation to 3D in Egocentric Videos**|Vadim Tschernezki et.al.|[2506.05546v2](http://arxiv.org/abs/2506.05546v2)|null|
 |**2025-06-05**|**Defurnishing with X-Ray Vision: Joint Removal of Furniture from Panoramas and Mesh**|Alan Dolhasz et.al.|[2506.05338v2](http://arxiv.org/abs/2506.05338v2)|null|
 |**2025-06-05**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317v2](http://arxiv.org/abs/2506.05317v2)|null|
 |**2025-06-05**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280v2](http://arxiv.org/abs/2506.05280v2)|**[link](https://github.com/bigcileng/bilateral-driving)**|
