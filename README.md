@@ -39,15 +39,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987v1](http://arxiv.org/abs/2507.09987v1)|null|
+|**2025-07-12**|**Stable Score Distillation**|Haiming Zhu et.al.|[2507.09168v1](http://arxiv.org/abs/2507.09168v1)|null|
+|**2025-07-11**|**From images to properties: a NeRF-driven framework for granular material parameter inversion**|Cheng-Hsi Hsiao et.al.|[2507.09005v1](http://arxiv.org/abs/2507.09005v1)|null|
 |**2025-07-11**|**RePaintGS: Reference-Guided Gaussian Splatting for Realistic and View-Consistent 3D Scene Inpainting**|Ji Hyun Seo et.al.|[2507.08434v1](http://arxiv.org/abs/2507.08434v1)|null|
 |**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519v1](http://arxiv.org/abs/2507.07519v1)|null|
 |**2025-07-09**|**Enhancing non-Rigid 3D Model Deformations Using Mesh-based Gaussian Splatting**|Wijayathunga W. M. R. D. B et.al.|[2507.07000v1](http://arxiv.org/abs/2507.07000v1)|null|
-|**2025-07-08**|**A Probabilistic Approach to Uncertainty Quantification Leveraging 3D Geometry**|Rushil Desai et.al.|[2507.06269v1](http://arxiv.org/abs/2507.06269v1)|null|
+|**2025-07-08**|**BayesSDF: Surface-Based Laplacian Uncertainty Estimation for 3D Geometry with Neural Signed Distance Fields**|Rushil Desai et.al.|[2507.06269v2](http://arxiv.org/abs/2507.06269v2)|null|
 |**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103v1](http://arxiv.org/abs/2507.06103v1)|null|
 |**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763v1](http://arxiv.org/abs/2507.05763v1)|null|
 |**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408v1](http://arxiv.org/abs/2507.04408v1)|null|
 |**2025-07-05**|**ArmGS: Composite Gaussian Appearance Refinement for Modeling Dynamic Urban Environments**|Guile Wu et.al.|[2507.03886v1](http://arxiv.org/abs/2507.03886v1)|null|
-|**2025-06-23**|**Advancing Talking Head Generation: A Comprehensive Survey of Multi-Modal Methodologies, Datasets, Evaluation Metrics, and Loss Functions**|Vineet Kumar Rakesh et.al.|[2507.02900v1](http://arxiv.org/abs/2507.02900v1)|null|
 |**2025-07-03**|**LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling**|Jiahao Wu et.al.|[2507.02363v1](http://arxiv.org/abs/2507.02363v1)|null|
 |**2025-07-02**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631v1](http://arxiv.org/abs/2507.01631v1)|null|
 |**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969v1](http://arxiv.org/abs/2507.00969v1)|null|
@@ -67,6 +69,4 @@
 |**2025-06-24**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[2506.19615v2](http://arxiv.org/abs/2506.19615v2)|null|
 |**2025-06-24**|**HoliGS: Holistic Gaussian Splatting for Embodied View Synthesis**|Xiaoyuan Wang et.al.|[2506.19291v1](http://arxiv.org/abs/2506.19291v1)|null|
 |**2025-06-23**|**MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation**|Tianchen Deng et.al.|[2506.18678v1](http://arxiv.org/abs/2506.18678v1)|null|
-|**2025-06-23**|**2D Triangle Splatting for Direct Differentiable Mesh Training**|Kaifeng Sheng et.al.|[2506.18575v2](http://arxiv.org/abs/2506.18575v2)|**[link](https://github.com/GaodeRender/triangle-splatting)**|
-|**2025-06-22**|**Limitations of NERF with pre-trained Vision Features for Few-Shot 3D Reconstruction**|Ankit Sanjyal et.al.|[2506.18208v1](http://arxiv.org/abs/2506.18208v1)|null|
 
