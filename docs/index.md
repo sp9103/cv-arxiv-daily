@@ -43,6 +43,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-19**|**DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF**|Doriand Petit et.al.|[2507.14596v1](http://arxiv.org/abs/2507.14596v1)|null|
+|**2025-07-19**|**Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**|Jiahui Zhang et.al.|[2507.14501v1](http://arxiv.org/abs/2507.14501v1)|null|
 |**2025-07-18**|**TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views**|Hsiang-Hui Hung et.al.|[2507.13929v1](http://arxiv.org/abs/2507.13929v1)|null|
 |**2025-07-18**|**Neural-GASh: A CGA-based neural radiance prediction pipeline for real-time shading**|Efstratios Geronikolakis et.al.|[2507.13917v1](http://arxiv.org/abs/2507.13917v1)|null|
 |**2025-07-18**|**EPSilon: Efficient Point Sampling for Lightening of Hybrid-based 3D Avatar Generation**|Seungjun Moon et.al.|[2507.13648v1](http://arxiv.org/abs/2507.13648v1)|null|
@@ -71,6 +73,4 @@ layout: default
 |**2025-06-30**|**OcRFDet: Object-Centric Radiance Fields for Multi-View 3D Object Detection in Autonomous Driving**|Mingqian Ji et.al.|[2506.23565v1](http://arxiv.org/abs/2506.23565v1)|null|
 |**2025-06-29**|**Dynamic View Synthesis from Small Camera Motion Videos**|Huiqiang Sun et.al.|[2506.23153v1](http://arxiv.org/abs/2506.23153v1)|null|
 |**2025-06-28**|**SemFaceEdit: Semantic Face Editing on Generative Radiance Manifolds**|Shashikant Verma et.al.|[2506.22833v1](http://arxiv.org/abs/2506.22833v1)|null|
-|**2025-06-27**|**WarpRF: Multi-View Consistency for Training-Free Uncertainty Quantification and Applications in Radiance Fields**|Sadra Safadoust et.al.|[2506.22433v1](http://arxiv.org/abs/2506.22433v1)|null|
-|**2025-06-27**|**UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields**|Fabian Perez et.al.|[2506.21884v1](http://arxiv.org/abs/2506.21884v1)|null|
 
